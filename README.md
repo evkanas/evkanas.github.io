@@ -4,10 +4,13 @@ Microsoft Dynamics 365 Business Central / NAV Developer with over 10 years of ER
 
 ## Portfolio
 
-Public Microsoft Dynamics 365 Business Central AL portfolio projects:
+## Selected Projects
 
-- [BC Azure Invoice Archive](https://github.com/evkanas/bc-azure-invoice-archive)
-- [BC Reconciliation Acts](https://github.com/evkanas/bc-reconciliation-acts)
+- [BC Azure Invoice Archive](https://github.com/evkanas/bc-azure-invoice-archive)  
+  Business Central AL portfolio project for emailing posted sales invoices and archiving invoice documents to Azure Blob Storage.
+
+- [BC Reconciliation Acts](https://github.com/evkanas/bc-reconciliation-acts)  
+  Business Central AL portfolio project for generating customer and vendor reconciliation statements.
 
 ## Expertise
 
