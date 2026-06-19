@@ -2,8 +2,6 @@
 
 Microsoft Dynamics 365 Business Central / NAV Developer with over 10 years of ERP development experience.
 
-## Portfolio
-
 ## Selected Projects
 
 - [BC Azure Invoice Archive](https://github.com/evkanas/bc-azure-invoice-archive)  
