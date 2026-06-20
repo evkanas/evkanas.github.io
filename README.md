@@ -28,8 +28,8 @@ Microsoft Dynamics 365 Business Central / NAV Developer with over 10 years of ER
 
 ## Profiles
 
-- [GitHub](https://github.com/evkanas)
-- [LinkedIn](https://www.linkedin.com/in/evaldas-jablonskas-5b45a794/)
+- [Evaldas Jablonskas on GitHub](https://github.com/evkanas)
+- [Evaldas Jablonskas on LinkedIn](https://www.linkedin.com/in/evaldas-jablonskas-5b45a794/)
 
 ## Technical Articles
 
