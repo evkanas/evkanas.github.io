@@ -6,6 +6,8 @@ Microsoft Dynamics 365 Business Central / NAV Developer with over 10 years of ER
 
 ## Selected Projects
 
+- [Lithuanian IBAN Bank Account Autofill](https://github.com/evkanas/business-central-lithuanian-iban-bank-account-autofill)  
+  Business Central AL portfolio project for autofilling customer and vendor bank account cards from Lithuanian IBAN bank codes.
 - [BC Azure Invoice Archive](https://github.com/evkanas/bc-azure-invoice-archive)  
   Business Central AL portfolio project for emailing posted sales invoices and archiving invoice documents to Azure Blob Storage.
 
