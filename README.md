@@ -30,3 +30,9 @@ Microsoft Dynamics 365 Business Central / NAV Developer with over 10 years of ER
 
 - [GitHub](https://github.com/evkanas)
 - [LinkedIn](https://www.linkedin.com/in/evaldas-jablonskas-5b45a794/)
+
+## Technical Articles
+
+Technical notes by **Evaldas Jablonskas** about Microsoft Dynamics 365 Business Central, AL development, and portfolio projects.
+
+* Business Central Lithuanian IBAN Bank Account Autofill
