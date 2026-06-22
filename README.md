@@ -1,14 +1,6 @@
-<table>
-  <tr>
-    <td width="130" valign="top">
-      <img src="evaldas-jablonskas-business-central-developer.jpg" alt="Evaldas Jablonskas Business Central and Dynamics NAV developer" width="120">
-    </td>
-    <td valign="top">
-      <h1>Evaldas Jablonskas</h1>
-      <p>Microsoft Dynamics 365 Business Central / NAV Developer with over 10 years of ERP development experience.</p>
-    </td>
-  </tr>
-</table>
+# Evaldas Jablonskas
+
+Microsoft Dynamics 365 Business Central / NAV Developer with over 10 years of ERP development experience.
 
 ![Evaldas Jablonskas – Microsoft Dynamics 365 Business Central / NAV Developer portfolio](evaldas-jablonskas-business-central-portfolio.png)
 
