@@ -1,0 +1,9 @@
+title: Evaldas Jablonskas
+description: Microsoft Dynamics 365 Business Central / NAV Developer
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
