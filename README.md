@@ -36,3 +36,10 @@ Microsoft Dynamics 365 Business Central / NAV Developer with over 10 years of ER
 Technical notes by **Evaldas Jablonskas** about Microsoft Dynamics 365 Business Central, AL development, and portfolio projects.
 
 * Business Central Lithuanian IBAN Bank Account Autofill
+
+## Professional Community and Team Events
+
+Public moments from professional community and team activities related to my work environment.
+
+- [OIXIO Team Kayaking Event](oixio-team-kayaking-event/)
+- [OIXIO Team Trip to Turkey](oixio-team-trip-turkey/)
