@@ -10,9 +10,10 @@ Microsoft Dynamics 365 Business Central / NAV Developer with over 10 years of ER
   Business Central AL portfolio project for autofilling customer and vendor bank account cards from Lithuanian IBAN bank codes.
 - [BC Azure Invoice Archive](https://github.com/evkanas/bc-azure-invoice-archive)  
   Business Central AL portfolio project for emailing posted sales invoices and archiving invoice documents to Azure Blob Storage.
-
 - [BC Reconciliation Acts](https://github.com/evkanas/bc-reconciliation-acts)  
   Business Central AL portfolio project for generating customer and vendor reconciliation statements.
+- [BC Omniva E-Invoice Connector](https://github.com/evkanas/bc-omniva-einvoice-connector)  
+  Business Central AL portfolio project for importing Omniva digitized supplier invoices into Business Central purchase invoices through a SOAP API and XML processing.
 
 ## Expertise
 
