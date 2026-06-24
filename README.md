@@ -44,3 +44,11 @@ Public moments from professional community and team activities related to my wor
 
 - [OIXIO Team Kayaking Event](oixio-team-kayaking-event/)
 - [OIXIO Team Trip to Turkey](oixio-team-trip-turkey/)
+
+## Informacija lietuviškai
+
+Esu Microsoft Dynamics 365 Business Central ir Dynamics NAV programuotojas, dirbantis su AL ir C/AL programavimu, ataskaitomis, integracijomis, duomenų apdorojimu ir verslo procesų automatizavimu.
+
+Praktinė patirtis apima Business Central ir NAV funkcionalumo pritaikymą pagal įmonės poreikius: RDLC ir Excel ataskaitas, sąskaitų importą, el. sąskaitas, banko duomenų apdorojimą, pirkėjų ir tiekėjų likučių derinimą, skolų suderinimo aktus, dokumentų apdorojimą, sandėlio procesus ir individualius sistemos pakeitimus.
+
+Dirbu tiek su naujesniais Business Central AL sprendimais, tiek su senesnėmis Dynamics NAV / Navision versijomis, kuriose dažnai reikalingi C/AL pakeitimai, ataskaitų koregavimas, veikimo optimizavimas ar integracijų pritaikymas.
