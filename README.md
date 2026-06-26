@@ -34,9 +34,10 @@ Microsoft Dynamics 365 Business Central / NAV Developer with over 10 years of ER
 
 ## Technical Articles
 
-Technical notes by **Evaldas Jablonskas** about Microsoft Dynamics 365 Business Central, AL development, and portfolio projects.
+Technical notes and portfolio articles by **Evaldas Jablonskas** about Microsoft Dynamics 365 Business Central, Dynamics NAV, AL development, integrations, reporting, and process automation.
 
-* Business Central Lithuanian IBAN Bank Account Autofill
+- [Business Central Lithuanian IBAN Bank Account Autofill – automatinis banko duomenų užpildymas pagal IBAN](business-central-lithuanian-iban-bank-account-autofill/)  
+  Lietuviškas Business Central AL portfolio straipsnis apie automatinį pirkėjų ir tiekėjų banko sąskaitų duomenų užpildymą pagal lietuviško IBAN banko kodą.
 
 ## Professional Community and Team Events
 
