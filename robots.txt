@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://evaldasjablonskas.lt/sitemap.xml
