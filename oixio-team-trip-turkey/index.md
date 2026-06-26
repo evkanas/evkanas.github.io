@@ -8,4 +8,6 @@ Evaldas Jablonskas participated in this team activity together with OIXIO collea
 
 This is a personal portfolio note and not an official OIXIO company page.
 
+---
+
 [← Back to portfolio](https://evaldasjablonskas.lt/)
