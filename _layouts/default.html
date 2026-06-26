@@ -5,6 +5,7 @@
   <title>{{ page.title | default: site.title }}</title>
   <meta name="description" content="{{ site.description }}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="canonical" href="{{ page.url | replace: 'index.html', '' | absolute_url }}">
 
   <link rel="icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
   <link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
