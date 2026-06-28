@@ -118,7 +118,7 @@ date: 2026-06-28
 # Business Central Lithuanian IBAN Bank Account Autofill
 
 <p class="iban-autofill-date">
-  Projekto versija: 2026-06-28
+  Atnaujinta: 2026-06-28
 </p>
 
 **Automatinis banko duomenų užpildymas pagal lietuvišką IBAN**
