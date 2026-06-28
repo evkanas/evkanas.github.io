@@ -1,10 +1,10 @@
 ---
-
 layout: default
 title: "EVK Solution Agent – DI agentas el. laiškų ir tekstų analizei"
 description: "EVK Solution Agent – Evaldo Jablonsko eksperimentinis DI / AI agentas, skirtas el. laiškų ir tekstų analizei, faktų ištraukimui bei atsakymų paruošimui."
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
+<style>
 <style>
 .evk-agent-hero {
   display: grid;
