@@ -5,7 +5,6 @@ description: "EVK Solution Agent – Evaldo Jablonsko eksperimentinis DI / AI ag
 ---
 
 <style>
-<style>
 .evk-agent-hero {
   display: grid;
   grid-template-columns: minmax(280px, 520px) 1fr;
