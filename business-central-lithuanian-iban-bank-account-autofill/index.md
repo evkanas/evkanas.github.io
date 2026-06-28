@@ -1,7 +1,7 @@
 # Business Central Lithuanian IBAN Bank Account Autofill – automatinis banko duomenų užpildymas pagal IBAN
 
 ![Evaldas Jablonskas Business Central AL developer portfolio project showing Lithuanian IBAN bank account autofill extension](evaldas-jablonskas-business-central-lithuanian-iban-bank-account-autofill.png)
-
+*Evaldas Jablonskas Business Central AL developer portfolio project showing Lithuanian IBAN bank account autofill extension*
 *Business Central AL extension pavyzdys: banko duomenų automatinis užpildymas pagal lietuvišką IBAN.*
 
 Šį portfolio projektą sukūrė **Evaldas Jablonskas** – Microsoft Dynamics 365 Business Central / NAV programuotojas, dirbantis su AL development, integracijomis, ataskaitomis ir verslo procesų automatizavimu.
