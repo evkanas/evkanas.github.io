@@ -2,8 +2,8 @@
 layout: default
 title: "EVK Solution Agent – DI agentas el. laiškų ir tekstų analizei"
 description: "EVK Solution Agent – Evaldo Jablonsko eksperimentinis DI / AI agentas, skirtas el. laiškų ir tekstų analizei, faktų ištraukimui bei atsakymų paruošimui."
+date: 2026-06-28
 ---
-
 <style>
 .evk-agent-hero {
   display: grid;
@@ -71,9 +71,19 @@ description: "EVK Solution Agent – Evaldo Jablonsko eksperimentinis DI / AI ag
     grid-template-columns: 1fr;
   }
 }
+.evk-agent-date {
+  color: #57606a;
+  font-size: 0.95em;
+  margin-top: -8px;
+  margin-bottom: 24px;
+}
 </style>
 
 # EVK Solution Agent
+
+<p class="evk-agent-date">
+  Idėjos versija: 2026-06-28
+</p>
 
 **DI agentas el. laiškų ir tekstų analizei**
 
@@ -87,8 +97,8 @@ EVK Solution Agent – eksperimentinis **DI / AI agentas**, skirtas el. laiškų
     <img
       class="evk-agent-portrait"
       src="/evk-solution-agent/evaldas-jablonskas-evk-solution-agent-di-agentas.webp"
-      alt="Evaldas Jablonskas EVK Solution Agent – DI agentas el. laiškų ir tekstų analizei"
-      title="Evaldas Jablonskas EVK Solution Agent – DI agentas"
+      alt="Evaldas Jablonskas EVK Solution Agent - DI agentas el. laiškų ir tekstų analizei"
+      title="Evaldas Jablonskas EVK Solution Agent - DI agentas"
     >
     <figcaption>
       <strong>Evaldas Jablonskas – EVK Solution Agent.</strong> Eksperimentinis DI / AI agentas el. laiškų ir tekstų analizei, faktų ištraukimui ir atsakymų paruošimui.
