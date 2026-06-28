@@ -3,8 +3,7 @@ layout: default
 title: "Business Central Lithuanian IBAN Bank Account Autofill – automatinis banko duomenų užpildymas pagal IBAN"
 description: "Business Central Lithuanian IBAN Bank Account Autofill – Evaldo Jablonsko Microsoft Dynamics 365 Business Central AL extension portfolio projektas, skirtas automatiniam pirkėjų ir tiekėjų banko duomenų užpildymui pagal lietuvišką IBAN."
 date: 2026-06-28
-----------------
-
+---
 <style>
 .iban-autofill-hero {
   display: grid;
