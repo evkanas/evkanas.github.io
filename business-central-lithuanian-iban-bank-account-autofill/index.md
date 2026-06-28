@@ -188,20 +188,6 @@ Pagal šį kodą Business Central ieško įrašo `EVK Bank Directory` kataloge. 
   IBAN → banko kodas → EVK Bank Directory → Customer / Vendor Bank Account
 </div>
 
-## Techninė schema
-
-<figure class="iban-autofill-tech-figure">
-  <img
-    class="iban-autofill-tech-image"
-    src="/business-central-lithuanian-iban-bank-account-autofill/evaldas-jablonskas-business-central-lithuanian-iban-bank-account-autofill.png"
-    alt="Evaldas Jablonskas Business Central AL developer portfolio project showing Lithuanian IBAN bank account autofill extension"
-    title="Business Central Lithuanian IBAN Bank Account Autofill technical scheme"
-  >
-  <figcaption>
-    <strong>Business Central Lithuanian IBAN Bank Account Autofill techninė schema.</strong> IBAN numeris naudojamas banko kodui nustatyti, o banko rekvizitai automatiškai užpildomi iš EVK Bank Directory katalogo.
-  </figcaption>
-</figure>
-
 ## Kokius duomenis užpildo?
 
 Pagal bankų katalogo įrašą extension gali užpildyti šiuos `Customer Bank Account` arba `Vendor Bank Account` laukus:
