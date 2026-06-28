@@ -1,96 +1,257 @@
-# Business Central Lithuanian IBAN Bank Account Autofill – automatinis banko duomenų užpildymas pagal IBAN
+---
+layout: default
+title: "Business Central Lithuanian IBAN Bank Account Autofill – automatinis banko duomenų užpildymas pagal IBAN"
+description: "Business Central Lithuanian IBAN Bank Account Autofill – Evaldo Jablonsko Microsoft Dynamics 365 Business Central AL extension portfolio projektas, skirtas automatiniam pirkėjų ir tiekėjų banko duomenų užpildymui pagal lietuvišką IBAN."
+date: 2026-06-28
+----------------
 
-![Evaldas Jablonskas Business Central AL developer portfolio project showing Lithuanian IBAN bank account autofill extension](evaldas-jablonskas-business-central-lithuanian-iban-bank-account-autofill.png)
-*Evaldas Jablonskas Business Central AL developer portfolio project showing Lithuanian IBAN bank account autofill extension*
+<style>
+.iban-autofill-hero {
+  display: grid;
+  grid-template-columns: minmax(280px, 520px) 1fr;
+  gap: 42px;
+  align-items: center;
+  margin: 32px 0 48px 0;
+}
 
-*Business Central AL extension pavyzdys: banko duomenų automatinis užpildymas pagal lietuvišką IBAN.*
+.iban-autofill-figure {
+  margin: 0;
+}
 
-Šį portfolio projektą sukūrė **Evaldas Jablonskas** – Microsoft Dynamics 365 Business Central / NAV programuotojas, dirbantis su AL development, integracijomis, ataskaitomis ir verslo procesų automatizavimu.
+.iban-autofill-portrait {
+  width: 100%;
+  max-width: 520px;
+  border-radius: 16px;
+  display: block;
+}
 
-**Business Central Lithuanian IBAN Bank Account Autofill** yra praktinis Microsoft Dynamics 365 Business Central AL extension pavyzdys. Projektas skirtas automatiškai užpildyti pirkėjo arba tiekėjo banko sąskaitos duomenis pagal lietuvišką IBAN numerį.
+.iban-autofill-figure figcaption {
+  color: #57606a;
+  font-size: 0.95em;
+  margin-top: 12px;
+  line-height: 1.5;
+}
 
-Sprendimas rodo praktinį Business Central, AL development, page extension, codeunit ir lokalizavimo scenarijaus panaudojimą Lietuvos rinkai.
+.iban-autofill-card {
+  background: #f6f8fa;
+  border: 1px solid #d8dee4;
+  border-radius: 18px;
+  padding: 28px 32px;
+}
 
-## Problema
+.iban-autofill-card h2 {
+  margin-top: 0;
+}
 
-Business Central sistemoje pildant `Customer Bank Account` arba `Vendor Bank Account` kortelę dalį banko duomenų dažnai tenka įvesti rankiniu būdu.
+.iban-autofill-card ul {
+  margin-bottom: 0;
+}
 
-Įprastai reikia pildyti banko pavadinimą, SWIFT kodą, adresą, miestą, pašto kodą ir kitus kontaktinius duomenis. Kai tie patys banko rekvizitai kartojasi daugelyje pirkėjų ar tiekėjų banko sąskaitų, toks rankinis pildymas tampa nepatogus ir didina klaidų tikimybę.
+.iban-autofill-note {
+  background: #f6f8fa;
+  border-left: 4px solid #0969da;
+  padding: 18px 22px;
+  margin: 32px 0;
+  border-radius: 8px;
+}
 
-Lietuviškame IBAN numeryje yra banko kodas, todėl šią informaciją galima panaudoti automatiniam banko duomenų užpildymui.
+.iban-autofill-note p {
+  margin: 0;
+}
 
-## Sprendimo idėja
+.iban-autofill-highlight {
+  background: #f6f8fa;
+  border: 1px solid #d8dee4;
+  border-radius: 14px;
+  padding: 22px 26px;
+  margin: 28px 0;
+}
 
-Šiame projekte sukurtas Business Central AL extension, kuris reaguoja į IBAN lauko pakeitimą `Customer Bank Account` ir `Vendor Bank Account` kortelėse.
+.iban-autofill-flow {
+  background: #f6f8fa;
+  border: 1px solid #d8dee4;
+  border-radius: 14px;
+  padding: 20px 24px;
+  margin: 28px 0;
+  font-size: 1.05em;
+}
 
-Kai vartotojas įveda IBAN numerį, prasidedantį `LT`, sistema iš IBAN paima Lietuvos banko kodą ir pagal jį ieško atitinkamo įrašo `EVK Bank Directory` kataloge.
+.iban-autofill-code {
+  background: #f6f8fa;
+  border: 1px solid #d8dee4;
+  border-radius: 10px;
+  padding: 14px 18px;
+  margin: 18px 0;
+  font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
+}
 
-Jeigu bankas randamas, į banko sąskaitos kortelę automatiškai užpildomi banko rekvizitai.
+.iban-autofill-tech-figure {
+  margin: 36px 0;
+}
 
-Bendra logika:
+.iban-autofill-tech-image {
+  width: 100%;
+  border-radius: 16px;
+  display: block;
+}
 
-```text
-IBAN → banko kodas → EVK Bank Directory → Customer/Vendor Bank Account
-```
+.iban-autofill-tech-figure figcaption {
+  color: #57606a;
+  font-size: 0.95em;
+  margin-top: 12px;
+  line-height: 1.5;
+}
 
-## Kaip veikia
+.iban-autofill-date {
+  color: #57606a;
+  font-size: 0.95em;
+  margin-top: -8px;
+  margin-bottom: 24px;
+}
 
-Lietuviško IBAN pavyzdys:
+@media (max-width: 800px) {
+  .iban-autofill-hero {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
 
-```text
+# Business Central Lithuanian IBAN Bank Account Autofill
+
+<p class="iban-autofill-date">
+  Projekto versija: 2026-06-28
+</p>
+
+**Automatinis banko duomenų užpildymas pagal lietuvišką IBAN**
+
+Business Central Lithuanian IBAN Bank Account Autofill – praktinis **Microsoft Dynamics 365 Business Central AL extension** portfolio projektas.
+
+Šio projekto idėja paprasta: kai vartotojas įveda lietuvišką IBAN numerį, Business Central iš jo paima banko kodą ir automatiškai užpildo pirkėjo arba tiekėjo banko sąskaitos rekvizitus.
+
+<div class="iban-autofill-hero">
+
+  <figure class="iban-autofill-figure">
+    <img
+      class="iban-autofill-portrait"
+      src="/business-central-lithuanian-iban-bank-account-autofill/evaldas-jablonskas-business-central-iban-autofill-portfolio.webp"
+      alt="Evaldas Jablonskas Business Central Lithuanian IBAN Bank Account Autofill portfolio projektas"
+      title="Evaldas Jablonskas Business Central Lithuanian IBAN Bank Account Autofill"
+    >
+    <figcaption>
+      <strong>Evaldas Jablonskas – Business Central Lithuanian IBAN Bank Account Autofill.</strong> Microsoft Dynamics 365 Business Central / NAV programuotojo AL extension portfolio projektas, skirtas automatiniam banko duomenų užpildymui pagal lietuvišką IBAN.
+    </figcaption>
+  </figure>
+
+  <div class="iban-autofill-card">
+    <h2>Ką daro šis extension?</h2>
+    <ul>
+      <li>Nuskaito lietuvišką IBAN numerį</li>
+      <li>Iš IBAN ištraukia Lietuvos banko kodą</li>
+      <li>Ieško banko įrašo EVK Bank Directory kataloge</li>
+      <li>Automatiškai užpildo pirkėjo banko kortelę</li>
+      <li>Automatiškai užpildo tiekėjo banko kortelę</li>
+      <li>Sumažina rankinį duomenų įvedimą ir klaidų tikimybę</li>
+    </ul>
+  </div>
+
+</div>
+
+## Kodėl šis projektas aktualus?
+
+Business Central sistemoje pildant `Customer Bank Account` arba `Vendor Bank Account` kortelę, dalį banko rekvizitų dažnai tenka įvesti rankiniu būdu.
+
+Kai tie patys bankų duomenys kartojasi daugelyje pirkėjų ar tiekėjų kortelių, toks darbas tampa neefektyvus. Vartotojas turi tiksliai įvesti banko pavadinimą, SWIFT kodą, adresą, miestą, pašto kodą ir kitus kontaktinius duomenis.
+
+Lietuviškame IBAN numeryje jau yra banko kodas, todėl šią informaciją galima panaudoti automatiniam banko duomenų užpildymui.
+
+<div class="iban-autofill-note">
+  <p>Lietuviškas IBAN gali būti naudojamas ne tik kaip banko sąskaitos numeris, bet ir kaip praktinis duomenų šaltinis banko kodui nustatyti Business Central sistemoje.</p>
+</div>
+
+## Praktinis veikimo pavyzdys
+
+Vartotojas įveda lietuvišką IBAN numerį:
+
+<div class="iban-autofill-code">
 LT604010051004405214
-```
+</div>
 
 Šiame IBAN banko kodas yra:
 
-```text
+<div class="iban-autofill-code">
 40100
-```
+</div>
 
-Pagal šį kodą ieškoma įrašo `EVK Bank Directory` lentelėje. Kataloge esantis `Bank Branch No.` turi atitikti iš IBAN ištrauktą banko kodą.
+Pagal šį kodą Business Central ieško įrašo `EVK Bank Directory` kataloge. Jeigu bankas randamas, jo rekvizitai automatiškai perkeliami į `Customer Bank Account` arba `Vendor Bank Account` kortelę.
 
-Jeigu toks įrašas randamas, Business Central kortelėje automatiškai užpildomi banko duomenys.
+<div class="iban-autofill-flow">
+  <strong>Veikimo logika:</strong><br>
+  IBAN → banko kodas → EVK Bank Directory → Customer / Vendor Bank Account
+</div>
 
-## Kokie duomenys užpildomi
+## Techninė schema
 
-Pagal bankų katalogo įrašą gali būti užpildomi šie `Customer Bank Account` arba `Vendor Bank Account` laukai:
+<figure class="iban-autofill-tech-figure">
+  <img
+    class="iban-autofill-tech-image"
+    src="/business-central-lithuanian-iban-bank-account-autofill/evaldas-jablonskas-business-central-lithuanian-iban-bank-account-autofill.png"
+    alt="Evaldas Jablonskas Business Central AL developer portfolio project showing Lithuanian IBAN bank account autofill extension"
+    title="Business Central Lithuanian IBAN Bank Account Autofill technical scheme"
+  >
+  <figcaption>
+    <strong>Business Central Lithuanian IBAN Bank Account Autofill techninė schema.</strong> IBAN numeris naudojamas banko kodui nustatyti, o banko rekvizitai automatiškai užpildomi iš EVK Bank Directory katalogo.
+  </figcaption>
+</figure>
 
-- `Bank Branch No.`
-- `SWIFT Code`
-- banko pavadinimas
-- adresas
-- miestas
-- pašto kodas
-- telefono numeris
-- el. paštas
-- svetainė
-- kontaktinis asmuo
+## Kokius duomenis užpildo?
 
-Tai sumažina rankinio darbo kiekį ir padeda palaikyti nuoseklesnius banko rekvizitus skirtingose pirkėjų ir tiekėjų kortelėse.
+Pagal bankų katalogo įrašą extension gali užpildyti šiuos `Customer Bank Account` arba `Vendor Bank Account` laukus:
+
+* `Bank Branch No.`
+* `SWIFT Code`
+* banko pavadinimą;
+* adresą;
+* miestą;
+* pašto kodą;
+* telefono numerį;
+* el. paštą;
+* svetainę;
+* kontaktinį asmenį.
+
+Tai sumažina rankinio darbo kiekį ir padeda palaikyti nuoseklesnius banko rekvizitus skirtingose pirkėjų bei tiekėjų kortelėse.
 
 ## Techninė realizacija
 
 Sprendime verslo logika atskirta nuo vartotojo sąsajos.
 
-`Page extension` objektai naudojami tik tam, kad būtų sureaguota į IBAN lauko pasikeitimą standartinėse Business Central kortelėse. Pati banko kodo ištraukimo, bankų katalogo paieškos ir laukų užpildymo logika iškelta į bendrą `codeunit`.
+`Page extension` objektai naudojami tam, kad būtų sureaguota į IBAN lauko pakeitimą standartinėse Business Central kortelėse:
 
-Toks sprendimas leidžia išvengti logikos dubliavimo, nes `Customer Bank Account` ir `Vendor Bank Account` kortelėse naudojamas tas pats principas.
+* `Customer Bank Account`
+* `Vendor Bank Account`
 
-Jeigu ateityje reikėtų pakeisti IBAN analizavimo taisykles, papildyti užpildomų laukų sąrašą arba pakeisti banko katalogo paiešką, pagrindiniai pakeitimai būtų atliekami vienoje vietoje.
+Pati banko kodo ištraukimo, bankų katalogo paieškos ir laukų užpildymo logika iškelta į bendrą `codeunit`.
 
-## Kodėl nenaudojamas CurrPage.SaveRecord()
+Toks sprendimas leidžia išvengti logikos dubliavimo, nes pirkėjo ir tiekėjo banko sąskaitų kortelėse naudojamas tas pats principas.
 
-Šiame sprendime nenaudojamas `CurrPage.SaveRecord()`.
+<div class="iban-autofill-highlight">
 
-Tai sąmoningas sprendimas, nes automatinis įrašo išsaugojimas lauko validacijos metu gali sukelti nepageidaujamą šalutinį poveikį. Vartotojas dar gali būti neužbaigęs kortelės pildymo, todėl priverstinis įrašo išsaugojimas nebūtų geras sprendimas.
+<strong>Esminė techninė mintis:</strong> vartotojo sąsaja tik sureaguoja į IBAN pakeitimą, o pagrindinė banko duomenų paieškos ir užpildymo logika laikoma atskiroje AL codeunit dalyje.
+
+</div>
+
+## Kodėl nenaudojamas CurrPage.SaveRecord()?
+
+Šiame sprendime sąmoningai nenaudojamas `CurrPage.SaveRecord()`.
+
+Automatinis įrašo išsaugojimas lauko validacijos metu gali sukelti nepageidaujamą šalutinį poveikį. Vartotojas dar gali būti neužbaigęs kortelės pildymo, todėl priverstinis įrašo išsaugojimas nebūtų geras sprendimas.
 
 Extension užpildo reikalingus laukus, o įrašo išsaugojimas paliekamas standartiniam Business Central veikimui ir vartotojo veiksmams.
 
-## Esamo banko sąskaitos kodo neperrašymas
+## Kodėl neperrašomas banko sąskaitos Code laukas?
 
 Projektas nekeičia banko sąskaitos `Code` lauko.
 
-Business Central aplinkoje šis laukas dažnai naudojamas kaip identifikatorius. Įmonės gali turėti savo vidines taisykles, kaip koduojamos pirkėjų ar tiekėjų banko sąskaitos.
+Business Central aplinkoje šis laukas dažnai naudojamas kaip vidinis identifikatorius. Įmonės gali turėti savo taisykles, kaip koduojamos pirkėjų arba tiekėjų banko sąskaitos.
 
 Todėl automatizavimas pildo banko rekvizitus, bet nekeičia vartotojo arba įmonės pasirinkto banko sąskaitos kodo.
 
@@ -98,9 +259,13 @@ Todėl automatizavimas pildo banko rekvizitus, bet nekeičia vartotojo arba įmo
 
 Jeigu pagal IBAN rastas banko kodas neegzistuoja `EVK Bank Directory` kataloge, klaida nemetama.
 
-Tai leidžia vartotojui tęsti darbą ir banko duomenis užpildyti rankiniu būdu. Toks veikimas pasirinktas todėl, kad bankų katalogas gali būti nepilnas arba dar neatnaujintas.
+Vartotojas gali tęsti darbą ir banko duomenis užpildyti rankiniu būdu. Toks veikimas pasirinktas todėl, kad bankų katalogas gali būti nepilnas arba dar neatnaujintas.
 
 Automatizavimas čia veikia kaip pagalbinė funkcija, o ne kaip griežtas validavimo mechanizmas.
+
+<div class="iban-autofill-note">
+  <p>Šis extension padeda greičiau užpildyti banko rekvizitus, bet neperima visos duomenų kontrolės iš vartotojo ir nekeičia standartinio Business Central įrašo išsaugojimo elgesio.</p>
+</div>
 
 ## Apribojimai
 
@@ -110,19 +275,23 @@ Taip pat projektas negarantuoja, kad bankų kataloge esantys duomenys visada yra
 
 Projektas sukurtas kaip praktinis Business Central AL development portfolio pavyzdys.
 
-## Ką šis projektas demonstruoja
+## Ką šis projektas demonstruoja?
 
-Šis projektas demonstruoja kelis praktinius Business Central AL development aspektus:
+Šis projektas demonstruoja kelis praktinius Microsoft Dynamics 365 Business Central AL development aspektus:
 
-- standartinių Business Central kortelių išplėtimą naudojant `page extension`;
-- bendros verslo logikos iškėlimą į `codeunit`;
-- darbą su atskira bankų katalogo lentele;
-- banko kodo ištraukimą iš lietuviško IBAN;
-- automatinį `Customer Bank Account` ir `Vendor Bank Account` laukų pildymą;
-- atsargų požiūrį į duomenų pildymą be priverstinio įrašo išsaugojimo;
-- praktinį lokalizavimo scenarijų Lietuvos rinkai.
+* standartinių Business Central kortelių išplėtimą naudojant `page extension`;
+* bendros verslo logikos iškėlimą į `codeunit`;
+* darbą su atskira bankų katalogo lentele;
+* banko kodo ištraukimą iš lietuviško IBAN;
+* automatinį `Customer Bank Account` ir `Vendor Bank Account` laukų pildymą;
+* atsargų požiūrį į duomenų pildymą be priverstinio įrašo išsaugojimo;
+* praktinį lokalizavimo scenarijų Lietuvos rinkai.
 
-Tai nedidelis, bet praktiškas Business Central extension pavyzdys, parodantis, kaip AL kalba galima automatizuoti pasikartojantį duomenų pildymo procesą.
+## Kodėl tai tinka mano portfolio?
+
+Šis projektas papildo mano techninių darbų kryptį: **Microsoft Dynamics 365 Business Central / NAV programavimas, AL development, integracijos, ataskaitos, duomenų apdorojimas ir verslo procesų automatizavimas**.
+
+Business Central Lithuanian IBAN Bank Account Autofill nėra teorinis pavyzdys. Tai mažas, aiškus ir praktiškas extension, parodantis, kaip Business Central sistemoje galima automatizuoti pasikartojantį duomenų pildymo procesą.
 
 ## GitHub repository
 
@@ -138,4 +307,4 @@ The project demonstrates AL development, page extensions, codeunit-based busines
 
 ---
 
-[← Back to portfolio](https://evaldasjablonskas.lt/)
+[Grįžti į pagrindinį puslapį](/)
