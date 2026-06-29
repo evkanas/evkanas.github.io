@@ -118,6 +118,7 @@ date: 2026-06-28
 # Business Central Lithuanian IBAN Bank Account Autofill
 
 <p class="iban-autofill-date">
+  Autorius: <strong>Evaldas Jablonskas</strong><br>
   Atnaujinta: 2026-06-28
 </p>
 
