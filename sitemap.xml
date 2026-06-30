@@ -14,7 +14,7 @@
      <image:image>
       <image:loc>https://evaldasjablonskas.lt/business-central-lithuanian-iban-bank-account-autofill/evaldas-jablonskas-business-central-iban-autofill-portfolio.webp</image:loc>
       <image:title>Evaldas Jablonskas Business Central Lithuanian IBAN Bank Account Autofill</image:title>
-      <image:caption>Evaldas Jablonskas – Business Central Lithuanian IBAN Bank Account Autofill. Microsoft Dynamics 365 Business Central / NAV programuotojo AL extension portfolio projektas, skirtas automatiniam banko duomenų užpildymui pagal lietuvišką IBAN.</image:caption>
+      <image:caption>Evaldas Jablonskas - Business Central Lithuanian IBAN Bank Account Autofill. Microsoft Dynamics 365 Business Central / NAV programuotojo AL extension portfolio projektas, skirtas automatiniam banko duomenų užpildymui pagal lietuvišką IBAN.</image:caption>
     </image:image>
   </url>
   <url>
@@ -38,6 +38,15 @@
       <image:loc>https://evaldasjablonskas.lt/evk-solution-agent/evaldas-jablonskas-evk-solution-agent-di-agentas.webp</image:loc>
       <image:title>Evaldas Jablonskas EVK Solution Agent - DI agentas</image:title>
       <image:caption>Evaldas Jablonskas EVK Solution Agent - DI / AI agentas el. laiškų ir tekstų analizei, faktų ištraukimui ir atsakymų paruošimui.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://evaldasjablonskas.lt/business-central-opencart-integration/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <image:image>
+      <image:loc>https://evaldasjablonskas.lt/business-central-opencart-integration/evaldas-jablonskas-business-central-opencart-integration.webp</image:loc>
+      <image:title>Evaldas Jablonskas Business Central ir OpenCart integracija</image:title>
+      <image:caption>Evaldas Jablonskas – Business Central ir OpenCart integracija. ERP ir e. prekybos automatizavimo koncepcija, kurioje Business Central veikia kaip pagrindinis prekių, variantų, likučių, kainų ir užsakymų duomenų centras.</image:caption>
     </image:image>
   </url>
 </urlset>
