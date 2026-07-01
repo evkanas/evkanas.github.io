@@ -46,7 +46,25 @@
     <image:image>
       <image:loc>https://evaldasjablonskas.lt/business-central-opencart-integration/evaldas-jablonskas-business-central-opencart-integration.webp</image:loc>
       <image:title>Evaldas Jablonskas Business Central ir OpenCart integracija</image:title>
-      <image:caption>Evaldas Jablonskas – Business Central ir OpenCart integracija. ERP ir e. prekybos automatizavimo koncepcija, kurioje Business Central veikia kaip pagrindinis prekių, variantų, likučių, kainų ir užsakymų duomenų centras.</image:caption>
+      <image:caption>Evaldas Jablonskas - Business Central ir OpenCart integracija. ERP ir e. prekybos automatizavimo koncepcija, kurioje Business Central veikia kaip pagrindinis prekių, variantų, likučių, kainų ir užsakymų duomenų centras.</image:caption>
     </image:image>
   </url>
+  <url>
+    <loc>https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/</loc>
+    <lastmod>2026-07-01</lastmod>
+    <image:image>
+      <image:loc>https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/evaldas-jablonskas-daugiabucio-igaliotinio-uzrasai.webp</image:loc>
+      <image:title>Evaldas Jablonskas - Daugiabučio įgaliotinio užrašai</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/savivaldybe/</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/evaldas-jablonskas-daugiabucio-igaliotinio-uzrasai.webp</image:loc>
+      <image:title>Evaldas Jablonskas - straipsnis apie daugiabučio įgaliotinį ir savivaldybės atsakomybę</image:title>
+    </image:image>
+</url>
 </urlset>
