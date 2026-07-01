@@ -41,6 +41,15 @@ Technical notes and portfolio articles by **Evaldas Jablonskas** about Microsoft
 - [Business Central ir OpenCart integracija – ERP ir e. prekybos automatizavimo koncepcija](/business-central-opencart-integration/) **Evaldo Jablonsko** portfolio straipsnis apie **Microsoft Dynamics 365 Business Central / NAV** ir **OpenCart** integraciją: prekes, variantus, likučius, kainas ir užsakymus.
 - [EVK Solution Agent – DI agentas el. laiškų ir tekstų analizei](/evk-solution-agent/)
 
+## Daugiabučio įgaliotinio užrašai
+
+Asmeninės patirties pagrindu rašau apie daugiabučio įgaliotinio vaidmenį, daugiabučio administravimą, gyventojų savivaldą ir savivaldybės atsakomybės ribas.
+
+* [Daugiabučio įgaliotinio užrašai](/daugiabucio-igaliotinio-uzrasai/)  
+  Straipsnių ciklas apie daugiabučio įgaliotinio patirtį, administravimo ribas, statytojų defektus ir institucijų atsakomybę.
+
+- [Ką realiai daro daugiabučio įgaliotinis?](/daugiabucio-igaliotinio-uzrasai/ka-realiai-daro-daugiabucio-igaliotinis/) **Evaldo Jablonsko** praktinis straipsnis apie daugiabučio įgaliotinio vaidmenį, gyventojų atstovavimą, dokumentų rinkimą ir bendravimą su administratoriais, statytojais bei institucijomis.
+
 ## Professional Community and Team Events
 
 Public moments from professional community and team activities related to my work environment.
