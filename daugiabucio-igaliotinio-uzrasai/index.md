@@ -145,6 +145,16 @@ Man svarbu parodyti, kad daugiabučio įgaliotinis nėra administratorius, pasta
 
 </div>
 
+<div class="igaliotinis-note">
+  <p>
+    <strong>Diskusija ir skaitytojų komentarai.</strong><br>
+    Šio straipsnių ciklo diskusijos vyksta Facebook puslapyje:
+    <a href="https://www.facebook.com/profile.php?id=61591523192102" target="_blank" rel="noopener">
+      Daugiabučio įgaliotinio užrašai
+    </a>.
+  </p>
+</div>
+
 ## Būsimos temos
 
 Tolesniuose įrašuose planuoju detaliau nagrinėti savivaldybės atsakymų formalizmą, defektų dokumentavimą, statytojų garantinius triukus ir ANK 505 straipsnio taikymo užkulisius.
