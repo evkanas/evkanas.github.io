@@ -126,9 +126,9 @@ date: 2026-07-01
 
 ## Apie šį ciklą
 
-Šiame cikle fiksuoju situacijas, kuriose aktyvus gyventojų atstovas susiduria ne tik su statytojų defektais ar administratorių neveikimu, bet ir su instituciniu formalizmu, kai atsakomybė už pastato priežiūros problemas bandoma perkelti pačiam įgaliotiniui.
+Šiame cikle fiksuoju situacijas, kuriose aktyvus gyventojų atstovas susiduria ne tik su statytojų paliktais defektais ar administratorių neveikimu, bet ir su instituciniu formalizmu, kai už pastato priežiūros trūkumus atsakomybę bandoma perkelti ne tiems, kurie turi pareigas ir išteklius juos šalinti, o pačiam įgaliotiniui.
 
-Man svarbu parodyti, kad daugiabučio įgaliotinis nėra administratorius, pastato valdytojas ar techninės priežiūros specialistas. Tai gyventojų atstovas, kuris kelia problemas, renka informaciją, fiksuoja aplinkybes ir reikalauja atsakomybės iš tų subjektų, kurie pagal savo statusą turi pareigas, kompetenciją ir išteklius.
+Man svarbu parodyti, kad daugiabučio įgaliotinis nėra administratorius, pastato valdytojas ar techninės priežiūros specialistas. Tai gyventojų atstovas, kuris fiksuoja pastato priežiūros trūkumus, renka informaciją, dokumentuoja aplinkybes ir reikalauja, kad juos šalintų tie subjektai, kurie pagal savo statusą turi pareigas, kompetenciją ir išteklius tai padaryti.
 
 <div class="igaliotinis-note">
   <p>Daugiabučio įgaliotinis neturi būti paverčiamas patogiu taikiniu institucijų pareigoms perkelti. Aktyvus gyventojų atstovavimas neturi tapti atsakomybės spąstais.</p>
