@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Daugiabučio įgaliotinio užrašai"
+title: "Evaldas Jablonskas – Daugiabučio įgaliotinio užrašai"
 description: "Evaldo Jablonsko straipsnių ciklas apie daugiabučio įgaliotinio vaidmenį, daugiabučio administravimą, gyventojų savivaldą ir savivaldybės atsakomybės ribas."
 date: 2026-07-01
 image: /daugiabucio-igaliotinio-uzrasai/evaldas-jablonskas-daugiabucio-igaliotinio-uzrasai.webp
