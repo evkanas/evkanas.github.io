@@ -3,7 +3,8 @@ layout: default
 title: "Kai savivaldybė daugiabučio įgaliotinį prilygina administratoriui"
 description: "Evaldo Jablonsko straipsnis apie daugiabučio įgaliotinio vaidmenį, daugiabučio administravimą ir savivaldybės bandymą gyventojų atstovą prilyginti administratoriui ar pastato valdytojui."
 date: 2026-07-01
-permalink: /daugiabucio-igaliotinio-uzrasai/savivaldybe/
+permalink: /daugiabucio-igaliotinio-uzrasai/savivaldybe/,
+image: /daugiabucio-igaliotinio-uzrasai/evaldas-jablonskas-daugiabucio-igaliotinio-uzrasai.webp
 ---
 
 <style>
