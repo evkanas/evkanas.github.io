@@ -21,7 +21,8 @@ image: "/business-central-finbite-omniva-invoice-center-integration/evaldas-jabl
 
 .finbite-integration-image {
   width: 100%;
-  max-width: 560px;
+  max-width: 620px;
+  height: auto;
   border-radius: 16px;
   display: block;
 }
@@ -254,5 +255,4 @@ Straipsnio autorius – **Evaldas Jablonskas**, Microsoft Dynamics 365 Business 
 
 <div class="finbite-integration-links">
   <a href="/">Grįžti į pagrindinį puslapį</a>
-  <a href="https://github.com/evkanas/bc-omniva-einvoice-connector" target="_blank" rel="noopener">GitHub projektas</a>
 </div>
