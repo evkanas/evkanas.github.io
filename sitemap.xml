@@ -60,11 +60,18 @@
   <url>
     <loc>https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/savivaldybe/</loc>
     <lastmod>2026-07-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
     <image:image>
       <image:loc>https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/evaldas-jablonskas-daugiabucio-igaliotinio-uzrasai.webp</image:loc>
       <image:title>Evaldas Jablonskas - straipsnis apie daugiabučio įgaliotinį ir savivaldybės atsakomybę</image:title>
     </image:image>
+</url>
+<url>
+  <loc>https://evaldasjablonskas.lt/business-central-finbite-omniva-invoice-center-integration/</loc>
+  <lastmod>2026-07-02</lastmod>
+  <image:image>
+    <image:loc>https://evaldasjablonskas.lt/business-central-finbite-omniva-invoice-center-integration/evaldas-jablonskas-business-central-finbite-omniva-invoice-center-integration.webp</image:loc>
+    <image:title>Evaldas Jablonskas Business Central Finbite / Omniva Invoice Center Integration</image:title>
+    <image:caption>Evaldas Jablonskas - Business Central Finbite / Omniva Invoice Center Integration. Microsoft Dynamics 365 Business Central / NAV portfolio projektas, skirtas tiekėjų sąskaitų importui per SOAP API ir XML apdorojimą.</image:caption>
+  </image:image>
 </url>
 </urlset>
