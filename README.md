@@ -36,8 +36,7 @@ Microsoft Dynamics 365 Business Central / NAV Developer with over 10 years of ER
 
 Technical notes and portfolio articles by **Evaldas Jablonskas** about Microsoft Dynamics 365 Business Central, Dynamics NAV, AL development, integrations, reporting, and process automation.
 
-- [Business Central Lithuanian IBAN Bank Account Autofill – automatinis banko duomenų užpildymas pagal IBAN](https://evaldasjablonskas.lt/business-central-lithuanian-iban-bank-account-autofill/)
-  Lietuviškas Business Central AL portfolio straipsnis apie automatinį pirkėjų ir tiekėjų banko sąskaitų duomenų užpildymą pagal lietuviško IBAN banko kodą.
+- [Business Central Lithuanian IBAN Bank Account Autofill – automatinis banko duomenų užpildymas pagal IBAN](https://evaldasjablonskas.lt/business-central-lithuanian-iban-bank-account-autofill/)  **Evaldo Jablonsko** portfolio straipsnis apie automatinį pirkėjų ir tiekėjų banko sąskaitų duomenų užpildymą pagal lietuviško IBAN banko kodą.
 - [Business Central ir OpenCart integracija – ERP ir e. prekybos automatizavimo koncepcija](/business-central-opencart-integration/) **Evaldo Jablonsko** portfolio straipsnis apie **Microsoft Dynamics 365 Business Central / NAV** ir **OpenCart** integraciją: prekes, variantus, likučius, kainas ir užsakymus.
 - [Evaldas Jablonskas – Business Central Finbite / Omniva Invoice Center Integration](/business-central-finbite-omniva-invoice-center-integration/)
   Microsoft Dynamics 365 Business Central / NAV portfolio straipsnis apie tiekėjų sąskaitų importą iš buvusio Omniva Invoice Center / Finbite tipo sąskaitų administravimo sprendimo per SOAP API ir XML apdorojimą.
