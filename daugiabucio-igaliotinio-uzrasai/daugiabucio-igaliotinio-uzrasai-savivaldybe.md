@@ -59,11 +59,8 @@ image: /daugiabucio-igaliotinio-uzrasai/evaldas-jablonskas-daugiabucio-igaliotin
 # Kai savivaldybė daugiabučio įgaliotinį prilygina administratoriui
 
 <p class="igaliotinis-date">
-  Paskelbta: 2026-07-01
-</p>
-
-<p>
-  <strong>Autorius:</strong> Evaldas Jablonskas
+  Paskelbta: 2026-07-01<br>
+  Autorius: Evaldas Jablonskas
 </p>
 
 <p class="igaliotinis-series">

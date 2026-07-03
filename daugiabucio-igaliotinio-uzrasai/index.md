@@ -93,11 +93,8 @@ image: /daugiabucio-igaliotinio-uzrasai/evaldas-jablonskas-daugiabucio-igaliotin
 # Daugiabučio įgaliotinio užrašai
 
 <p class="igaliotinis-date">
-  Ciklo pradžia: 2026-07-01
-</p>
-
-<p>
-  <strong>Autorius:</strong> Evaldas Jablonskas
+  Ciklo pradžia: 2026-07-01<br>
+  Autorius: Evaldas Jablonskas
 </p>
 
 **Asmeninės patirties pagrindu rašau apie daugiabučio įgaliotinio vaidmenį, daugiabučio administravimą, gyventojų savivaldą ir savivaldybės atsakomybės ribas.**
