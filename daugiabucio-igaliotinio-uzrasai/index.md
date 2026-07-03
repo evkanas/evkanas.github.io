@@ -150,7 +150,7 @@ Man svarbu parodyti, kad daugiabučio įgaliotinis nėra administratorius, pasta
   <p>
     <strong>Diskusija ir skaitytojų komentarai.</strong><br>
     Šio straipsnių ciklo diskusijos vyksta Facebook puslapyje:
-    <a href="https://www.facebook.com/profile.php?id=61591523192102" target="_blank" rel="noopener">
+    <a href="https://www.facebook.com/profile.php?id=61591523192102" target="_blank" rel="nofollow noopener">
       Daugiabučio įgaliotinio užrašai
     </a>.
   </p>
