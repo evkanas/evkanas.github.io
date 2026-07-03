@@ -43,12 +43,14 @@ Technical notes and portfolio articles by **Evaldas Jablonskas** about Microsoft
   **Evaldo Jablonsko** Microsoft Dynamics 365 Business Central / NAV portfolio straipsnis apie tiekėjų sąskaitų importą iš buvusio Omniva Invoice Center / Finbite tipo sąskaitų administravimo sprendimo per SOAP API ir XML apdorojimą.
 - [EVK Solution Agent – DI agentas el. laiškų ir tekstų analizei](/evk-solution-agent/)
 
-## Daugiabučio įgaliotinio užrašai
+## Evaldas Jablonskas – Daugiabučio įgaliotinio užrašai
 
-Asmeninės patirties pagrindu rašau apie daugiabučio įgaliotinio vaidmenį, daugiabučio administravimą, gyventojų savivaldą ir savivaldybės atsakomybės ribas.
+Evaldas Jablonskas asmeninės patirties pagrindu rašo apie daugiabučio įgaliotinio vaidmenį, daugiabučio administravimą, gyventojų savivaldą ir savivaldybės atsakomybės ribas.
 
-* [Daugiabučio įgaliotinio užrašai](/daugiabucio-igaliotinio-uzrasai/)  
+* [Evaldas Jablonskas – Daugiabučio įgaliotinio užrašai](/daugiabucio-igaliotinio-uzrasai/)  
   Straipsnių ciklas apie daugiabučio įgaliotinio patirtį, administravimo ribas, statytojų defektus ir institucijų atsakomybę.
+* [Kai savivaldybė daugiabučio įgaliotinį prilygina administratoriui](/daugiabucio-igaliotinio-uzrasai/savivaldybe/)
+  Evaldo Jablonsko straipsnis apie situaciją, kai savivaldybė daugiabučio įgaliotinį vertina kaip administratorių ar pastato valdytoją.
 
 <!--
 Ateities straipsnių idėjos:

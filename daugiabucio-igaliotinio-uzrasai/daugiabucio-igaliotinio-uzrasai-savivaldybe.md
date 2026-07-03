@@ -62,6 +62,10 @@ image: /daugiabucio-igaliotinio-uzrasai/evaldas-jablonskas-daugiabucio-igaliotin
   Paskelbta: 2026-07-01
 </p>
 
+<p>
+  <strong>Autorius:</strong> Evaldas Jablonskas
+</p>
+
 <p class="igaliotinis-series">
   Ciklas: <a href="/daugiabucio-igaliotinio-uzrasai/">Daugiabučio įgaliotinio užrašai</a>
 </p>
