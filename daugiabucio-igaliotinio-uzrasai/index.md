@@ -1,9 +1,22 @@
 ---
 layout: default
 title: "Evaldas Jablonskas – Daugiabučio įgaliotinio užrašai"
-description: "Evaldo Jablonsko straipsnių ciklas apie daugiabučio įgaliotinio vaidmenį, daugiabučio administravimą, gyventojų savivaldą ir savivaldybės atsakomybės ribas."
+description: "Evaldo Jablonsko straipsnių ciklas apie daugiabučio įgaliotinio vaidmenį, gyventojų savivaldą, Vilniaus savivaldybės atsakomybę, pilietinį aktyvumą ir administracinio spaudimo rizikas."
 date: 2026-07-01
 image: /daugiabucio-igaliotinio-uzrasai/evaldas-jablonskas-daugiabucio-igaliotinio-uzrasai.webp
+lang: lt
+author: "Evaldas Jablonskas"
+keywords:
+  - Evaldas Jablonskas
+  - daugiabučio įgaliotinis
+  - Vilniaus savivaldybė
+  - gyventojų savivalda
+  - pilietinis aktyvumas
+breadcrumbs:
+  - name: "Evaldas Jablonskas"
+    url: "/"
+  - name: "Daugiabučio įgaliotinio užrašai"
+    url: "/daugiabucio-igaliotinio-uzrasai/"
 ---
 
 <style>
@@ -97,7 +110,7 @@ image: /daugiabucio-igaliotinio-uzrasai/evaldas-jablonskas-daugiabucio-igaliotin
   Autorius: Evaldas Jablonskas
 </p>
 
-**Asmeninės patirties pagrindu rašau apie daugiabučio įgaliotinio vaidmenį, daugiabučio administravimą, gyventojų savivaldą ir savivaldybės atsakomybės ribas.**
+**Evaldas Jablonskas asmeninės patirties pagrindu rašo apie daugiabučio įgaliotinio vaidmenį, gyventojų savivaldą, Vilniaus savivaldybės atsakomybę, pilietinį aktyvumą ir administracinio spaudimo rizikas.**
 
 <div class="igaliotinis-hero">
 
@@ -128,6 +141,8 @@ image: /daugiabucio-igaliotinio-uzrasai/evaldas-jablonskas-daugiabucio-igaliotin
 
 ## Apie šį ciklą
 
+Šis puslapis yra teminis straipsnių centras domeno evaldasjablonskas.lt dalyje, kurioje Evaldas Jablonskas viešai aprašo daugiabučio įgaliotinio patirtį, gyventojų savivaldą, Vilniaus savivaldybės atsakomybės ribas ir pilietinio aktyvumo kainą.
+
 Šiame cikle fiksuoju situacijas, kuriose aktyvus gyventojų atstovas susiduria ne tik su statytojų paliktais defektais ar administratorių neveikimu, bet ir su instituciniu formalizmu, kai už pastato priežiūros trūkumus atsakomybę bandoma perkelti ne tiems, kurie turi pareigas ir išteklius juos šalinti, o pačiam įgaliotiniui.
 
 Man svarbu parodyti, kad daugiabučio įgaliotinis nėra administratorius, pastato valdytojas ar techninės priežiūros specialistas. Tai gyventojų atstovas, kuris fiksuoja pastato priežiūros trūkumus, renka informaciją, dokumentuoja aplinkybes ir reikalauja, kad juos šalintų tie subjektai, kurie pagal savo statusą turi pareigas, kompetenciją ir išteklius tai padaryti.
@@ -137,6 +152,15 @@ Man svarbu parodyti, kad daugiabučio įgaliotinis nėra administratorius, pasta
 </div>
 
 ## Straipsniai
+
+
+<div class="igaliotinis-article-list">
+
+<h3><a href="/daugiabucio-igaliotinio-uzrasai/savivaldybe/pilietinio-aktyvumo-kaina-vilniuje/">Pilietinio aktyvumo kaina Vilniuje: kaip Valdas Benkunskas ir Adomas Bužinskas naikina nepatogius įgaliotinius</a></h3>
+
+<p>Apie tai, kaip deklaruojamas gyventojų aktyvumo skatinimas Vilniuje praktikoje gali virsti spaudimu daugiabučio įgaliotiniui, neįvykdomais reikalavimais ir baudų grėsme.</p>
+
+</div>
 
 <div class="igaliotinis-article-list">
 

@@ -5,6 +5,13 @@ description: "Evaldo Jablonsko straipsnis apie daugiabučio įgaliotinio vaidmen
 date: 2026-07-01
 permalink: /daugiabucio-igaliotinio-uzrasai/savivaldybe/
 image: /daugiabucio-igaliotinio-uzrasai/evaldas-jablonskas-daugiabucio-igaliotinio-uzrasai.webp
+breadcrumbs:
+  - name: "Evaldas Jablonskas"
+    url: "/"
+  - name: "Daugiabučio įgaliotinio užrašai"
+    url: "/daugiabucio-igaliotinio-uzrasai/"
+  - name: "Kai savivaldybė daugiabučio įgaliotinį prilygina administratoriui"
+    url: "/daugiabucio-igaliotinio-uzrasai/savivaldybe/"
 ---
 
 <style>
@@ -140,6 +147,10 @@ O nuo teisinio klausimo:
 Dabartinis institucijos mąstymas veda prie iškreiptos atsakomybės schemos, kuri patogi tik pačiai savivaldybei, bet žalinga teisinei valstybei ir piliečiams. Savivaldybė turi pradėti dirbti savo darbą, o ne ieškoti, kam permesti savo nepadarytas užduotis.
 
 ---
+
+## Susijęs tekstas
+
+[Evaldas Jablonskas: Valdas Benkunskas, Adomas Bužinskas ir pilietinio aktyvumo kaina Vilniuje](/daugiabucio-igaliotinio-uzrasai/savivaldybe/pilietinio-aktyvumo-kaina-vilniuje/) – tęstinis tekstas apie Vilniaus savivaldybės požiūrį į aktyvų daugiabučio įgaliotinį, pilietinį aktyvumą ir administracinio spaudimo riziką.
 
 ### Projekto pastaba
 
