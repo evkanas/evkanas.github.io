@@ -138,6 +138,15 @@ Man svarbu parodyti, kad daugiabučio įgaliotinis nėra administratorius, pasta
 
 ## Straipsniai
 
+
+<div class="igaliotinis-article-list">
+
+<h3><a href="/daugiabucio-igaliotinio-uzrasai/savivaldybe/pilietinio-aktyvumo-kaina-vilniuje/">Pilietinio aktyvumo kaina Vilniuje: kaip Valdas Benkunskas ir Adomas Bužinskas naikina nepatogius įgaliotinius</a></h3>
+
+<p>Apie tai, kaip deklaruojamas gyventojų aktyvumo skatinimas Vilniuje praktikoje gali virsti spaudimu daugiabučio įgaliotiniui, neįvykdomais reikalavimais ir baudų grėsme.</p>
+
+</div>
+
 <div class="igaliotinis-article-list">
 
 <h3><a href="/daugiabucio-igaliotinio-uzrasai/savivaldybe/">Kai savivaldybė daugiabučio įgaliotinį prilygina administratoriui</a></h3>
