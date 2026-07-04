@@ -1,10 +1,37 @@
 ---
 layout: default
-title: "Evaldas Jablonskas – pilietinio aktyvumo kaina Vilniuje"
-description: "Evaldo Jablonsko straipsnis apie tai, kaip Vilniaus savivaldybės deklaruojamas gyventojų aktyvumo skatinimas praktikoje gali virsti spaudimu daugiabučio įgaliotiniui, reikalavimais ir baudų grėsme."
+title: "Evaldas Jablonskas: Valdas Benkunskas, Adomas Bužinskas ir pilietinio aktyvumo kaina Vilniuje"
+headline: "Pilietinio aktyvumo kaina Vilniuje: kaip Valdas Benkunskas ir Adomas Bužinskas naikina nepatogius įgaliotinius"
+description: "Evaldas Jablonskas rašo apie Valdą Benkunską, Adomą Bužinską, Vilniaus savivaldybę ir daugiabučio įgaliotinio patirtį, kai pilietinis aktyvumas virsta administraciniu spaudimu."
 date: 2026-07-04
+date_modified: 2026-07-04
 permalink: /daugiabucio-igaliotinio-uzrasai/savivaldybe/pilietinio-aktyvumo-kaina-vilniuje/
 image: /daugiabucio-igaliotinio-uzrasai/savivaldybe/gyventoju-aktyvumas-savivaldybe.webp
+image_alt: "DI sugeneruota iliustracija apie Valdą Benkunską, Adomą Bužinską, Vilniaus savivaldybę ir Evaldo Jablonsko aprašomą pilietinio aktyvumo kainą Vilniuje"
+lang: lt
+type: article
+author: "Evaldas Jablonskas"
+keywords:
+  - Evaldas Jablonskas
+  - Valdas Benkunskas
+  - Adomas Bužinskas
+  - Vilniaus savivaldybė
+  - pilietinio aktyvumo kaina
+  - daugiabučio įgaliotinis
+about:
+  - Evaldas Jablonskas
+  - Valdas Benkunskas
+  - Adomas Bužinskas
+  - Vilniaus savivaldybė
+  - pilietinis aktyvumas
+  - daugiabučio įgaliotinis
+breadcrumbs:
+  - name: "Evaldas Jablonskas"
+    url: "/"
+  - name: "Daugiabučio įgaliotinio užrašai"
+    url: "/daugiabucio-igaliotinio-uzrasai/"
+  - name: "Pilietinio aktyvumo kaina Vilniuje"
+    url: "/daugiabucio-igaliotinio-uzrasai/savivaldybe/pilietinio-aktyvumo-kaina-vilniuje/"
 ---
 
 <style>
@@ -120,6 +147,10 @@ body {
   margin-top: -6px;
 }
 
+.savivaldybe-date {
+  margin: -4px 0 22px;
+}
+
 .savivaldybe-hero {
   margin: 30px 0 14px;
 }
@@ -182,19 +213,23 @@ body {
 
 # Pilietinio aktyvumo kaina Vilniuje: kaip Valdas Benkunskas ir Adomas Bužinskas naikina nepatogius įgaliotinius
 
+<p class="savivaldybe-date">Paskelbta: 2026-07-04</p>
+
 <p class="savivaldybe-lead">2015 metais tuometinis Vilniaus vicemeras Valdas Benkunskas viešai ragino sostinės gyventojus būti aktyvius: domėtis savo turtu, kontroliuoti daugiabučių administratorius ir, jei reikia, perimti valdymą į savo rankas. Tačiau mano patirtis rodo, kad aktyvumas Vilniuje gali kainuoti laiką, sveikatą, pinigus ir riziką būti užspaustam administracinio aparato.</p>
 
 <figure class="savivaldybe-hero">
   <img
     src="/daugiabucio-igaliotinio-uzrasai/savivaldybe/gyventoju-aktyvumas-savivaldybe.webp"
-    alt="Valdas Benkunskas ir Adomas Bužinskas straipsnio iliustracijoje apie aktyvų daugiabučio įgaliotinį, kuris savivaldybėje tampa taikiniu"
+    alt="DI sugeneruota iliustracija apie Valdą Benkunską, Adomą Bužinską, Vilniaus savivaldybę ir Evaldo Jablonsko aprašomą pilietinio aktyvumo kainą Vilniuje"
     title="Aktyvus įgaliotinis – bendruomenės variklis. Tačiau savivaldybėje jis tampa taikiniu."
   >
 </figure>
 
-<p class="savivaldybe-caption">Aktyvus įgaliotinis – bendruomenės variklis. Tačiau savivaldybėje jis tampa taikiniu.</p>
+<p class="savivaldybe-caption">DI sugeneruota iliustracija apie Valdą Benkunską, Adomą Bužinską, Vilniaus savivaldybę ir Evaldo Jablonsko aprašomą pilietinio aktyvumo kainą Vilniuje.</p>
 
-<p class="savivaldybe-source">Šaltinis: 15min</p>
+<p class="savivaldybe-source">Autorius: Evaldas Jablonskas. Straipsnyje aptariami Valdo Benkunsko, Adomo Bužinsko ir Vilniaus miesto savivaldybės veiksmai daugiabučio įgaliotinio patirties kontekste.</p>
+
+<p class="savivaldybe-source">Šaltinis: <a href="https://www.15min.lt/naujiena/aktualu/lietuva/vilniaus-savivaldybe-kreipesi-i-prokuratura-del-daugiabuciu-administratores-sileja-veiksmu-56-555001" target="_blank" rel="nofollow noopener">2015 m. 15min straipsnis apie Vilniaus savivaldybės kreipimąsi į prokuratūrą dėl administratorės „Šilėja“ veiksmų</a>.</p>
 
 Praėjo daugiau nei dešimtmetis. Valdas Benkunskas tapo Vilniaus meru, o savivaldybės administracijai vadovauja Adomas Bužinskas. Mano, kaip daugiabučio gyventojų išrinkto įgaliotinio, patirtis rodo, kad 2015-ųjų retorika apie aktyvius piliečius šiandien tėra fasadas. Kai gyventojas ima realiai veikti – kelia klausimus dėl statybinių defektų, reikalauja iš statytojo vykdyti garantinius įsipareigojimus ir gina kaimynų interesus – jis staiga tampa ne savivaldos partneriu, o administraciniu taikiniu. Meras Valdas Benkunskas ir jo administracijos direktorius Adomas Bužinskas demonstruoja, kaip iš tikrųjų atrodo jų požiūris į pilietinį aktyvumą: kol giri – esate partneriai, kai imate reikalauti – esate priešas.
 
@@ -257,6 +292,10 @@ Vilnius turėjo tapti modernia vakarietiška sostine. Tačiau tikrasis savivaldo
 Mano patirtis rodo, kad šiandien Vilniuje už tokį aktyvumą Valdas Benkunskas ir Adomas Bužinskas verčia mokėti labai didelę kainą. Jie nėra savivaldos partneriai – jie yra tie, kurie naikina nepatogius piliečius.
 
 Tai yra mano vieša pilietinė pozicija, paremta patirtimi, raštais ir savivaldybės veiksmų seka; jeigu mano išvados netikslios, Valdas Benkunskas, Adomas Bužinskas ir Vilniaus miesto savivaldybė gali tai paneigti paprastai – viešai, raštu ir argumentais.
+
+## Susijęs tekstas
+
+[Kai savivaldybė daugiabučio įgaliotinį prilygina administratoriui](/daugiabucio-igaliotinio-uzrasai/savivaldybe/) – ankstesnis Evaldo Jablonsko tekstas apie tai, kaip Vilniaus savivaldybė daugiabučio įgaliotinį vertina kaip administratorių ar pastato valdytoją.
 
 <p class="savivaldybe-series">
   <a href="/daugiabucio-igaliotinio-uzrasai/">Grįžti į ciklo puslapį</a>
