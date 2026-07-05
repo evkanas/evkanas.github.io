@@ -7,6 +7,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="canonical" href="{{ page.url | replace: 'index.html', '' | absolute_url }}">
 
+  <!-- Cloudflare Web Analytics -->
+    <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "ffe9b4300040417bb084f44f05781727"}'></script>
+  <!-- End Cloudflare Web Analytics -->
+  
   {% assign page_type = page.type | default: 'website' %}
   <meta property="og:title" content="{{ page.title | default: site.title | escape }}">
   <meta property="og:description" content="{{ page.description | default: site.description | escape }}">
@@ -155,8 +159,5 @@
   <main>
     {{ content }}
   </main>
-<!-- Cloudflare Web Analytics -->
-  <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "47727896cf784ed083e6c720be4f86cc"}'></script>
-<!-- End Cloudflare Web Analytics -->
 </body>
 </html>
