@@ -318,6 +318,8 @@ Apie kitus mūsų projekte nustatytus defektus, jų šalinimą ir bendravimą su
 
 [Pilietinio aktyvumo kaina Vilniuje](/daugiabucio-igaliotinio-uzrasai/savivaldybe/pilietinio-aktyvumo-kaina-vilniuje/) – ankstesnis Evaldo Jablonsko tekstas apie daugiabučio įgaliotinio patirtį.
 
+[Kai savivaldybė daugiabučio įgaliotinį prilygina administratoriui](/daugiabucio-igaliotinio-uzrasai/savivaldybe/) – ankstesnis Evaldo Jablonsko tekstas apie tai, kaip Vilniaus savivaldybė daugiabučio įgaliotinį vertina kaip administratorių ar pastato valdytoją.
+
 <div class="savivaldybe-share">
   <strong>Pasidalinti straipsniu</strong>
   <div class="savivaldybe-share-actions">
