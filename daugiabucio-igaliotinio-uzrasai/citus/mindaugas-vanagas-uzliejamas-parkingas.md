@@ -240,9 +240,9 @@ body {
 
 Šį kartą tiesioginio atsakymo nepateiksiu. Vietoje jo parodysiu trumpą vaizdo įrašą, kuriame matyti, kas mūsų požeminiame parkinge vyksta po gausesnio lietaus.
 
-## Užliejamo parkingo problema tęsiasi jau ketvirtus metus
+## Vandens patekimo į parkingą problema fiksuojama nuo 2023 metų
 
-Vandens skverbimosi į požeminį parkingą problema nėra nauja ar vienkartinė. Ji tęsiasi jau ketvirtus metus – susirašinėjimas ir bandymai spręsti problemą vyksta nuo 2023 metų.
+Vandens skverbimosi į požeminį parkingą problema nėra nauja ar vienkartinė. Ji fiksuojama nuo 2023 metų – nuo tada vyksta susirašinėjimas ir bandymai spręsti problemą.
 
 Atskiros vandens prasiskverbimo vietos buvo lokaliai tvarkomos naudojant vadinamąją kristalinę hidroizoliaciją. Tačiau užtaisius vieną vietą vanduo netrukus pradėdavo skverbtis kitoje. Kitaip tariant, problema iš esmės nebuvo pašalinta – keitėsi tik vietos, pro kurias vanduo patekdavo į parkingą.
 
@@ -254,17 +254,17 @@ Kai kuriose vietose ant mūrinių blokelių ar plytų užtepta medžiaga nuo pag
 
 <p class="savivaldybe-caption">Evaldas Jablonskas apie „Citus“ – vandens ir drėgmės pėdsakai „Citus“ projekto požeminiame parkinge po gausesnio lietaus.</p>
 
-## Remontas atliktas, tačiau problema persikėlė kitur
+## Vieta lokaliai taisyta, tačiau problema persikėlė kitur
 
-Konkreti vaizdo įraše užfiksuota vieta (po kelių kartų) šiuo metu jau aptvarkyta. Tačiau tai nekeičia bendros situacijos.
+Konkreti vaizdo įraše užfiksuota vieta po kelių remonto bandymų šiuo metu aptvarkyta. Tačiau tai nekeičia bendros situacijos.
 
 Kai vienoje vietoje vandens skverbimasis pristabdomas, po kurio laiko jis pasirodo kitur. Todėl vien lokaliai užtepti matomą pratekėjimo vietą nepakanka.
 
 Po gausesnių liūčių parkinge vėl atsiranda naujų šlapių vietų, vandens pėdsakų ir nubyrėjusios medžiagos.
 
-## Ketvirti metai laukimo jau yra pakankamai
+## Problema fiksuojama nuo 2023 metų
 
-Gyventojai ilgą laiką tikėjosi, kad problema bus tinkamai ištirta ir pašalinta. Tačiau nors problema tęsiasi jau ketvirtus metus, vis dar susiduriame su tuo pačiu reiškiniu – po stipresnio lietaus vanduo patenka į požeminį parkingą.
+Gyventojai ilgą laiką tikėjosi, kad problema bus tinkamai ištirta ir pašalinta. Tačiau nors problema fiksuojama nuo 2023 metų, vis dar susiduriame su tuo pačiu reiškiniu – po stipresnio lietaus vanduo patenka į požeminį parkingą.
 
 Neapsikentę nuolat pasikartojančios problemos ir lokalių taisymų, po kurių vanduo vis pasirodo kitose vietose, pasitelkėme advokatus ir pradėjome ruoštis teisiniam ginčui dėl defektų pašalinimo.
 
@@ -280,7 +280,7 @@ Neapsikentę nuolat pasikartojančios problemos ir lokalių taisymų, po kurių 
 
 Sprendžiant šią problemą, Mindaugo Vanago el. pašto adresas ne kartą buvo įtrauktas į susirašinėjimą su „Citus“. Prieš paskelbiant šią publikaciją jam buvo suteikta galimybė pateikti savo ir bendrovės poziciją.
 
-Mindaugo Vanago viešai paklausta:
+Mindaugui Vanagui pateikiau šiuos klausimus:
 
 - Ar jam, kaip „Citus“ įkūrėjui, yra žinoma ši nuo 2023 metų fiksuojama požeminio parkingo problema?
 - Ar „Citus“ yra nustatęs tikrąją vandens patekimo į požeminį parkingą priežastį?
@@ -294,11 +294,11 @@ Mindaugo Vanago viešai paklausta:
 
 2026 m. liepos 15 d. 08.45 val. gavau „Vanagas Group“ teisininkės Vaidos Mazarevičienės atsakymą. Jame nurodyta, kad mano kreipimasis į įmonės vadovybę buvo perduotas garantinio aptarnavimo ir statybų priežiūros komandai.
 
-Atsakyme teigiama, kad mano atsiųsta filmuota medžiaga yra datuojama 2023 m. spalio mėnesiu, kai projektas dar buvo aktyvioje statybų stadijoje ir nebuvo atiduotas eksploatacijai. Taip pat nurodyta, kad garantinio aptarnavimo specialistai situaciją žino, dėl jos buvo imtasi veiksmų, o šiais metais po stiprių liūčių atsakingas atstovas objekte lankėsi 2026-04-28, 2026-05-08, 2026-05-25 ir 2026-06-24.
+Atsakyme teigiama, kad mano atsiųsta filmuota medžiaga buvo užfiksuota 2023 m. spalį, kai projektas dar buvo aktyvioje statybos stadijoje ir nebuvo atiduotas eksploatuoti. Taip pat nurodoma, kad garantinio aptarnavimo specialistams situacija yra žinoma ir dėl jos buvo imtasi veiksmų, o 2026 metais, po stiprių liūčių, atsakingas atstovas objekte lankėsi balandžio 28 d., gegužės 8 d., gegužės 25 d. ir birželio 24 d.
 
 Teisininkės atsakyme nurodyta, kad šių apsilankymų metu vandens pratekėjimų nebuvo užfiksuota, o mano pateikta informacija vertinama kaip pirmasis tokio pobūdžio įvykis šiais metais. Taip pat pažymėta, kad garantinio skyriaus specialistai atlieka situacijos analizę, planuoja artimiausią vizitą į objektą ir apie patikrinimo išvadas informuos.
 
-Tą pačią dieną, 2026 m. liepos 15 d. 09.16 val., atsakiau, kad teiginys apie pirmą tokio pobūdžio įvykį šiais metais neatitinka mano turimos faktinės medžiagos. Nurodžiau 2026 m. vasario 7 d. užfiksuotą vandens prasiskverbimą ir 2026 m. liepos 10 d. PUV neeilinės apžiūros defektinį aktą, kuriame oficialiai fiksuoti pratekėjimai ties 34-35 ir 115 parkavimo vietomis.
+Tą pačią dieną, 2026 m. liepos 15 d. 09.16 val., atsakiau, kad teiginys apie pirmą tokio pobūdžio įvykį šiais metais neatitinka mano turimos faktinės medžiagos. Nurodžiau 2026 m. vasario 7 d. užfiksuotą vandens prasiskverbimą ir 2026 m. liepos 10 d. PUV neeilinės apžiūros defektinį aktą, kuriame oficialiai fiksuoti pratekėjimai ties 34–35 ir 115 parkavimo vietomis.
 
 Papildomai paprašiau nurodyti konkrečią numatomos apžiūros datą, terminą, iki kada bus nustatyta vandens patekimo priežastis, ar bus tiriama išorinė hidroizoliacija, ir iki kada bus pateiktas konkretus defekto šalinimo planas.
 
@@ -306,13 +306,13 @@ Papildomai paprašiau nurodyti konkrečią numatomos apžiūros datą, terminą,
 
 Į šį klausimą kiekvienas būsimas pirkėjas turi atsakyti pats.
 
-Aš galiu tik viešai parodyti savo ir kitų mūsų namų gyventojų realią patirtį: kaip ilgai sprendžiami defektai, kokie remonto būdai pasirenkami ir kas vyksta tada, kai atlikti taisymo darbai problemos neišsprendžia.
+Aš galiu tik viešai parodyti savo ir kitų mūsų namų gyventojų patirtį: kaip ilgai sprendžiami defektai, kokie remonto būdai pasirenkami ir kas vyksta tada, kai atlikti taisymo darbai problemos neišsprendžia.
 
-Šiame tekste pateiktas trumpas vaizdo įrašas yra tik vienas epizodas iš ketvirtus metus besitęsiančios užliejamo parkingo istorijos.
+Šiame tekste pateiktas trumpas vaizdo įrašas yra tik vienas nuo 2023 metų fiksuojamos vandens patekimo į parkingą problemos epizodas.
 
 Apie kitus mūsų projekte nustatytus defektus, jų šalinimą ir bendravimą su „Citus“ rašysiu kituose ciklo „Daugiabučio įgaliotinio užrašai“ tekstuose.
 
-Šiame tekste pateikiama asmeninė ir kitų gyventojų patirtis bei faktai, kuriuos galima pagrįsti susirašinėjimu ir vaizdo medžiaga. Publikacijoje pateikiami klausimai nėra išankstinė išvada dėl „Citus“ ar Mindaugo Vanago atsakomybės. Gautas „Vanagas Group“ teisininkės atsakymas apibendrintas šiame tekste; jeigu bus gauta papildoma pozicija ar konkretus defekto šalinimo planas, tekstas bus atnaujintas.
+Šiame tekste pateikiama mano ir kitų gyventojų patirtis bei dokumentais ir vaizdo medžiaga pagrindžiami faktai, kuriuos galima pagrįsti susirašinėjimu ir vaizdo medžiaga. Publikacijoje pateikiami klausimai nėra išankstinė išvada dėl „Citus“ ar Mindaugo Vanago atsakomybės. Gautas „Vanagas Group“ teisininkės atsakymas apibendrintas šiame tekste; jeigu bus gauta papildoma pozicija ar konkretus defekto šalinimo planas, tekstas bus atnaujintas.
 
 ## Susiję tekstai
 
