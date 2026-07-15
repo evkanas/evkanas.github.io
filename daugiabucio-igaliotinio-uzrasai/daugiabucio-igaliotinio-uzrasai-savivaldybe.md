@@ -61,6 +61,15 @@ breadcrumbs:
 .igaliotinis-note p {
   margin: 0;
 }
+
+.savivaldybe-status { background: #f2dfd8; border-left: 5px solid #8b2f22; padding: 18px 20px; margin: 24px 0; }
+.savivaldybe-share { margin: 28px 0 18px; padding: 18px 20px; border-top: 1px solid #ded4c7; border-bottom: 1px solid #ded4c7; font-family: Arial, sans-serif; }
+.savivaldybe-share strong { display: block; margin-bottom: 12px; font-size: 17px; }
+.savivaldybe-share-actions { display: flex; flex-wrap: wrap; gap: 10px; }
+.savivaldybe-share-actions a,
+.savivaldybe-share-actions button { appearance: none; border: 1px solid #8b2f22; border-radius: 4px; background: #fffdf8; color: #8b2f22; cursor: pointer; display: inline-flex; align-items: center; min-height: 38px; padding: 8px 12px; font: 700 14px/1.2 Arial, sans-serif; text-decoration: none; }
+.savivaldybe-share-actions a:hover,
+.savivaldybe-share-actions button:hover { background: #f2dfd8; }
 </style>
 
 # Kai savivaldybė daugiabučio įgaliotinį prilygina administratoriui
@@ -148,7 +157,9 @@ Dabartinis institucijos mąstymas veda prie iškreiptos atsakomybės schemos, ku
 
 ---
 
-## Susijęs tekstas
+## Susiję tekstai
+
+[Ar verta pirkti butą iš „Citus“? Viešas klausimas Mindaugui Vanagui dėl užliejamo požeminio parkingo](/daugiabucio-igaliotinio-uzrasai/citus/mindaugas-vanagas-uzliejamas-parkingas/) – naujausias Evaldo Jablonsko tekstas apie nuo 2023 metų fiksuojamą vandens patekimą į „Citus“ projekto požeminį parkingą.
 
 [Evaldas Jablonskas: Valdas Benkunskas, Adomas Bužinskas ir pilietinio aktyvumo kaina Vilniuje](/daugiabucio-igaliotinio-uzrasai/savivaldybe/pilietinio-aktyvumo-kaina-vilniuje/) – tęstinis tekstas apie Vilniaus savivaldybės požiūrį į aktyvų daugiabučio įgaliotinį, pilietinį aktyvumą ir administracinio spaudimo riziką.
 
@@ -156,6 +167,19 @@ Dabartinis institucijos mąstymas veda prie iškreiptos atsakomybės schemos, ku
 
 <div class="igaliotinis-note">
   <p>Šis tekstas yra straipsnių ciklo <strong>„Daugiabučio įgaliotinio užrašai“</strong> dalis. Tolesniuose įrašuose detaliau analizuosiu savivaldybės atsakymų formalizmą, defektų dokumentavimą ir statytojų garantinius triukus, taip pat – <strong>ANK 505 straipsnio taikymo užkulisius</strong>: kaip iš neteisėto savivaldybės reikalavimo dirbtinai sukuriama formali „teisė“ bausti įgaliotinį, ir kodėl teismai šiuos atvejus dažnai vertina formaliai, nesigilindami į patį reikalavimo teisėtumą.</p>
+</div>
+
+<div class="savivaldybe-share">
+  <strong>Pasidalinti straipsniu</strong>
+  <div class="savivaldybe-share-actions">
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fevaldasjablonskas.lt%2Fdaugiabucio-igaliotinio-uzrasai%2Fsavivaldybe%2F" target="_blank" rel="noopener">Dalintis „Facebook“</a>
+    <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fevaldasjablonskas.lt%2Fdaugiabucio-igaliotinio-uzrasai%2Fsavivaldybe%2F" target="_blank" rel="noopener">Dalintis „LinkedIn“</a>
+    <button type="button" onclick="navigator.clipboard.writeText('https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/savivaldybe/').then(() => { this.textContent = 'Nuoroda nukopijuota'; });">Kopijuoti nuorodą</button>
+  </div>
+</div>
+<div class="savivaldybe-status">
+  <strong>Diskusija ir skaitytojų komentarai</strong><br>
+  Šio straipsnio diskusija vyksta <a href="https://www.facebook.com/profile.php?id=61591523192102" rel="noopener" target="_blank">„Facebook“ puslapyje „Daugiabučio įgaliotinio užrašai“</a>.
 </div>
 
 [Grįžti į ciklo puslapį](/daugiabucio-igaliotinio-uzrasai/)

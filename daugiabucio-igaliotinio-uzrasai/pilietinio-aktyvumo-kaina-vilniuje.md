@@ -204,6 +204,15 @@ body {
     font-size: 20px;
   }
 }
+
+.savivaldybe-status { background: var(--soft); border-left: 5px solid var(--accent); padding: 18px 20px; margin: 24px 0; }
+.savivaldybe-share { margin: 28px 0 18px; padding: 18px 20px; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); font-family: Arial, sans-serif; }
+.savivaldybe-share strong { display: block; margin-bottom: 12px; font-size: 17px; }
+.savivaldybe-share-actions { display: flex; flex-wrap: wrap; gap: 10px; }
+.savivaldybe-share-actions a,
+.savivaldybe-share-actions button { appearance: none; border: 1px solid var(--accent); border-radius: 4px; background: var(--paper); color: var(--accent); cursor: pointer; display: inline-flex; align-items: center; min-height: 38px; padding: 8px 12px; font: 700 14px/1.2 Arial, sans-serif; text-decoration: none; }
+.savivaldybe-share-actions a:hover,
+.savivaldybe-share-actions button:hover { background: var(--soft); }
 </style>
 
 <main class="savivaldybe-page" markdown="1">
@@ -293,10 +302,24 @@ Mano patirtis rodo, kad šiandien Vilniuje už tokį aktyvumą Valdas Benkunska
 
 Tai yra mano vieša pilietinė pozicija, paremta patirtimi, raštais ir savivaldybės veiksmų seka; jeigu mano išvados netikslios, Valdas Benkunskas, Adomas Bužinskas ir Vilniaus miesto savivaldybė gali tai paneigti paprastai – viešai, raštu ir argumentais.
 
-## Susijęs tekstas
+## Susiję tekstai
+
+[Ar verta pirkti butą iš „Citus“? Viešas klausimas Mindaugui Vanagui dėl užliejamo požeminio parkingo](/daugiabucio-igaliotinio-uzrasai/citus/mindaugas-vanagas-uzliejamas-parkingas/) – naujesnis Evaldo Jablonsko tekstas apie nuo 2023 metų fiksuojamą vandens patekimą į „Citus“ projekto požeminį parkingą.
 
 [Kai savivaldybė daugiabučio įgaliotinį prilygina administratoriui](/daugiabucio-igaliotinio-uzrasai/savivaldybe/) – ankstesnis Evaldo Jablonsko tekstas apie tai, kaip Vilniaus savivaldybė daugiabučio įgaliotinį vertina kaip administratorių ar pastato valdytoją.
 
+<div class="savivaldybe-share">
+  <strong>Pasidalinti straipsniu</strong>
+  <div class="savivaldybe-share-actions">
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fevaldasjablonskas.lt%2Fdaugiabucio-igaliotinio-uzrasai%2Fsavivaldybe%2Fpilietinio-aktyvumo-kaina-vilniuje%2F" target="_blank" rel="noopener">Dalintis „Facebook“</a>
+    <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fevaldasjablonskas.lt%2Fdaugiabucio-igaliotinio-uzrasai%2Fsavivaldybe%2Fpilietinio-aktyvumo-kaina-vilniuje%2F" target="_blank" rel="noopener">Dalintis „LinkedIn“</a>
+    <button type="button" onclick="navigator.clipboard.writeText('https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/savivaldybe/pilietinio-aktyvumo-kaina-vilniuje/').then(() => { this.textContent = 'Nuoroda nukopijuota'; });">Kopijuoti nuorodą</button>
+  </div>
+</div>
+<div class="savivaldybe-status">
+  <strong>Diskusija ir skaitytojų komentarai</strong><br>
+  Šio straipsnio diskusija vyksta <a href="https://www.facebook.com/profile.php?id=61591523192102" rel="noopener" target="_blank">„Facebook“ puslapyje „Daugiabučio įgaliotinio užrašai“</a>.
+</div>
 <p class="savivaldybe-series">
   <a href="/daugiabucio-igaliotinio-uzrasai/">Grįžti į ciklo puslapį</a>
 </p>
