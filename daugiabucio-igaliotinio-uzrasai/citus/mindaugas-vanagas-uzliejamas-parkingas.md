@@ -3,11 +3,11 @@ layout: default
 title: "Evaldas Jablonskas: viešas klausimas „Citus“ įkūrėjui Mindaugui Vanagui dėl užliejamo parkingo"
 headline: "Ar verta pirkti butą iš „Citus“? Viešas klausimas Mindaugui Vanagui dėl užliejamo požeminio parkingo"
 description: "Evaldas Jablonskas viešai klausia „Citus“ įkūrėjo Mindaugo Vanago apie nuo 2023 metų fiksuojamą vandens skverbimąsi į požeminį parkingą ir ilgalaikį defektų pašalinimą."
-date: 2026-07-17
-date_modified: 2026-07-17
+date: 2026-07-15
+date_modified: 2026-07-15
 permalink: /daugiabucio-igaliotinio-uzrasai/citus/mindaugas-vanagas-uzliejamas-parkingas/
 image: /daugiabucio-igaliotinio-uzrasai/citus/evaldas-jablonskas-viesas-klausimas-citus-mindaugui-vanagui.webp
-image_alt: "Evaldas Jablonskas – viešas klausimas „Citus“ įkūrėjui Mindaugui Vanagui dėl vandens skverbimosi į požeminį parkingą"
+image_alt: "DI sukurta simbolinė iliustracija: Evaldas Jablonskas viešai kreipiasi į „Citus“ įkūrėją Mindaugą Vanagą dėl vandens skverbimosi į požeminį parkingą"
 lang: lt
 type: article
 author: "Evaldas Jablonskas"
@@ -229,7 +229,7 @@ body {
 <p class="savivaldybe-date">Paskelbta: 2026-07-15</p>
 
 <figure class="savivaldybe-hero">
-  <img src="/daugiabucio-igaliotinio-uzrasai/citus/evaldas-jablonskas-viesas-klausimas-citus-mindaugui-vanagui.webp" alt="Evaldas Jablonskas – viešas klausimas „Citus“ įkūrėjui Mindaugui Vanagui dėl vandens skverbimosi į požeminį parkingą" title="Evaldas Jablonskas – viešas klausimas „Citus“ įkūrėjui Mindaugui Vanagui dėl požeminio parkingo">
+  <img src="/daugiabucio-igaliotinio-uzrasai/citus/evaldas-jablonskas-viesas-klausimas-citus-mindaugui-vanagui.webp" alt="DI sukurta simbolinė iliustracija: Evaldas Jablonskas viešai kreipiasi į „Citus“ įkūrėją Mindaugą Vanagą dėl vandens skverbimosi į požeminį parkingą" title="Evaldas Jablonskas – viešas klausimas „Citus“ įkūrėjui Mindaugui Vanagui dėl požeminio parkingo">
 </figure>
 
 <p class="savivaldybe-caption">Dirbtiniu intelektu sukurta simbolinė redakcinė iliustracija, skirta Evaldo Jablonsko viešam klausimui „Citus“ įkūrėjui Mindaugui Vanagui dėl nuo 2023 metų fiksuojamo vandens skverbimosi į požeminį parkingą. Iliustracija nėra dokumentinė konkrečios vietos ar įvykio nuotrauka.</p>
