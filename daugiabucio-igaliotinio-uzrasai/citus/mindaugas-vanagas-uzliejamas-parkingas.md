@@ -210,6 +210,13 @@ body {
 .savivaldybe-status { background: var(--soft); border-left: 5px solid var(--accent); padding: 18px 20px; margin: 24px 0; }
 .savivaldybe-photo { margin: 28px 0 14px; }
 .savivaldybe-photo img { display:block; width:100%; height:auto; border:1px solid var(--line); border-radius:6px; }
+.savivaldybe-share { margin: 28px 0 18px; padding: 18px 20px; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); font-family: Arial, sans-serif; }
+.savivaldybe-share strong { display: block; margin-bottom: 12px; font-size: 17px; }
+.savivaldybe-share-actions { display: flex; flex-wrap: wrap; gap: 10px; }
+.savivaldybe-share-actions a,
+.savivaldybe-share-actions button { appearance: none; border: 1px solid var(--accent); border-radius: 4px; background: var(--paper); color: var(--accent); cursor: pointer; display: inline-flex; align-items: center; min-height: 38px; padding: 8px 12px; font: 700 14px/1.2 Arial, sans-serif; text-decoration: none; }
+.savivaldybe-share-actions a:hover,
+.savivaldybe-share-actions button:hover { background: var(--soft); }
 </style>
 
 <main class="savivaldybe-page" markdown="1">
@@ -219,13 +226,13 @@ body {
 
 # Ar verta pirkti butą iš „Citus“? Viešas klausimas Mindaugui Vanagui dėl užliejamo požeminio parkingo
 
-<p class="savivaldybe-date">Numatoma publikacijos data: 2026-07-17</p>
+<p class="savivaldybe-date">Paskelbta: 2026-07-15</p>
 
 <figure class="savivaldybe-hero">
   <img src="/daugiabucio-igaliotinio-uzrasai/citus/evaldas-jablonskas-viesas-klausimas-citus-mindaugui-vanagui.webp" alt="Evaldas Jablonskas – viešas klausimas „Citus“ įkūrėjui Mindaugui Vanagui dėl vandens skverbimosi į požeminį parkingą" title="Evaldas Jablonskas – viešas klausimas „Citus“ įkūrėjui Mindaugui Vanagui dėl požeminio parkingo">
 </figure>
 
-<p class="savivaldybe-caption">DI sukurta simbolinė redakcinė iliustracija, skirta Evaldo Jablonsko viešam klausimui „Citus“ įkūrėjui Mindaugui Vanagui dėl nuo 2023 metų fiksuojamo vandens skverbimosi į požeminį parkingą.</p>
+<p class="savivaldybe-caption">Dirbtiniu intelektu sukurta simbolinė redakcinė iliustracija, skirta Evaldo Jablonsko viešam klausimui „Citus“ įkūrėjui Mindaugui Vanagui dėl nuo 2023 metų fiksuojamo vandens skverbimosi į požeminį parkingą. Iliustracija nėra dokumentinė konkrečios vietos ar įvykio nuotrauka.</p>
 
 <p class="savivaldybe-source">Autorius: Evaldas Jablonskas. Publikacijoje pateikiama asmeninė ir kitų namo gyventojų patirtis, grindžiama susirašinėjimu, nuotraukomis ir vaizdo medžiaga.</p>
 
@@ -249,7 +256,7 @@ Kai kuriose vietose ant mūrinių blokelių ar plytų užtepta medžiaga nuo pag
 
 ## Remontas atliktas, tačiau problema persikėlė kitur
 
-Konkreti vaizdo įraše užfiksuota vieta šiuo metu jau aptvarkyta. Tačiau tai nekeičia bendros situacijos.
+Konkreti vaizdo įraše užfiksuota vieta (po kelių kartų) šiuo metu jau aptvarkyta. Tačiau tai nekeičia bendros situacijos.
 
 Kai vienoje vietoje vandens skverbimasis pristabdomas, po kurio laiko jis pasirodo kitur. Todėl vien lokaliai užtepti matomą pratekėjimo vietą nepakanka.
 
@@ -281,7 +288,19 @@ Mindaugo Vanago viešai paklausta:
 - Kokių konkrečių veiksmų ir per kokį terminą „Citus“ ketina imtis, kad būtų užtikrintas ilgalaikis problemos pašalinimas?
 - Ar „Citus“ yra pasirengęs kartu su gyventojų atstovais ir pastato valdytoju organizuoti nepriklausomą defektavimą bei pagal jo išvadas pašalinti nustatytas vandens patekimo priežastis?
 
-<p class="savivaldybe-status"><strong>Prieš publikacijos paskelbimą Mindaugo Vanago buvo paprašyta pateikti poziciją. Atsakymui nustatytas terminas – 2026 m. liepos 16 d. 17.00 val. – dar nėra pasibaigęs.</strong></p>
+<p class="savivaldybe-status"><strong>Atnaujinimas, 2026-07-15:</strong> Mindaugas Vanagas asmeniškai atsakymo nepateikė. Gautas „Vanagas Group“ teisininkės Vaidos Mazarevičienės atsakymas, kuriame nurodyta, kad kreipimasis perduotas garantinio aptarnavimo ir statybų priežiūros komandai.</p>
+
+## Gautas teisininkės atsakymas
+
+2026 m. liepos 15 d. 08.45 val. gavau „Vanagas Group“ teisininkės Vaidos Mazarevičienės atsakymą. Jame nurodyta, kad mano kreipimasis į įmonės vadovybę buvo perduotas garantinio aptarnavimo ir statybų priežiūros komandai.
+
+Atsakyme teigiama, kad mano atsiųsta filmuota medžiaga yra datuojama 2023 m. spalio mėnesiu, kai projektas dar buvo aktyvioje statybų stadijoje ir nebuvo atiduotas eksploatacijai. Taip pat nurodyta, kad garantinio aptarnavimo specialistai situaciją žino, dėl jos buvo imtasi veiksmų, o šiais metais po stiprių liūčių atsakingas atstovas objekte lankėsi 2026-04-28, 2026-05-08, 2026-05-25 ir 2026-06-24.
+
+Teisininkės atsakyme nurodyta, kad šių apsilankymų metu vandens pratekėjimų nebuvo užfiksuota, o mano pateikta informacija vertinama kaip pirmasis tokio pobūdžio įvykis šiais metais. Taip pat pažymėta, kad garantinio skyriaus specialistai atlieka situacijos analizę, planuoja artimiausią vizitą į objektą ir apie patikrinimo išvadas informuos.
+
+Tą pačią dieną, 2026 m. liepos 15 d. 09.16 val., atsakiau, kad teiginys apie pirmą tokio pobūdžio įvykį šiais metais neatitinka mano turimos faktinės medžiagos. Nurodžiau 2026 m. vasario 7 d. užfiksuotą vandens prasiskverbimą ir 2026 m. liepos 10 d. PUV neeilinės apžiūros defektinį aktą, kuriame oficialiai fiksuoti pratekėjimai ties 34-35 ir 115 parkavimo vietomis.
+
+Papildomai paprašiau nurodyti konkrečią numatomos apžiūros datą, terminą, iki kada bus nustatyta vandens patekimo priežastis, ar bus tiriama išorinė hidroizoliacija, ir iki kada bus pateiktas konkretus defekto šalinimo planas.
 
 ## Ar verta pirkti butą iš „Citus“?
 
@@ -289,17 +308,33 @@ Mindaugo Vanago viešai paklausta:
 
 Aš galiu tik viešai parodyti savo ir kitų mūsų namų gyventojų realią patirtį: kaip ilgai sprendžiami defektai, kokie remonto būdai pasirenkami ir kas vyksta tada, kai atlikti taisymo darbai problemos neišsprendžia.
 
-Žemiau pateikiamas trumpas vaizdo įrašas yra tik vienas epizodas iš ketvirtus metus besitęsiančios užliejamo parkingo istorijos.
+Šiame tekste pateiktas trumpas vaizdo įrašas yra tik vienas epizodas iš ketvirtus metus besitęsiančios užliejamo parkingo istorijos.
 
 Apie kitus mūsų projekte nustatytus defektus, jų šalinimą ir bendravimą su „Citus“ rašysiu kituose ciklo „Daugiabučio įgaliotinio užrašai“ tekstuose.
 
-Šiame tekste pateikiama asmeninė ir kitų gyventojų patirtis bei faktai, kuriuos galima pagrįsti susirašinėjimu ir vaizdo medžiaga. Publikacijoje pateikiami klausimai nėra išankstinė išvada dėl „Citus“ ar Mindaugo Vanago atsakomybės; jų pozicija, jeigu bus gauta, bus paskelbta atnaujinant šį tekstą.
+Šiame tekste pateikiama asmeninė ir kitų gyventojų patirtis bei faktai, kuriuos galima pagrįsti susirašinėjimu ir vaizdo medžiaga. Publikacijoje pateikiami klausimai nėra išankstinė išvada dėl „Citus“ ar Mindaugo Vanago atsakomybės. Gautas „Vanagas Group“ teisininkės atsakymas apibendrintas šiame tekste; jeigu bus gauta papildoma pozicija ar konkretus defekto šalinimo planas, tekstas bus atnaujintas.
 
 ## Susiję tekstai
 
 [Pilietinio aktyvumo kaina Vilniuje](/daugiabucio-igaliotinio-uzrasai/savivaldybe/pilietinio-aktyvumo-kaina-vilniuje/) – ankstesnis Evaldo Jablonsko tekstas apie daugiabučio įgaliotinio patirtį.
 
+<div class="savivaldybe-share">
+  <strong>Pasidalinti straipsniu</strong>
+  <div class="savivaldybe-share-actions">
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fevaldasjablonskas.lt%2Fdaugiabucio-igaliotinio-uzrasai%2Fcitus%2Fmindaugas-vanagas-uzliejamas-parkingas%2F" target="_blank" rel="noopener">Dalintis „Facebook“</a>
+    <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fevaldasjablonskas.lt%2Fdaugiabucio-igaliotinio-uzrasai%2Fcitus%2Fmindaugas-vanagas-uzliejamas-parkingas%2F" target="_blank" rel="noopener">Dalintis „LinkedIn“</a>
+    <button type="button" onclick="navigator.clipboard.writeText('https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/citus/mindaugas-vanagas-uzliejamas-parkingas/').then(() => { this.textContent = 'Nuoroda nukopijuota'; });">Kopijuoti nuorodą</button>
+  </div>
+</div>
+<div class="savivaldybe-status">
+  <strong>Diskusija ir skaitytojų komentarai</strong><br>
+  Šio straipsnio diskusija vyksta <a href="https://www.facebook.com/profile.php?id=61591523192102" rel="noopener" target="_blank">„Facebook“ puslapyje „Daugiabučio įgaliotinio užrašai“</a>.
+</div>
 <p class="savivaldybe-series"><a href="/daugiabucio-igaliotinio-uzrasai/">Grįžti į ciklo puslapį</a></p>
 
 </article>
 </main>
+
+
+
+
