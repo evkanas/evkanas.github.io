@@ -156,6 +156,14 @@ Man svarbu parodyti, kad daugiabučio įgaliotinis nėra administratorius, pasta
 
 <div class="igaliotinis-article-list">
 
+<h3><a href="/daugiabucio-igaliotinio-uzrasai/citus/mindaugas-vanagas-uzliejamas-parkingas/">Ar verta pirkti butą iš „Citus“? Viešas klausimas Mindaugui Vanagui dėl užliejamo požeminio parkingo</a></h3>
+
+<p>Evaldas Jablonskas rašo apie nuo 2023 metų fiksuojamą vandens skverbimąsi į požeminį parkingą ir viešai kreipiasi į „Citus“ įkūrėją Mindaugą Vanagą.</p>
+
+</div>
+
+<div class="igaliotinis-article-list">
+
 <h3><a href="/daugiabucio-igaliotinio-uzrasai/savivaldybe/pilietinio-aktyvumo-kaina-vilniuje/">Pilietinio aktyvumo kaina Vilniuje: kaip Valdas Benkunskas ir Adomas Bužinskas naikina nepatogius įgaliotinius</a></h3>
 
 <p>Apie tai, kaip deklaruojamas gyventojų aktyvumo skatinimas Vilniuje praktikoje gali virsti spaudimu daugiabučio įgaliotiniui, neįvykdomais reikalavimais ir baudų grėsme.</p>
