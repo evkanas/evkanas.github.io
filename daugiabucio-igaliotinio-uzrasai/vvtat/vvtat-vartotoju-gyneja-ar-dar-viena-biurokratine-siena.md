@@ -127,9 +127,7 @@ Aiškaus atsakymo, kokiu teisiniu pagrindu turėčiau rinkti tokius kaimynų duo
 
 ## Įgaliotinis nėra administratorius
 
-Bendraudamas su VVTAT ne kartą aiškinau, kad nesu daugiabučio namo administratorius.
-
-Esu savininkų įgaliotinis pagal jungtinės veiklos sutartį. Tai nėra tas pats teisinis statusas.
+Bendraudamas su VVTAT nuosekliai nurodžiau, kad veikiu kaip daugiabučio namo savininkų įgaliotinis pagal jungtinės veiklos sutartį. Tai nėra profesionalaus administratoriaus statusas.
 
 Šį skirtumą vėliau aiškiai pažymėjo ir Vilniaus miesto apylinkės teismas:
 
