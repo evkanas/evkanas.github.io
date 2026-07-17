@@ -159,9 +159,9 @@ Dabartinis institucijos mąstymas veda prie iškreiptos atsakomybės schemos, ku
 
 ## Susiję tekstai
 
-[Ar verta pirkti butą iš „Citus“? Viešas klausimas Mindaugui Vanagui dėl užliejamo požeminio parkingo](/daugiabucio-igaliotinio-uzrasai/citus/mindaugas-vanagas-uzliejamas-parkingas/) – naujausias Evaldo Jablonsko tekstas apie nuo 2023 metų fiksuojamą vandens patekimą į „Citus“ projekto požeminį parkingą.
+[Ar verta pirkti butą iš „Citus“? Viešas klausimas Mindaugui Vanagui dėl užliejamo požeminio parkingo](/daugiabucio-igaliotinio-uzrasai/citus/mindaugas-vanagas-uzliejamas-parkingas/) – apie nuo 2023 metų fiksuojamą vandens patekimą į „Citus“ projekto požeminį parkingą.
 
-[Evaldas Jablonskas: Valdas Benkunskas, Adomas Bužinskas ir pilietinio aktyvumo kaina Vilniuje](/daugiabucio-igaliotinio-uzrasai/savivaldybe/pilietinio-aktyvumo-kaina-vilniuje/) – tęstinis tekstas apie Vilniaus savivaldybės požiūrį į aktyvų daugiabučio įgaliotinį, pilietinį aktyvumą ir administracinio spaudimo riziką.
+[Evaldas Jablonskas: Valdas Benkunskas, Adomas Bužinskas ir pilietinio aktyvumo kaina Vilniuje](/daugiabucio-igaliotinio-uzrasai/savivaldybe/pilietinio-aktyvumo-kaina-vilniuje/) – apie Vilniaus savivaldybės požiūrį į aktyvų daugiabučio įgaliotinį, pilietinį aktyvumą ir administracinio spaudimo riziką.
 
 ### Projekto pastaba
 
