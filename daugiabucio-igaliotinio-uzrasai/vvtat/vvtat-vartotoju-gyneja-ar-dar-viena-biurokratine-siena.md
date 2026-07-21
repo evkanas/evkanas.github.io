@@ -3,8 +3,8 @@ layout: default
 title: "VVTAT – vartotojų gynėja ar dar viena biurokratinė siena?"
 headline: "VVTAT – vartotojų gynėja ar dar viena biurokratinė siena?"
 description: "Evaldas Jablonskas rašo apie patirtį kreipiantis į VVTAT dėl daugiabučio administratoriaus apskaičiuoto mokesčio ir institucijos reikalavimo rinkti kaimynų sąskaitas bei mokėjimų duomenis."
-date: 2026-07-16
-date_modified: 2026-07-16
+date: 2026-07-21
+date_modified: 2026-07-21
 permalink: /daugiabucio-igaliotinio-uzrasai/vvtat/vvtat-vartotoju-gyneja-ar-dar-viena-biurokratine-siena/
 image: /daugiabucio-igaliotinio-uzrasai/vvtat/evaldas-jablonskas-vvtat-vartotoju-gyneja-biurokratine-siena.webp
 image_alt: "Evaldas Jablonskas apie VVTAT: vartotojų gynėja ar biurokratinė siena, kairėje direktorės pavaduotoja Aida Gasiūnaitė-Stavginskienė, dešinėje direktorė Goda Aleksaitė"
@@ -53,7 +53,8 @@ body { background: #f5f1ea !important; margin: 0 !important; overflow-x: hidden 
 .vvtat-date { margin: -4px 0 22px; }
 .vvtat-hero { margin: 30px 0 14px; }
 .vvtat-hero img { display: block; width: 100%; height: auto; border: 1px solid var(--line); border-radius: 6px; box-shadow: 0 12px 28px rgba(0,0,0,.16); }
-.vvtat-caption { color: var(--muted); font-style: italic; }
+.vvtat-caption { color: var(--muted); font-size: 14px !important; font-style: italic; line-height: 1.45; margin-top: 8px !important; }
+.vvtat-source { font-size: 14px !important; line-height: 1.45; margin: 10px 0 20px !important; }
 .vvtat-article a { color: #5d2d82; text-decoration-thickness: 1px; text-underline-offset: 3px; }
 .vvtat-article ul { margin: 0 0 24px 24px; padding: 0; }
 .vvtat-article li { margin: 8px 0; }
@@ -73,7 +74,7 @@ body { background: #f5f1ea !important; margin: 0 !important; overflow-x: hidden 
 
 # VVTAT – vartotojų gynėja ar dar viena biurokratinė siena?
 
-<p class="vvtat-date">Paskelbta: 2026-07-16</p>
+<p class="vvtat-date">Paskelbta: 2026-07-21</p>
 
 <figure class="vvtat-hero">
   <img src="/daugiabucio-igaliotinio-uzrasai/vvtat/evaldas-jablonskas-vvtat-vartotoju-gyneja-biurokratine-siena.webp" alt="Evaldas Jablonskas apie VVTAT: vartotojų gynėja ar biurokratinė siena, kairėje direktorės pavaduotoja Aida Gasiūnaitė-Stavginskienė, dešinėje direktorė Goda Aleksaitė" title="VVTAT – kas atsakingas už sprendimus dėl daugiabučio įgaliotinio ir administratoriaus?">
@@ -170,19 +171,20 @@ Mano atveju šis kelias tapo papildoma procedūrine ir biurokratine kliūtimi.
 
 Vietoje aiškaus atsakymo dėl administratoriaus apskaičiuoto mokesčio teko įrodinėti savo, kaip įgaliotinio, statusą, aiškintis dėl kitų gyventojų dokumentų rinkimo ir kreiptis į kitą valstybės instituciją, kad VVTAT atsakytų į pateiktus klausimus.
 
-## VVTAT suteikta galimybė pateikti savo poziciją
+## Vieši klausimai VVTAT direktorei ir jos pavaduotojai
 
-Prieš publikuodamas šį straipsnį pateikiau VVTAT klausimus ir suteikiau Tarnybai galimybę paaiškinti savo veiksmus.
+Prieš publikuodamas šį straipsnį pateikiau VVTAT klausimus ir suteikiau Tarnybai galimybę paaiškinti savo veiksmus. VVTAT patvirtino, kad paklausimas gautas ir užregistruotas, tačiau iki prašyto termino atsakymų į pateiktus klausimus nepateikė.
 
-VVTAT paprašiau paaiškinti:
+Todėl šiuos klausimus viešai keliu VVTAT direktorei <strong>Godai Aleksaitei</strong> ir direktorės pavaduotojai <strong>Aidai Gasiūnaitei-Stavginskienei</strong>:
 
-- kokiu teisiniu pagrindu buvo reikalaujama atskirų savininkų sąskaitų ir mokėjimo dokumentų;
-- kodėl šie dokumentai buvo būtini nagrinėjant visam namui apskaičiuotą mokestį;
-- ar buvo vertinta įgaliotinio teisė rinkti kitų gyventojų asmens duomenis;
-- kodėl įgaliotinio statusas buvo siejamas su profesionalaus administratoriaus statusu;
-- kodėl aiškus atsakymas buvo pateiktas tik po pakartotinių kreipimųsi ir Seimo kontrolierės tarpininkavimo.
-
-<p class="vvtat-status"><strong>VVTAT atsakymą paprašiau pateikti iki 2026 m. liepos 21 d. 12.00 val.</strong> Ši vieta bus papildyta VVTAT atsakymu arba informacija, kad atsakymas iki nurodyto termino nebuvo pateiktas.</p>
+- Kokiu konkrečiu teisiniu ir faktiniu pagrindu nagrinėjant ginčą iš manęs buvo reikalaujama pateikti atskirų daugiabučio namo butų savininkų sąskaitas, banko mokėjimų duomenis ar kitus individualius mokėjimą patvirtinančius dokumentus?
+- Kodėl šie dokumentai buvo laikomi būtinais, nors ginčas buvo susijęs su visam namui pagal bendrą namo plotą ir vienodą tarifą apskaičiuotu mokesčiu?
+- Ar VVTAT, reikalaudama tokių dokumentų, vertino, kokiu teisiniu pagrindu daugiabučio savininkų įgaliotinis galėtų rinkti ir perduoti kitų savininkų sąskaitas, banko mokėjimų informaciją bei kitus jų asmens duomenis?
+- Ar VVTAT laikosi pozicijos, kad daugiabučio savininkų įgaliotinis privalo rinkti tokius kitų savininkų dokumentus, kad galėtų ginčyti visam namui apskaičiuotą mokestį?
+- Kodėl VVTAT atsakymuose daugiabučio savininkų įgaliotinio statusas buvo siejamas su administratoriumi, veikiančiu jungtinės veiklos sutarties pagrindu, nors aš nesu profesionalus daugiabučio administratorius?
+- Kodėl aiškus patvirtinimas, kad tinkamai įgaliotas daugiabučio savininkų įgaliotinis gali atstovauti savininkams vartojimo ginče, buvo pateiktas tik po pakartotinių kreipimųsi ir Seimo kontrolierės tarpininkavimo?
+- Ar VVTAT pripažįsta, kad dalis mano pateiktų klausimų iš pradžių nebuvo atsakyti tiesiogiai ir kad atsakymas nebuvo pateiktas nustatytu laiku?
+- Kaip VVTAT vertina kritiką, kad šiuo konkrečiu atveju Tarnybos taikyti dokumentų reikalavimai ir atsakymų teikimas ne palengvino, bet apsunkino daugiabučio gyventojų galimybes apginti vartotojų teises?
 
 ## Ko norėtųsi iš vartotojų gynėjos?
 
@@ -199,7 +201,7 @@ Valstybinė vartotojų teisių apsaugos tarnyba turėtų būti institucija, kuri
 
 Tačiau mano patirtis kelia priešingą klausimą: kas apgins vartotoją, kai pati vartotojų gynėja tampa papildoma biurokratine siena?
 
-Ši publikacija yra mano asmeninis dokumentais ir susirašinėjimu grindžiamas VVTAT veiksmų bei jų pasekmių vertinimas. VVTAT pozicija bus pateikta gavus Tarnybos atsakymą.
+Ši publikacija yra mano asmeninis dokumentais ir susirašinėjimu grindžiamas VVTAT veiksmų bei jų pasekmių vertinimas. VVTAT buvo pateikti konkretūs klausimai dėl šiame tekste aprašytų aplinkybių, tačiau iki prašyto termino atsakymų į juos nepateikė. Tarnybos pozicija bus pateikta, jeigu ji bus gauta vėliau.
 
 ## Susiję tekstai
 
@@ -226,10 +228,5 @@ Tačiau mano patirtis kelia priešingą klausimą: kas apgins vartotoją, kai pa
 
 </article>
 </main>
-
-
-
-
-
 
 
