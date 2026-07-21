@@ -308,6 +308,8 @@ Tai yra mano vieša pilietinė pozicija, paremta patirtimi, raštais ir savivald
 
 [Kai savivaldybė daugiabučio įgaliotinį prilygina administratoriui](/daugiabucio-igaliotinio-uzrasai/savivaldybe/) – apie tai, kaip Vilniaus savivaldybė daugiabučio įgaliotinį vertina kaip administratorių ar pastato valdytoją.
 
+[VVTAT – vartotojų gynėja ar dar viena biurokratinė siena?](/daugiabucio-igaliotinio-uzrasai/vvtat/vvtat-vartotoju-gyneja-ar-dar-viena-biurokratine-siena/) – tekstas apie VVTAT nagrinėtą vartojimo ginčą, įgaliotinio statusą ir institucinius dokumentų reikalavimus.
+
 <div class="savivaldybe-share">
   <strong>Pasidalinti straipsniu</strong>
   <div class="savivaldybe-share-actions">
@@ -326,3 +328,4 @@ Tai yra mano vieša pilietinė pozicija, paremta patirtimi, raštais ir savivald
 
 </article>
 </main>
+

@@ -153,6 +153,13 @@ Man svarbu parodyti, kad daugiabučio įgaliotinis nėra administratorius, pasta
 
 ## Straipsniai
 
+<div class="igaliotinis-article-list">
+
+<h3><a href="/daugiabucio-igaliotinio-uzrasai/vvtat/vvtat-vartotoju-gyneja-ar-dar-viena-biurokratine-siena/">VVTAT – vartotojų gynėja ar dar viena biurokratinė siena?</a></h3>
+
+<p>Evaldas Jablonskas rašo apie patirtį kreipiantis į VVTAT dėl daugiabučio administratoriaus apskaičiuoto mokesčio, įgaliotinio statuso ir reikalavimo rinkti kaimynų sąskaitas bei mokėjimų duomenis.</p>
+
+</div>
 
 <div class="igaliotinis-article-list">
 
@@ -193,3 +200,4 @@ Man svarbu parodyti, kad daugiabučio įgaliotinis nėra administratorius, pasta
 Tolesniuose įrašuose planuoju detaliau nagrinėti savivaldybės atsakymų formalizmą, defektų dokumentavimą, statytojų garantinius triukus ir ANK 505 straipsnio taikymo užkulisius.
 
 [Grįžti į pagrindinį puslapį](/)
+

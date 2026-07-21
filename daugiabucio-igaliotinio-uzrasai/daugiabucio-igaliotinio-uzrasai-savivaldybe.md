@@ -163,6 +163,8 @@ Dabartinis institucijos mąstymas veda prie iškreiptos atsakomybės schemos, ku
 
 [Evaldas Jablonskas: Valdas Benkunskas, Adomas Bužinskas ir pilietinio aktyvumo kaina Vilniuje](/daugiabucio-igaliotinio-uzrasai/savivaldybe/pilietinio-aktyvumo-kaina-vilniuje/) – apie Vilniaus savivaldybės požiūrį į aktyvų daugiabučio įgaliotinį, pilietinį aktyvumą ir administracinio spaudimo riziką.
 
+[VVTAT – vartotojų gynėja ar dar viena biurokratinė siena?](/daugiabucio-igaliotinio-uzrasai/vvtat/vvtat-vartotoju-gyneja-ar-dar-viena-biurokratine-siena/) – tekstas apie tai, kaip vartotojų teisių institucijoje daugiabučio įgaliotiniui vėl tenka aiškinti savo statusą ir teisę atstovauti gyventojams.
+
 ### Projekto pastaba
 
 <div class="igaliotinis-note">
