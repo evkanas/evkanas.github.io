@@ -13,13 +13,30 @@ type: article
 author: "Evaldas Jablonskas"
 keywords:
   - Evaldas Jablonskas
+  - Evaldas Jablonskas Citus
+  - Evaldas Jablonskas Marius Karpavičius
   - Citus
-  - Marius Karpavičius
+  - Citus atsiliepimai
   - Citus garantinis skyrius
-  - elektros skydinė
+  - Citus garantija
+  - Citus defektai
+  - Citus požeminis parkingas
+  - Citus vanduo parkinge
+  - Citus elektros skydinė
+  - Citus būsto kokybė
+  - Marius Karpavičius
+  - Marius Karpavičius Citus
+  - Citus Marius Karpavičius
+  - Citus garantinio skyriaus vadovas
+  - Mindaugas Vanagas
+  - Mindaugas Vanagas Citus
+  - Citus įkūrėjas
+  - Citus akcininkas
+  - Citus reputacija
   - vanduo elektros skydinėje
-  - požeminis parkingas
   - garantiniai defektai
+  - statinio apžiūros aktas
+  - daugiabučio įgaliotinis
 about:
   - Evaldas Jablonskas
   - Citus
@@ -74,15 +91,23 @@ body { background: #f5f1ea !important; margin: 0 !important; overflow-x: hidden 
 .citus-article p, .citus-article li { font-size: 19px; }
 .citus-article p { margin: 0 0 18px; }
 .citus-lead { color: #3b352f; border-left: 5px solid var(--accent); padding-left: 18px; margin-bottom: 26px; font-size: 23px !important; line-height: 1.5; }
-.citus-date, .citus-source { font-size: 0.95em; }
+.citus-date { font-size: 0.95em; }
+.citus-article .citus-source { font-size: 15px; line-height: 1.45; }
 .citus-date { margin: -4px 0 22px; }
 .citus-hero { margin: 30px 0 14px; }
 .citus-hero img { display: block; width: 100%; height: auto; border: 1px solid var(--line); border-radius: 6px; box-shadow: 0 12px 28px rgba(0, 0, 0, 0.16); }
-.citus-caption { color: var(--muted); font-style: italic; }
+.citus-article .citus-caption { color: var(--muted); font-size: 15px; font-style: italic; line-height: 1.45; }
 .citus-article ul, .citus-article ol { margin: 0 0 24px 24px; padding: 0; }
 .citus-article li { margin: 8px 0; }
 .citus-status { background: var(--soft); border-left: 5px solid var(--accent); padding: 18px 20px; margin: 24px 0; }
+.citus-video-figure { display: grid; grid-template-columns: minmax(180px, 260px) 1fr; gap: 20px; align-items: start; width: 100%; margin: 24px 0 34px; padding: 16px 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+.citus-video { position: relative; width: 100%; margin: 0; aspect-ratio: 9 / 16; }
+.citus-video iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; border-radius: 8px; box-shadow: 0 12px 28px rgba(0, 0, 0, 0.16); }
+.citus-video-copy { margin: 0; }
+.citus-video-copy strong { display: block; margin: 0 0 8px; font-family: Arial, sans-serif; font-size: 16px; color: var(--accent); }
+.citus-article .citus-video-copy p { margin: 0; color: var(--muted); font-size: 16px; line-height: 1.5; }
 @media (max-width: 720px) {
+  .citus-video-figure { grid-template-columns: 1fr; max-width: 320px; margin-left: auto; margin-right: auto; }
   .citus-page { padding: 0; }
   .citus-article { border-left: 0; border-right: 0; padding: 28px 20px 42px; }
   .citus-article p, .citus-article li { font-size: 18px; }
@@ -137,6 +162,16 @@ Nepaisant to, vystytojo atstovas toliau reikalavo „papildomų objektyvių įro
 
 Kyla klausimas: kokio objektyvumo dar reikia? Ar gyventojai privalo elektros skydinėje įrengti nuolatinę vaizdo transliaciją, ar laukti, kol vanduo pakenks elektros įrangai?
 
+<figure class="citus-video-figure">
+  <div class="citus-video">
+    <iframe src="https://www.youtube-nocookie.com/embed/l0XRU-LNxU4" title="Evaldas Jablonskas apie „Citus“ garantinį skyrių, Marių Karpavičių ir vandenį elektros skydinėje" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </div>
+  <figcaption class="citus-video-copy">
+    <strong>Vaizdo įrašas: kai akte užfiksuotas vanduo vis tiek laikomas nepakankamu įrodymu</strong>
+    <p>Šiame trumpame „YouTube Shorts“ įraše apibendrinama pagrindinė publikacijos problema: oficialiame statinio apžiūros akte užfiksuotas vandens patekimas į požeminio parkingo elektros skydinės zoną, tačiau „Citus“ garantinio skyriaus vadovas Marius Karpavičius vis tiek reikalauja papildomų „objektyvių“ įrodymų. Tai Evaldo Jablonsko viešas klausimas apie garantinių įsipareigojimų vykdymą ir gyventojų saugumą.</p>
+  </figcaption>
+</figure>
+
 ## Tai ne estetika – tai saugumo klausimas
 
 Drėgmė šalia elektros skydinės nėra nubyrėjęs tinkas ar įskilusi plytelė, kurią galima atidėti vėlesniam laikui. Tai tiesioginis kelias į avariją, elektros įrangos pažeidimus ir galimus nuostolius, už kuriuos galiausiai rizikuotų mokėti patys gyventojai.
@@ -155,11 +190,15 @@ Viešai pateikiu tuos pačius klausimus, kurie buvo išsiųsti „Citus“ ir M.
 4. Kokie konkretūs „papildomi objektyvūs įrodymai“, Jūsų vertinimu, dar yra reikalingi, kai nepriklausomo prietaiso rodmenys fiksuoja ne drėgmę, o vandenį konstrukcijose?
 5. Ar „Citus“ prisiims atsakomybę už galimus nuostolius, jeigu iki galutinio defekto pašalinimo vanduo pakenktų elektros įrangai?
 
-<p class="citus-status"><strong>Vieta „Citus“ ir Mariaus Karpavičiaus pozicijai:</strong> atsakymo paprašyta iki 2026 m. liepos 21 d. 17.00 val. Gavus atsakymą, ši publikacija bus papildyta jų pozicija arba informacija, kad iki nurodyto termino atsakymas nebuvo pateiktas.</p>
+<p class="citus-status"><strong>„Citus“ ir Mariaus Karpavičiaus pozicija:</strong> atsakymo buvo paprašyta iki 2026 m. liepos 21 d. 17.00 val. Iki nurodyto termino nei Marius Karpavičius, nei „Citus“ pozicijos nepateikė. Jeigu atsakymas bus gautas vėliau, ši publikacija bus papildyta.</p>
 
 ## Viešumas lieka vienas iš nedaugelio įrankių
 
 Jeigu ir kituose „Citus“ projektuose taikoma panaši taktika – defektai ignoruojami, į susitikimus neatvykstama, o gyventojų prašoma dar kartą įrodyti tai, kas jau užfiksuota dokumentuose – apie tai verta kalbėti viešai.
+
+Tai dokumentais pagrįsti „Citus“ atsiliepimai ir Evaldo Jablonsko „Citus“ patirtis, susijusi su tuo, kaip veikia „Citus“ garantinis skyrius, kokia reali „Citus“ garantija, kaip sprendžiami „Citus“ defektai ir ką reiškia „Citus“ būsto kokybė, kai problema yra ne abstrakti, o labai konkreti: „Citus“ požeminis parkingas, „Citus“ vanduo parkinge ir „Citus“ elektros skydinė. Šiame kontekste svarbus ir Marius Karpavičius – „Citus“ garantinio skyriaus vadovas, kuriam Evaldas Jablonskas viešai kelia klausimą dėl vandens elektros skydinėje, statinio apžiūros akto ir daugiabučio įgaliotinio pateiktų faktų.
+
+Platesniame kontekste šis klausimas susijęs ir su „Citus“ viešu įvaizdžiu: Mindaugas Vanagas, kaip „Citus“ įkūrėjas, akcininkas ir vienas matomiausių bendrovės veidų, viešojoje erdvėje siejamas su įmonės reputacija, todėl gyventojams pagrįstai kyla klausimas, ar deklaruojama būsto kokybė sutampa su realia garantinių defektų šalinimo praktika.
 
 Tik viešumas, dokumentai ir bendras gyventojų spaudimas gali priversti didžiuosius vystytojus prisiminti, kad garantinis laikotarpis nėra formalumas. Tai įsipareigojimas pašalinti defektus, ypač kai kalbama ne apie estetiką, o apie elektros įrangos saugumą.
 
