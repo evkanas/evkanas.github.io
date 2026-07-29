@@ -3,8 +3,7 @@ layout: default
 title: "Evaldas Jablonskas: viešas klausimas „Citus“ garantinio skyriaus vadovui Mariui Karpavičiui dėl vandens elektros skydinėje"
 headline: "Į elektros skydinę – su skėčiu? Viešas klausimas „Citus“ garantinio skyriaus vadovui Mariui Karpavičiui"
 description: "Evaldas Jablonskas viešai klausia „Citus“ garantinio skyriaus vadovo Mariaus Karpavičiaus, kodėl po apžiūros akte užfiksuoto vandens patekimo į elektros skydinę vis dar reikalaujama papildomų įrodymų."
-date: 2026-07-17
-date_modified: 2026-07-29
+date: 2026-07-29
 permalink: /daugiabucio-igaliotinio-uzrasai/citus/marius-karpavicius-elektros-skydine-vanduo/
 image: /daugiabucio-igaliotinio-uzrasai/citus/evaldas-jablonskas-citus-marius-karpavicius-elektros-skydine-vanduo.webp
 image_alt: "Evaldas Jablonskas viešai klausia „Citus“ garantinio skyriaus vadovo Mariaus Karpavičiaus dėl vandens patekimo į požeminio parkingo elektros skydinę"
@@ -118,7 +117,7 @@ body { background: #f5f1ea !important; margin: 0 !important; overflow-x: hidden 
 
 # Į elektros skydinę – su skėčiu? Viešas klausimas „Citus“ garantinio skyriaus vadovui Mariui Karpavičiui
 
-<p class="citus-date">Paskelbta: 2026-07-17</p>
+<p class="citus-date">Paskelbta: 2026-07-29</p>
 
 <figure class="citus-hero">
   <img src="/daugiabucio-igaliotinio-uzrasai/citus/evaldas-jablonskas-citus-marius-karpavicius-elektros-skydine-vanduo.webp" alt="Evaldas Jablonskas viešai klausia „Citus“ garantinio skyriaus vadovo Mariaus Karpavičiaus dėl vandens patekimo į požeminio parkingo elektros skydinę" title="Evaldas Jablonskas viešai klausia „Citus“ garantinio skyriaus vadovo Mariaus Karpavičiaus dėl vandens elektros skydinėje">
