@@ -4,7 +4,7 @@ title: "Evaldas Jablonskas: viešas klausimas „Citus“ garantinio skyriaus va
 headline: "Į elektros skydinę – su skėčiu? Viešas klausimas „Citus“ garantinio skyriaus vadovui Mariui Karpavičiui"
 description: "Evaldas Jablonskas viešai klausia „Citus“ garantinio skyriaus vadovo Mariaus Karpavičiaus, kodėl po apžiūros akte užfiksuoto vandens patekimo į elektros skydinę vis dar reikalaujama papildomų įrodymų."
 date: 2026-07-17
-date_modified: 2026-07-17
+date_modified: 2026-07-29
 permalink: /daugiabucio-igaliotinio-uzrasai/citus/marius-karpavicius-elektros-skydine-vanduo/
 image: /daugiabucio-igaliotinio-uzrasai/citus/evaldas-jablonskas-citus-marius-karpavicius-elektros-skydine-vanduo.webp
 image_alt: "Evaldas Jablonskas viešai klausia „Citus“ garantinio skyriaus vadovo Mariaus Karpavičiaus dėl vandens patekimo į požeminio parkingo elektros skydinę"
@@ -13,27 +13,14 @@ type: article
 author: "Evaldas Jablonskas"
 keywords:
   - Evaldas Jablonskas
-  - Evaldas Jablonskas Citus
-  - Evaldas Jablonskas Marius Karpavičius
   - Citus
   - Citus atsiliepimai
   - Citus garantinis skyrius
-  - Citus garantija
-  - Citus defektai
-  - Citus požeminis parkingas
-  - Citus vanduo parkinge
-  - Citus elektros skydinė
-  - Citus būsto kokybė
   - Marius Karpavičius
   - Marius Karpavičius Citus
-  - Citus Marius Karpavičius
-  - Citus garantinio skyriaus vadovas
-  - Mindaugas Vanagas
   - Mindaugas Vanagas Citus
-  - Citus įkūrėjas
-  - Citus akcininkas
-  - Citus reputacija
   - vanduo elektros skydinėje
+  - Citus požeminis parkingas
   - garantiniai defektai
   - statinio apžiūros aktas
   - daugiabučio įgaliotinis
@@ -97,6 +84,7 @@ body { background: #f5f1ea !important; margin: 0 !important; overflow-x: hidden 
 .citus-hero { margin: 30px 0 14px; }
 .citus-hero img { display: block; width: 100%; height: auto; border: 1px solid var(--line); border-radius: 6px; box-shadow: 0 12px 28px rgba(0, 0, 0, 0.16); }
 .citus-article .citus-caption { color: var(--muted); font-size: 15px; font-style: italic; line-height: 1.45; }
+.citus-article a { color: #7b1f15; text-decoration-thickness: 1px; text-underline-offset: 3px; }
 .citus-article ul, .citus-article ol { margin: 0 0 24px 24px; padding: 0; }
 .citus-article li { margin: 8px 0; }
 .citus-status { background: var(--soft); border-left: 5px solid var(--accent); padding: 18px 20px; margin: 24px 0; }
@@ -106,6 +94,14 @@ body { background: #f5f1ea !important; margin: 0 !important; overflow-x: hidden 
 .citus-video-copy { margin: 0; }
 .citus-video-copy strong { display: block; margin: 0 0 8px; font-family: Arial, sans-serif; font-size: 16px; color: var(--accent); }
 .citus-article .citus-video-copy p { margin: 0; color: var(--muted); font-size: 16px; line-height: 1.5; }
+.citus-share { margin: 28px 0 18px; padding: 18px 20px; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); font-family: Arial, sans-serif; }
+.citus-share strong { display: block; margin-bottom: 12px; font-size: 17px; }
+.citus-share-actions { display: flex; flex-wrap: wrap; gap: 10px; }
+.citus-share-actions a,
+.citus-share-actions button { appearance: none; border: 1px solid var(--accent); border-radius: 4px; background: var(--paper); color: var(--accent); cursor: pointer; display: inline-flex; align-items: center; min-height: 38px; padding: 8px 12px; font: 700 14px/1.2 Arial, sans-serif; text-decoration: none; }
+.citus-share-actions a:hover,
+.citus-share-actions button:hover { background: var(--soft); }
+.citus-series { color: var(--muted); font-family: Arial, sans-serif; font-size: 0.95em; }
 @media (max-width: 720px) {
   .citus-video-figure { grid-template-columns: 1fr; max-width: 320px; margin-left: auto; margin-right: auto; }
   .citus-page { padding: 0; }
@@ -131,6 +127,8 @@ body { background: #f5f1ea !important; margin: 0 !important; overflow-x: hidden 
 <p class="citus-caption">Dirbtiniu intelektu sukurta simbolinė redakcinė iliustracija straipsniui apie Evaldo Jablonsko viešą klausimą „Citus“ garantinio skyriaus vadovui Mariui Karpavičiui dėl vandens patekimo į požeminio parkingo elektros skydinę. Iliustracija nėra dokumentinė konkretaus įvykio nuotrauka.</p>
 
 <p class="citus-source">Autorius: Evaldas Jablonskas. Publikacijoje pateikiama asmeninė daugiabučio namo savininkų įgaliotinio patirtis, grindžiama susirašinėjimu, statinio apžiūros aktu ir gyventojų fiksuota informacija.</p>
+
+<p class="citus-source"><strong>Redakcinė pastaba:</strong> ši publikacija yra Evaldo Jablonsko asmeninė nuomonė ir dokumentais grindžiamas situacijos vertinimas. Tekste pateikiami faktai remiasi autoriaus turimu susirašinėjimu, statinio apžiūros aktu, gyventojų fiksuota informacija ir publikacijoje nurodytomis aplinkybėmis. „Citus“ ir Marius Karpavičius turi teisę pateikti savo poziciją; ją gavus, publikacija bus papildyta.</p>
 
 <p class="citus-lead">Jei perkate naujos statybos būstą iš žinomo vystytojo, tikriausiai tikitės, kad garantinis laikotarpis bus skirtas smulkiems kosmetiniams pataisymams. Tikrai nesitikite, kad trečius metus iš eilės būsite priversti įrodinėti elementarią fizikos tiesą: vanduo ir elektra – mirtinas derinys.</p>
 
@@ -204,5 +202,28 @@ Tik viešumas, dokumentai ir bendras gyventojų spaudimas gali priversti didžiu
 
 Ši publikacija yra Evaldo Jablonsko viešai pateikiamas klausimas ir dokumentais grindžiamas situacijos vertinimas. Ji bus papildyta, jeigu „Citus“ arba Marius Karpavičius pateiks atsakymą.
 
+## Susiję tekstai
+
+[Ar verta pirkti butą iš „Citus“? Viešas klausimas Mindaugui Vanagui dėl užliejamo požeminio parkingo](/daugiabucio-igaliotinio-uzrasai/citus/mindaugas-vanagas-uzliejamas-parkingas/) – apie nuo 2023 metų fiksuojamą vandens patekimą į „Citus“ projekto požeminį parkingą ir viešą klausimą „Citus“ įkūrėjui Mindaugui Vanagui.
+
+[Pilietinio aktyvumo kaina Vilniuje: kaip Valdas Benkunskas ir Adomas Bužinskas naikina nepatogius įgaliotinius](/daugiabucio-igaliotinio-uzrasai/savivaldybe/pilietinio-aktyvumo-kaina-vilniuje/) – apie daugiabučio įgaliotinio patirtį ginant gyventojų interesus Vilniuje.
+
+[VVTAT – vartotojų gynėja ar dar viena biurokratinė siena?](/daugiabucio-igaliotinio-uzrasai/vvtat/vvtat-vartotoju-gyneja-ar-dar-viena-biurokratine-siena/) – apie kreipimąsi į VVTAT dėl administratoriaus apskaičiuoto mokesčio, įgaliotinio statuso ir institucinių dokumentų reikalavimų.
+
+<div class="citus-share">
+  <strong>Pasidalinti straipsniu</strong>
+  <div class="citus-share-actions">
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fevaldasjablonskas.lt%2Fdaugiabucio-igaliotinio-uzrasai%2Fcitus%2Fmarius-karpavicius-elektros-skydine-vanduo%2F" target="_blank" rel="noopener">Dalintis „Facebook“</a>
+    <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fevaldasjablonskas.lt%2Fdaugiabucio-igaliotinio-uzrasai%2Fcitus%2Fmarius-karpavicius-elektros-skydine-vanduo%2F" target="_blank" rel="noopener">Dalintis „LinkedIn“</a>
+    <button type="button" onclick="navigator.clipboard.writeText('https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/citus/marius-karpavicius-elektros-skydine-vanduo/').then(() => { this.textContent = 'Nuoroda nukopijuota'; });">Kopijuoti nuorodą</button>
+  </div>
+</div>
+
+<div class="citus-status">
+  <strong>Diskusija ir skaitytojų komentarai</strong><br>
+  Šio straipsnio diskusija vyksta <a href="https://www.facebook.com/profile.php?id=61591523192102" rel="noopener" target="_blank">„Facebook“ puslapyje „Daugiabučio įgaliotinio užrašai“</a>.
+</div>
+
+<p class="citus-series"><a href="/daugiabucio-igaliotinio-uzrasai/">Grįžti į ciklo puslapį</a></p>
 </article>
 </main>

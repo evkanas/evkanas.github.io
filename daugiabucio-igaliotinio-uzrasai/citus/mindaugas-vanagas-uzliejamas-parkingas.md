@@ -316,6 +316,8 @@ Apie kitus mūsų projekte nustatytus defektus, jų šalinimą ir bendravimą su
 
 ## Susiję tekstai
 
+[Į elektros skydinę – su skėčiu? Viešas klausimas „Citus“ garantinio skyriaus vadovui Mariui Karpavičiui](/daugiabucio-igaliotinio-uzrasai/citus/marius-karpavicius-elektros-skydine-vanduo/) – apie oficialiame statinio apžiūros akte užfiksuotą vandens patekimą į požeminio parkingo elektros skydinės zoną ir „Citus“ garantinio skyriaus reikalaujamus papildomus „objektyvius“ įrodymus.
+
 [Pilietinio aktyvumo kaina Vilniuje](/daugiabucio-igaliotinio-uzrasai/savivaldybe/pilietinio-aktyvumo-kaina-vilniuje/) – apie daugiabučio įgaliotinio patirtį ginant gyventojų interesus Vilniuje.
 
 [Kai savivaldybė daugiabučio įgaliotinį prilygina administratoriui](/daugiabucio-igaliotinio-uzrasai/savivaldybe/) – apie tai, kaip Vilniaus savivaldybė daugiabučio įgaliotinį vertina kaip administratorių ar pastato valdytoją.
