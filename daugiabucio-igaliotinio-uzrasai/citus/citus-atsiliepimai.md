@@ -91,6 +91,14 @@ body { background: #f5f1ea !important; margin: 0 !important; overflow-x: hidden 
 .citus-article li { margin: 8px 0; }
 .citus-status { background: var(--soft); border-left: 5px solid var(--accent); padding: 18px 20px; margin: 24px 0; }
 .citus-status p:last-child { margin-bottom: 0; }
+.citus-support { margin: 34px 0 22px; padding: 22px 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); font-family: Arial, sans-serif; text-align: center; }
+.citus-support strong { display: block; margin-bottom: 6px; font-size: 17px; color: var(--text); }
+.citus-support p { max-width: 620px; margin: 0 auto 16px; color: var(--muted); font-size: 15px; line-height: 1.5; }
+.citus-support-widget { display: flex; justify-content: center; align-items: center; flex-direction: column; min-height: 44px; }
+.citus-paypal-slot { width: 100%; max-width: 420px; margin: 0 auto 20px; }
+.citus-revolut-slot { display: flex; justify-content: center; width: 100%; }
+.citus-revolut-link { display: inline-flex; align-items: center; justify-content: center; min-height: 42px; padding: 9px 18px; border: 1px solid #111827; border-radius: 999px; background: #111827; color: #ffffff !important; font: 700 14px/1.2 Arial, sans-serif; text-decoration: none !important; }
+.citus-revolut-link:hover { background: #2f3747; border-color: #2f3747; }
 .citus-share { margin: 28px 0 18px; padding: 18px 20px; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); font-family: Arial, sans-serif; }
 .citus-share strong { display: block; margin-bottom: 12px; font-size: 17px; }
 .citus-share-actions { display: flex; flex-wrap: wrap; gap: 10px; }
@@ -222,6 +230,25 @@ Vieši atsiliepimai ir dokumentuoti atvejai siunčia aiškų signalą: perkant b
 
 [VVTAT – vartotojų gynėja ar dar viena biurokratinė siena?](/daugiabucio-igaliotinio-uzrasai/vvtat/vvtat-vartotoju-gyneja-ar-dar-viena-biurokratine-siena/) – apie kreipimąsi į VVTAT dėl administratoriaus apskaičiuoto mokesčio, įgaliotinio statuso ir institucinių dokumentų reikalavimų.
 
+<div class="citus-support">
+  <strong>Palaikyti „Daugiabučio įgaliotinio užrašus“</strong>
+  <p>Jeigu šis darbas atrodo prasmingas, galite prisidėti prie jo tęstinumo. Surinktos lėšos bus naudojamos dokumentuotų statybos defektų viešinimui, informacijos rengimui ir sklaidai per žiniasklaidą bei kitus viešus kanalus.</p>
+  <div class="citus-support-widget">
+    <div class="citus-paypal-slot">
+      <div id="paypal-container-3DCDRH4KP6U5U"></div>
+    </div>
+    <script>
+      if (window.paypal && paypal.HostedButtons) {
+        paypal.HostedButtons({
+          hostedButtonId: "3DCDRH4KP6U5U",
+        }).render("#paypal-container-3DCDRH4KP6U5U")
+      }
+    </script>
+    <div class="citus-revolut-slot">
+      <a class="citus-revolut-link" href="https://checkout.revolut.com/pay/86a57eb5-047a-44f5-b737-ba5f92c51a60" target="_blank" rel="noopener">Paremti per „Revolut“</a>
+    </div>
+  </div>
+</div>
 <div class="citus-share">
   <strong>Pasidalinti straipsniu</strong>
   <div class="citus-share-actions">

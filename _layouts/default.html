@@ -8,6 +8,7 @@
   <link rel="canonical" href="{{ page.url | replace: 'index.html', '' | absolute_url }}">
 
   <script data-goatcounter="https://evkanas.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+  <script src="https://www.paypal.com/sdk/js?client-id=BAAj5aGGYRqvHaqP8v4x-j71gN_R6t9pFsGHmdPLkUnRcGDZSGnkHyMsC4HF60Db83OqrQEVv3-7_yOeP4&components=hosted-buttons&disable-funding=venmo&currency=EUR"></script>
   
   <!-- Cloudflare Web Analytics -->
     <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "ffe9b4300040417bb084f44f05781727"}'></script>
@@ -161,5 +162,82 @@
   <main>
     {{ content }}
   </main>
+  <script>
+  (function () {
+    // Sekame tik straipsnius, o ne pagrindinį sąrašo puslapį.
+    const path = window.location.pathname;
+
+    if (
+      !path.startsWith('/daugiabucio-igaliotinio-uzrasai/') ||
+      path === '/daugiabucio-igaliotinio-uzrasai/'
+    ) {
+      return;
+    }
+
+    const sent = new Set();
+
+    function sendEvent(name) {
+      if (sent.has(name)) return;
+      sent.add(name);
+
+      const waitForGoatCounter = setInterval(function () {
+        if (
+          !window.goatcounter ||
+          typeof window.goatcounter.count !== 'function'
+        ) {
+          return;
+        }
+
+        clearInterval(waitForGoatCounter);
+
+        window.goatcounter.count({
+          path: name + path,
+          title: name + ' – ' + document.title,
+          event: true
+        });
+      }, 100);
+
+      setTimeout(function () {
+        clearInterval(waitForGoatCounter);
+      }, 10000);
+    }
+
+    // 30 realių sekundžių, kai puslapis matomas ekrane.
+    let visibleSeconds = 0;
+
+    const readingTimer = setInterval(function () {
+      if (document.visibilityState === 'visible') {
+        visibleSeconds++;
+
+        if (visibleSeconds >= 30) {
+          sendEvent('skaite-30s');
+          clearInterval(readingTimer);
+        }
+      }
+    }, 1000);
+
+    // Nuslinkimas iki 50 % ir 90 % puslapio.
+    function checkScroll() {
+      const scrollable =
+        document.documentElement.scrollHeight - window.innerHeight;
+
+      if (scrollable <= 0) return;
+
+      const percent = (window.scrollY / scrollable) * 100;
+
+      if (percent >= 50) {
+        sendEvent('nuslinko-50');
+      }
+
+      if (percent >= 90) {
+        sendEvent('nuslinko-90');
+        window.removeEventListener('scroll', checkScroll);
+      }
+    }
+
+    window.addEventListener('scroll', checkScroll, { passive: true });
+    checkScroll();
+  })();
+  </script>
 </body>
 </html>
