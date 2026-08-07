@@ -3,10 +3,10 @@ layout: default
 title: "Citus atsiliepimai: pirkėjų patirtis ir rizikos perkant būstą"
 headline: "„Citus“ atsiliepimai ir pirkėjų patirtis: ko tikėtis susidūrus su šiuo NT vystytoju?"
 description: "Evaldas Jablonskas apžvelgia viešus „Citus“ atsiliepimus, pirkėjų patirtis, garantinių defektų šalinimą, vandens pratekėjimus ir preliminariųjų sutarčių rizikas."
-date: 2026-07-30
+date: 2026-08-07
 permalink: /daugiabucio-igaliotinio-uzrasai/citus/citus-atsiliepimai/
-image: /daugiabucio-igaliotinio-uzrasai/citus/citus-pozeminis-parkingas-vanduo-originali-nuotrauka.webp
-image_alt: "Vandens patekimo ir drėgmės pėdsakai požeminiame parkinge – dokumentinė nuotrauka prie straipsnio apie „Citus“ atsiliepimus"
+image: /daugiabucio-igaliotinio-uzrasai/citus/evaldas-jablonskas-citus-atsiliepimai-pozeminis-parkingas-vanduo.webp
+image_alt: "Evaldas Jablonskas apie „Citus“ atsiliepimus – vandens patekimo ir drėgmės pėdsakai požeminiame parkinge"
 lang: lt
 type: article
 author: "Evaldas Jablonskas"
@@ -82,10 +82,10 @@ body { background: #f5f1ea !important; margin: 0 !important; overflow-x: hidden 
 .citus-article p { margin: 0 0 18px; }
 .citus-lead { color: #3b352f; border-left: 5px solid var(--accent); padding-left: 18px; margin-bottom: 26px; font-size: 23px !important; line-height: 1.5; }
 .citus-date { font-size: 0.95em; margin: -4px 0 22px; }
-.citus-article .citus-source { font-size: 15px; line-height: 1.45; }
+.citus-article .citus-source { font-size: 14px !important; line-height: 1.45 !important; }
 .citus-hero { margin: 30px 0 14px; }
 .citus-hero img { display: block; width: 100%; height: auto; border: 1px solid var(--line); border-radius: 6px; box-shadow: 0 12px 28px rgba(0, 0, 0, 0.16); }
-.citus-article .citus-caption { color: var(--muted); font-size: 15px; font-style: italic; line-height: 1.45; }
+.citus-article .citus-caption { color: var(--muted); font-size: 14px !important; font-style: italic; line-height: 1.45 !important; }
 .citus-article a { color: #7b1f15; text-decoration-thickness: 1px; text-underline-offset: 3px; }
 .citus-article ul, .citus-article ol { margin: 0 0 24px 24px; padding: 0; }
 .citus-article li { margin: 8px 0; }
@@ -93,7 +93,7 @@ body { background: #f5f1ea !important; margin: 0 !important; overflow-x: hidden 
 .citus-status p:last-child { margin-bottom: 0; }
 .citus-support { margin: 34px 0 22px; padding: 22px 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); font-family: Arial, sans-serif; text-align: center; }
 .citus-support strong { display: block; margin-bottom: 6px; font-size: 17px; color: var(--text); }
-.citus-support p { max-width: 620px; margin: 0 auto 16px; color: var(--muted); font-size: 15px; line-height: 1.5; }
+.citus-support p { max-width: 620px; margin: 0 auto 16px; color: var(--muted); font-size: 14px !important; line-height: 1.5; }
 .citus-support-widget { display: flex; justify-content: center; align-items: center; flex-direction: column; min-height: 44px; }
 .citus-paypal-slot { width: 100%; max-width: 420px; margin: 0 auto 20px; }
 .citus-revolut-slot { display: flex; justify-content: center; width: 100%; }
@@ -122,17 +122,17 @@ body { background: #f5f1ea !important; margin: 0 !important; overflow-x: hidden 
 
 # „Citus“ atsiliepimai ir pirkėjų patirtis: ko tikėtis susidūrus su šiuo NT vystytoju?
 
-<p class="citus-date">Atnaujinta: 2026-07-30</p>
+<p class="citus-date">Paskelbta: 2026-08-07</p>
 
 <figure class="citus-hero">
-  <img src="/daugiabucio-igaliotinio-uzrasai/citus/citus-pozeminis-parkingas-vanduo-originali-nuotrauka.webp" alt="Vandens patekimo ir drėgmės pėdsakai požeminiame parkinge – dokumentinė nuotrauka prie straipsnio apie „Citus“ atsiliepimus" title="Citus atsiliepimai – vandens patekimo požeminiame parkinge dokumentinė nuotrauka">
+  <img src="/daugiabucio-igaliotinio-uzrasai/citus/evaldas-jablonskas-citus-atsiliepimai-pozeminis-parkingas-vanduo.webp" alt="Evaldas Jablonskas apie „Citus“ atsiliepimus – vandens patekimo ir drėgmės pėdsakai požeminiame parkinge" title="Evaldas Jablonskas apie „Citus“ atsiliepimus – vandens patekimas požeminiame parkinge">
 </figure>
 
-<p class="citus-caption">Vandens patekimo ir drėgmės pėdsakai požeminiame parkinge. Nuotrauka iš autoriaus dokumentuotos medžiagos.</p>
+<p class="citus-caption">Evaldas Jablonskas dokumentuoja vandens patekimo ir drėgmės pėdsakus „Citus“ projekto požeminiame parkinge. Nuotrauka iš autoriaus dokumentuotos medžiagos.</p>
 
 <p class="citus-source">Autorius: Evaldas Jablonskas. Publikacijoje pateikiama viešų atsiliepimų, žiniasklaidos publikacijų ir autoriaus dokumentuotos patirties analizė.</p>
 
-<p class="citus-source"><strong>Redakcinė pastaba:</strong> ši publikacija yra Evaldo Jablonsko asmeninė nuomonė ir viešai prieinamais šaltiniais bei autoriaus dokumentuota patirtimi grindžiamas vertinimas. Cituojamuose ar apibendrinamuose atsiliepimuose pateikiamos jų autorių patirtys ir teiginiai. „Citus“ turi teisę pateikti savo poziciją ar patikslinimus; juos gavus, publikacija gali būti papildyta.</p>
+<p class="citus-source"><strong>Redakcinė pastaba:</strong> ši publikacija yra Evaldo Jablonsko asmeninė nuomonė ir viešai prieinamais šaltiniais bei autoriaus dokumentuota patirtimi grindžiamas vertinimas. Cituojamuose ar apibendrinamuose atsiliepimuose pateikiamos jų autorių patirtys ir teiginiai.</p>
 
 <p class="citus-lead">Ieškantiems būsto ir įvedantiems į paiešką frazę <strong>„Citus atsiliepimai“</strong>, tenka susidurti su dviguba realybe: vystytojo reklaminiais pažadais apie „išskirtinius projektus“ ir neigiamais pirkėjų bei gyventojų atsiliepimais internete.</p>
 
@@ -210,6 +210,9 @@ Jei vis dėlto svarstote apie NT įsigijimą iš šio vystytojo, nesiimkite rizi
 
 Vieši atsiliepimai ir dokumentuoti atvejai siunčia aiškų signalą: perkant būstą iš „Citus“ pasitikėti vien prekės ženklu ir reklaminiais pažadais nepakanka. Sutartį, techninę kokybę ir kiekvieną pažadą būtina tikrinti nepriklausomai.
 
+## Papildoma informacija
+
+2026 m. liepos 30 d. „Citus“ buvo išsiųstas el. laiškas su klausimais dėl šiame straipsnyje aptariamų atsiliepimų, pirkėjų patirties, garantinių defektų, vandens patekimo ir preliminariųjų sutarčių nutraukimo. Atsakymo buvo prašyta iki 2026 m. rugpjūčio 3 d. 17.00 val. Iki publikavimo „Citus“ pozicija nebuvo pateikta. Jeigu atsakymas bus gautas vėliau, publikacija gali būti papildyta.
 ## Šaltiniai ir nuorodos
 
 - <a href="https://www.lrt.lt/naujienos/verslas/4/1786039/kone-dvejus-metus-namu-lauke-pirkejai-liko-ir-be-ju-ir-be-paaiskinimu-itaria-tape-nepatogus" target="_blank" rel="noopener">LRT: pirkėjų istorijos dėl nutrauktų sutarčių</a>
