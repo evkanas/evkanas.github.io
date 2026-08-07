@@ -78,11 +78,11 @@ body { background: #f5f1ea !important; margin: 0 !important; overflow-x: hidden 
 .citus-article p { margin: 0 0 18px; }
 .citus-lead { color: #3b352f; border-left: 5px solid var(--accent); padding-left: 18px; margin-bottom: 26px; font-size: 23px !important; line-height: 1.5; }
 .citus-date { font-size: 0.95em; }
-.citus-article .citus-source { font-size: 15px; line-height: 1.45; }
+.citus-article .citus-source { font-size: 14px !important; line-height: 1.45 !important; }
 .citus-date { margin: -4px 0 22px; }
 .citus-hero { margin: 30px 0 14px; }
 .citus-hero img { display: block; width: 100%; height: auto; border: 1px solid var(--line); border-radius: 6px; box-shadow: 0 12px 28px rgba(0, 0, 0, 0.16); }
-.citus-article .citus-caption { color: var(--muted); font-size: 15px; font-style: italic; line-height: 1.45; }
+.citus-article .citus-caption { color: var(--muted); font-size: 14px !important; font-style: italic; line-height: 1.45 !important; }
 .citus-article a { color: #7b1f15; text-decoration-thickness: 1px; text-underline-offset: 3px; }
 .citus-article ul, .citus-article ol { margin: 0 0 24px 24px; padding: 0; }
 .citus-article li { margin: 8px 0; }
@@ -203,6 +203,8 @@ Tik viešumas, dokumentai ir bendras gyventojų spaudimas gali priversti didžiu
 
 ## Susiję tekstai
 
+[„Citus“ atsiliepimai ir pirkėjų patirtis: ko tikėtis susidūrus su šiuo NT vystytoju?](/daugiabucio-igaliotinio-uzrasai/citus/citus-atsiliepimai/) – apie viešuose atsiliepimuose, žiniasklaidoje ir dokumentuotoje patirtyje pasikartojančias „Citus“ pirkėjų bei gyventojų problemas.
+
 [Ar verta pirkti butą iš „Citus“? Viešas klausimas Mindaugui Vanagui dėl užliejamo požeminio parkingo](/daugiabucio-igaliotinio-uzrasai/citus/mindaugas-vanagas-uzliejamas-parkingas/) – apie nuo 2023 metų fiksuojamą vandens patekimą į „Citus“ projekto požeminį parkingą ir viešą klausimą „Citus“ įkūrėjui Mindaugui Vanagui.
 
 [Pilietinio aktyvumo kaina Vilniuje: kaip Valdas Benkunskas ir Adomas Bužinskas naikina nepatogius įgaliotinius](/daugiabucio-igaliotinio-uzrasai/savivaldybe/pilietinio-aktyvumo-kaina-vilniuje/) – apie daugiabučio įgaliotinio patirtį ginant gyventojų interesus Vilniuje.
@@ -226,3 +228,4 @@ Tik viešumas, dokumentai ir bendras gyventojų spaudimas gali priversti didžiu
 <p class="citus-series"><a href="/daugiabucio-igaliotinio-uzrasai/">Grįžti į ciklo puslapį</a></p>
 </article>
 </main>
+

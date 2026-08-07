@@ -55,6 +55,8 @@ Evaldas Jablonskas asmeninės patirties pagrindu rašo apie daugiabučio įgalio
 
 * [Ar verta pirkti butą iš „Citus“? Viešas klausimas Mindaugui Vanagui dėl užliejamo parkingo](/daugiabucio-igaliotinio-uzrasai/citus/mindaugas-vanagas-uzliejamas-parkingas/)  
   Evaldo Jablonsko straipsnis apie nuo 2023 metų fiksuojamą vandens skverbimąsi į požeminį parkingą ir viešus klausimus „Citus“ įkūrėjui Mindaugui Vanagui.
+* [„Citus“ atsiliepimai ir pirkėjų patirtis: ko tikėtis susidūrus su šiuo NT vystytoju?](/daugiabucio-igaliotinio-uzrasai/citus/citus-atsiliepimai/)  
+  Evaldo Jablonsko straipsnis apie viešus „Citus“ atsiliepimus, pirkėjų patirtis, garantinių defektų šalinimą, vandens pratekėjimus ir preliminariųjų sutarčių rizikas.
 * [Į elektros skydinę – su skėčiu? Viešas klausimas „Citus“ garantinio skyriaus vadovui Mariui Karpavičiui](/daugiabucio-igaliotinio-uzrasai/citus/marius-karpavicius-elektros-skydine-vanduo/)  
   Evaldo Jablonsko straipsnis apie oficialiame statinio apžiūros akte užfiksuotą vandens patekimą į požeminio parkingo elektros skydinės zoną ir klausimus „Citus“ garantinio skyriaus vadovui Mariui Karpavičiui.
 * [Pilietinio aktyvumo kaina Vilniuje: Valdas Benkunskas, Adomas Bužinskas ir daugiabučio įgaliotinis](/daugiabucio-igaliotinio-uzrasai/savivaldybe/pilietinio-aktyvumo-kaina-vilniuje/)

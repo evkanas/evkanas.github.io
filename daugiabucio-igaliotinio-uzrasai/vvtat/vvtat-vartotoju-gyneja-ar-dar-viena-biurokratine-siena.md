@@ -203,6 +203,15 @@ Tačiau mano patirtis kelia priešingą klausimą: kas apgins vartotoją, kai pa
 
 Ši publikacija yra mano asmeninis dokumentais ir susirašinėjimu grindžiamas VVTAT veiksmų bei jų pasekmių vertinimas. VVTAT buvo pateikti konkretūs klausimai dėl šiame tekste aprašytų aplinkybių, tačiau iki prašyto termino atsakymų į juos nepateikė. Tarnybos pozicija bus pateikta, jeigu ji bus gauta vėliau.
 
+
+## Atnaujinimas 2026-08-03
+
+VVTAT atsakymą į 2026-07-16 pateiktus klausimus atsiuntė tik po straipsnio paskelbimo ir gerokai pavėlavusi. Tarnyba neatsakė, kodėl anksčiau daugiabučio įgaliotinio statusą siejo su profesionaliu administratoriumi, kodėl įgaliotinio teisę atstovauti aiškiai patvirtino tik po pakartotinių kreipimųsi ir Seimo kontrolierių įstaigos įsitraukimo, taip pat tiesiogiai neatsakė į klausimą dėl ankstesnių atsakymų ir terminų pažeidimų.
+
+VVTAT taip pat pati pripažino, kad reikalaudama kitų savininkų sąskaitų, mokėjimų duomenų ir kitos informacijos net nevertino, ar įgaliotinis turi teisę tokius duomenis rinkti. Mano vertinimu, tai jau panašu ne į pagrįstą teisės aktų taikymą, o į biurokratinę savivalę: institucija pareikalauja dokumentų, tačiau net nesiaiškina, ar pareiškėjas apskritai gali teisėtai juos gauti.
+
+**Pavėluotas VVTAT atsakymas straipsnyje iškeltų problemų nepaneigė. Priešingai – jis parodė, kad į dalį konkrečių ir nepatogių klausimų Tarnyba taip ir neatsakė, o savo pačios reikalavimų teisėtumo bei realios galimybės juos įvykdyti iš esmės nevertino.**
+
 ## Susiję tekstai
 
 [Pilietinio aktyvumo kaina Vilniuje](/daugiabucio-igaliotinio-uzrasai/savivaldybe/pilietinio-aktyvumo-kaina-vilniuje/) – tekstas apie aktyvaus daugiabučio įgaliotinio patirtį susiduriant su instituciniu spaudimu ir administracinio aparato logika.

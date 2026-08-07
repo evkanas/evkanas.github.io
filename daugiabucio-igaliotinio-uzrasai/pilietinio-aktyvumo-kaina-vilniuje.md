@@ -6,8 +6,8 @@ description: "Evaldas Jablonskas rašo apie Valdą Benkunską, Adomą Bužinską
 date: 2026-07-04
 date_modified: 2026-07-04
 permalink: /daugiabucio-igaliotinio-uzrasai/savivaldybe/pilietinio-aktyvumo-kaina-vilniuje/
-image: /daugiabucio-igaliotinio-uzrasai/savivaldybe/gyventoju-aktyvumas-savivaldybe.webp
-image_alt: "DI sugeneruota iliustracija apie Valdą Benkunską, Adomą Bužinską, Vilniaus savivaldybę ir Evaldo Jablonsko aprašomą pilietinio aktyvumo kainą Vilniuje"
+image: /daugiabucio-igaliotinio-uzrasai/savivaldybe/evaldas-jablonskas-pilietinio-aktyvumo-kaina-vilniuje.webp
+image_alt: "Evaldas Jablonskas apie pilietinio aktyvumo kainą Vilniuje, Valdą Benkunską, Adomą Bužinską ir Vilniaus savivaldybę"
 lang: lt
 type: article
 author: "Evaldas Jablonskas"
@@ -166,8 +166,16 @@ body {
 
 .savivaldybe-caption {
   color: var(--muted);
+  font-size: 14px !important;
   font-style: italic;
+  line-height: 1.45 !important;
 }
+
+.savivaldybe-article .savivaldybe-source {
+  font-size: 14px !important;
+  line-height: 1.45 !important;
+}
+
 
 .savivaldybe-article a {
   color: #7b1f15;
@@ -228,13 +236,13 @@ body {
 
 <figure class="savivaldybe-hero">
   <img
-    src="/daugiabucio-igaliotinio-uzrasai/savivaldybe/gyventoju-aktyvumas-savivaldybe.webp"
-    alt="DI sugeneruota iliustracija apie Valdą Benkunską, Adomą Bužinską, Vilniaus savivaldybę ir Evaldo Jablonsko aprašomą pilietinio aktyvumo kainą Vilniuje"
-    title="Aktyvus įgaliotinis – bendruomenės variklis. Tačiau savivaldybėje jis tampa taikiniu."
+    src="/daugiabucio-igaliotinio-uzrasai/savivaldybe/evaldas-jablonskas-pilietinio-aktyvumo-kaina-vilniuje.webp"
+    alt="Evaldas Jablonskas apie pilietinio aktyvumo kainą Vilniuje, Valdą Benkunską, Adomą Bužinską ir Vilniaus savivaldybę"
+    title="Evaldas Jablonskas – pilietinio aktyvumo kaina Vilniuje"
   >
 </figure>
 
-<p class="savivaldybe-caption">DI sugeneruota iliustracija apie Valdą Benkunską, Adomą Bužinską, Vilniaus savivaldybę ir Evaldo Jablonsko aprašomą pilietinio aktyvumo kainą Vilniuje.</p>
+<p class="savivaldybe-caption">Evaldas Jablonskas apie pilietinio aktyvumo kainą Vilniuje, Valdą Benkunską, Adomą Bužinską ir Vilniaus savivaldybės spaudimą daugiabučio įgaliotiniui. DI sugeneruota redakcinė iliustracija.</p>
 
 <p class="savivaldybe-source">Autorius: Evaldas Jablonskas. Straipsnyje aptariami Valdo Benkunsko, Adomo Bužinsko ir Vilniaus miesto savivaldybės veiksmai daugiabučio įgaliotinio patirties kontekste.</p>
 
@@ -328,4 +336,6 @@ Tai yra mano vieša pilietinė pozicija, paremta patirtimi, raštais ir savivald
 
 </article>
 </main>
+
+
 
