@@ -175,6 +175,8 @@
     }
 
     const sent = new Set();
+    const engagementEndpoint = 'https://evkanas2.goatcounter.com/count';
+    const articleSlug = path.replace(/\/$/, '').split('/').pop() || 'straipsnis';
 
     function sendEvent(name) {
       if (sent.has(name)) return;
@@ -190,11 +192,20 @@
 
         clearInterval(waitForGoatCounter);
 
-        window.goatcounter.count({
-          path: name + path,
-          title: name + ' – ' + document.title,
-          event: true
-        });
+        // Pagrindinis GoatCounter lieka skirtas tik normaliems pageview.
+        // Skaitymo eventą trumpam nukreipiame į atskirą GoatCounter site.
+        const originalEndpoint = window.goatcounter.endpoint;
+
+        try {
+          window.goatcounter.endpoint = engagementEndpoint;
+          window.goatcounter.count({
+            path: articleSlug + ' | ' + name,
+            title: articleSlug + ' | ' + name,
+            event: true
+          });
+        } finally {
+          window.goatcounter.endpoint = originalEndpoint;
+        }
       }, 100);
 
       setTimeout(function () {
