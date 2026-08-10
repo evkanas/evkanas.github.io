@@ -178,39 +178,33 @@
     const engagementEndpoint = 'https://evkanas2.goatcounter.com/count';
     const articleSlug = path.replace(/\/$/, '').split('/').pop() || 'straipsnis';
 
+    const pendingEngagementPixels = new Set();
+
     function sendEvent(name) {
       if (sent.has(name)) return;
       sent.add(name);
 
-      const waitForGoatCounter = setInterval(function () {
-        if (
-          !window.goatcounter ||
-          typeof window.goatcounter.count !== 'function'
-        ) {
-          return;
-        }
+      // Engagement eventus siunčiame tiesiai į antrą GoatCounter /count
+      // endpointą. Sąmoningai nenaudojame window.goatcounter.count(), nes
+      // pagrindinis count.js yra susietas su evkanas.goatcounter.com.
+      const eventName = articleSlug + ' | ' + name;
+      const params = new URLSearchParams({
+        p: eventName,
+        t: eventName,
+        e: '1',
+        rnd: String(Date.now())
+      });
 
-        clearInterval(waitForGoatCounter);
+      const pixel = new Image(1, 1);
+      pendingEngagementPixels.add(pixel);
 
-        // Pagrindinis GoatCounter lieka skirtas tik normaliems pageview.
-        // Skaitymo eventą trumpam nukreipiame į atskirą GoatCounter site.
-        const originalEndpoint = window.goatcounter.endpoint;
+      const cleanup = function () {
+        pendingEngagementPixels.delete(pixel);
+      };
 
-        try {
-          window.goatcounter.endpoint = engagementEndpoint;
-          window.goatcounter.count({
-            path: articleSlug + ' | ' + name,
-            title: articleSlug + ' | ' + name,
-            event: true
-          });
-        } finally {
-          window.goatcounter.endpoint = originalEndpoint;
-        }
-      }, 100);
-
-      setTimeout(function () {
-        clearInterval(waitForGoatCounter);
-      }, 10000);
+      pixel.onload = cleanup;
+      pixel.onerror = cleanup;
+      pixel.src = engagementEndpoint + '?' + params.toString();
     }
 
     // 30 realių sekundžių, kai puslapis matomas ekrane.
