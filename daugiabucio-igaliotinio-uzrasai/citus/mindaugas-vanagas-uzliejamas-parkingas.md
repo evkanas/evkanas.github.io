@@ -166,8 +166,16 @@ body {
 
 .savivaldybe-caption {
   color: var(--muted);
+  font-size: 14px !important;
   font-style: italic;
+  line-height: 1.45 !important;
 }
+
+.savivaldybe-article .savivaldybe-source {
+  font-size: 14px !important;
+  line-height: 1.45 !important;
+}
+
 
 .savivaldybe-article a {
   color: #7b1f15;
@@ -249,10 +257,10 @@ Atskiros vandens prasiskverbimo vietos buvo lokaliai tvarkomos naudojant vadinam
 Kai kuriose vietose ant mūrinių blokelių ar plytų užtepta medžiaga nuo pagrindo atsiskyrė ir nubyrėjo.
 
 <figure class="savivaldybe-photo">
-  <img src="/daugiabucio-igaliotinio-uzrasai/citus/citus-pozeminis-parkingas-vandens-skverbimasis.webp" alt="Evaldas Jablonskas apie „Citus“ – vandens ir drėgmės pėdsakai „Citus“ projekto požeminiame parkinge po gausesnio lietaus" title="Evaldas Jablonskas apie „Citus“ – vandens ir drėgmės pėdsakai požeminiame parkinge po gausesnio lietaus">
+  <img src="/daugiabucio-igaliotinio-uzrasai/citus/evaldas-jablonskas-citus-pozeminis-parkingas-vandens-skverbimasis.webp" alt="Evaldas Jablonskas apie „Citus“ – vandens skverbimasis ir drėgmės pėdsakai „Citus“ projekto požeminiame parkinge po gausesnio lietaus" title="Evaldas Jablonskas apie „Citus“ – vandens skverbimasis požeminiame parkinge po gausesnio lietaus">
 </figure>
 
-<p class="savivaldybe-caption">Evaldas Jablonskas apie „Citus“ – vandens ir drėgmės pėdsakai „Citus“ projekto požeminiame parkinge po gausesnio lietaus.</p>
+<p class="savivaldybe-caption">Evaldas Jablonskas dokumentuoja vandens skverbimąsi ir drėgmės pėdsakus „Citus“ projekto požeminiame parkinge po gausesnio lietaus.</p>
 
 ## Vieta lokaliai taisyta, tačiau problema persikėlė kitur
 
@@ -316,9 +324,13 @@ Apie kitus mūsų projekte nustatytus defektus, jų šalinimą ir bendravimą su
 
 ## Susiję tekstai
 
-[Pilietinio aktyvumo kaina Vilniuje](/daugiabucio-igaliotinio-uzrasai/savivaldybe/pilietinio-aktyvumo-kaina-vilniuje/) – ankstesnis Evaldo Jablonsko tekstas apie daugiabučio įgaliotinio patirtį.
+[„Citus“ atsiliepimai ir pirkėjų patirtis: ko tikėtis susidūrus su šiuo NT vystytoju?](/daugiabucio-igaliotinio-uzrasai/citus/citus-atsiliepimai/) – apie viešuose atsiliepimuose, žiniasklaidoje ir dokumentuotoje patirtyje pasikartojančias „Citus“ pirkėjų bei gyventojų problemas.
 
-[Kai savivaldybė daugiabučio įgaliotinį prilygina administratoriui](/daugiabucio-igaliotinio-uzrasai/savivaldybe/) – ankstesnis Evaldo Jablonsko tekstas apie tai, kaip Vilniaus savivaldybė daugiabučio įgaliotinį vertina kaip administratorių ar pastato valdytoją.
+[Į elektros skydinę – su skėčiu? Viešas klausimas „Citus“ garantinio skyriaus vadovui Mariui Karpavičiui](/daugiabucio-igaliotinio-uzrasai/citus/marius-karpavicius-elektros-skydine-vanduo/) – apie oficialiame statinio apžiūros akte užfiksuotą vandens patekimą į požeminio parkingo elektros skydinės zoną ir „Citus“ garantinio skyriaus reikalaujamus papildomus „objektyvius“ įrodymus.
+
+[Pilietinio aktyvumo kaina Vilniuje](/daugiabucio-igaliotinio-uzrasai/savivaldybe/pilietinio-aktyvumo-kaina-vilniuje/) – apie daugiabučio įgaliotinio patirtį ginant gyventojų interesus Vilniuje.
+
+[Kai savivaldybė daugiabučio įgaliotinį prilygina administratoriui](/daugiabucio-igaliotinio-uzrasai/savivaldybe/) – apie tai, kaip Vilniaus savivaldybė daugiabučio įgaliotinį vertina kaip administratorių ar pastato valdytoją.
 
 <div class="savivaldybe-share">
   <strong>Pasidalinti straipsniu</strong>
@@ -336,6 +348,8 @@ Apie kitus mūsų projekte nustatytus defektus, jų šalinimą ir bendravimą su
 
 </article>
 </main>
+
+
 
 
 

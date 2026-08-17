@@ -153,6 +153,29 @@ Man svarbu parodyti, kad daugiabučio įgaliotinis nėra administratorius, pasta
 
 ## Straipsniai
 
+<div class="igaliotinis-article-list">
+
+<h3><a href="/daugiabucio-igaliotinio-uzrasai/citus/citus-atsiliepimai/">„Citus“ atsiliepimai ir pirkėjų patirtis: ko tikėtis susidūrus su šiuo NT vystytoju?</a></h3>
+
+<p>Evaldas Jablonskas apžvelgia viešus „Citus“ atsiliepimus, pirkėjų patirtis, garantinių defektų šalinimą, vandens pratekėjimus ir preliminariųjų sutarčių rizikas.</p>
+
+</div>
+
+<div class="igaliotinis-article-list">
+
+<h3><a href="/daugiabucio-igaliotinio-uzrasai/citus/marius-karpavicius-elektros-skydine-vanduo/">Į elektros skydinę – su skėčiu? Viešas klausimas „Citus“ garantinio skyriaus vadovui Mariui Karpavičiui</a></h3>
+
+<p>Evaldas Jablonskas rašo apie oficialiame statinio apžiūros akte užfiksuotą vandens patekimą į požeminio parkingo elektros skydinės zoną, „Citus“ garantinio skyriaus veiksmus ir klausimus, užduotus Mariui Karpavičiui.</p>
+
+</div>
+
+<div class="igaliotinis-article-list">
+
+<h3><a href="/daugiabucio-igaliotinio-uzrasai/vvtat/vvtat-vartotoju-gyneja-ar-dar-viena-biurokratine-siena/">VVTAT – vartotojų gynėja ar dar viena biurokratinė siena?</a></h3>
+
+<p>Evaldas Jablonskas rašo apie patirtį kreipiantis į VVTAT dėl daugiabučio administratoriaus apskaičiuoto mokesčio, įgaliotinio statuso ir reikalavimo rinkti kaimynų sąskaitas bei mokėjimų duomenis.</p>
+
+</div>
 
 <div class="igaliotinis-article-list">
 
@@ -177,7 +200,6 @@ Man svarbu parodyti, kad daugiabučio įgaliotinis nėra administratorius, pasta
 <p>Apie savivaldybės bandymą daugiabučio įgaliotinį vertinti kaip administratorių ar pastato valdytoją, nors įgaliotinis tokio statuso, pareigų ir išteklių neturi.</p>
 
 </div>
-
 <div class="igaliotinis-note">
   <p>
     <strong>Diskusija ir skaitytojų komentarai.</strong><br>
@@ -193,3 +215,4 @@ Man svarbu parodyti, kad daugiabučio įgaliotinis nėra administratorius, pasta
 Tolesniuose įrašuose planuoju detaliau nagrinėti savivaldybės atsakymų formalizmą, defektų dokumentavimą, statytojų garantinius triukus ir ANK 505 straipsnio taikymo užkulisius.
 
 [Grįžti į pagrindinį puslapį](/)
+

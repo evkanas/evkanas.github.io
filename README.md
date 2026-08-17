@@ -50,8 +50,15 @@ Evaldas Jablonskas asmeninės patirties pagrindu rašo apie daugiabučio įgalio
   Straipsnių ciklas apie daugiabučio įgaliotinio patirtį, administravimo ribas, statytojų defektus ir institucijų atsakomybę.
 * [Kai savivaldybė daugiabučio įgaliotinį prilygina administratoriui](/daugiabucio-igaliotinio-uzrasai/savivaldybe/)
   Evaldo Jablonsko straipsnis apie situaciją, kai savivaldybė daugiabučio įgaliotinį vertina kaip administratorių ar pastato valdytoją.
+* [VVTAT – vartotojų gynėja ar dar viena biurokratinė siena?](/daugiabucio-igaliotinio-uzrasai/vvtat/vvtat-vartotoju-gyneja-ar-dar-viena-biurokratine-siena/)  
+  Evaldo Jablonsko straipsnis apie daugiabučio įgaliotinio patirtį kreipiantis į VVTAT dėl administratoriaus apskaičiuoto mokesčio, įgaliotinio statuso ir institucinių dokumentų reikalavimų.
+
 * [Ar verta pirkti butą iš „Citus“? Viešas klausimas Mindaugui Vanagui dėl užliejamo parkingo](/daugiabucio-igaliotinio-uzrasai/citus/mindaugas-vanagas-uzliejamas-parkingas/)  
   Evaldo Jablonsko straipsnis apie nuo 2023 metų fiksuojamą vandens skverbimąsi į požeminį parkingą ir viešus klausimus „Citus“ įkūrėjui Mindaugui Vanagui.
+* [„Citus“ atsiliepimai ir pirkėjų patirtis: ko tikėtis susidūrus su šiuo NT vystytoju?](/daugiabucio-igaliotinio-uzrasai/citus/citus-atsiliepimai/)  
+  Evaldo Jablonsko straipsnis apie viešus „Citus“ atsiliepimus, pirkėjų patirtis, garantinių defektų šalinimą, vandens pratekėjimus ir preliminariųjų sutarčių rizikas.
+* [Į elektros skydinę – su skėčiu? Viešas klausimas „Citus“ garantinio skyriaus vadovui Mariui Karpavičiui](/daugiabucio-igaliotinio-uzrasai/citus/marius-karpavicius-elektros-skydine-vanduo/)  
+  Evaldo Jablonsko straipsnis apie oficialiame statinio apžiūros akte užfiksuotą vandens patekimą į požeminio parkingo elektros skydinės zoną ir klausimus „Citus“ garantinio skyriaus vadovui Mariui Karpavičiui.
 * [Pilietinio aktyvumo kaina Vilniuje: Valdas Benkunskas, Adomas Bužinskas ir daugiabučio įgaliotinis](/daugiabucio-igaliotinio-uzrasai/savivaldybe/pilietinio-aktyvumo-kaina-vilniuje/)
   Evaldo Jablonsko straipsnis apie pilietinio aktyvumo kainą Vilniuje, Vilniaus savivaldybę ir administracinio spaudimo riziką aktyviam gyventojų atstovui.
 
