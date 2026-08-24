@@ -155,6 +155,14 @@ Man svarbu parodyti, kad daugiabučio įgaliotinis nėra administratorius, pasta
 
 <div class="igaliotinis-article-list">
 
+<h3><a href="/daugiabucio-igaliotinio-uzrasai/prokuratura/uab-prokuratura-bendruomenes-gynimas/">UAB „Prokuratūra“: kai bendruomenės gynimas prilyginamas nusikaltimui</a></h3>
+
+<p>Evaldas Jablonskas rašo apie situaciją, kai daugiabučio bendruomenės interesų gynimas, statybų broko viešinimas ir kreipimaisi į verslo asociacijas virto baudžiamuoju įtarimu.</p>
+
+</div>
+
+<div class="igaliotinis-article-list">
+
 <h3><a href="/daugiabucio-igaliotinio-uzrasai/citus/citus-atsiliepimai/">„Citus“ atsiliepimai ir pirkėjų patirtis: ko tikėtis susidūrus su šiuo NT vystytoju?</a></h3>
 
 <p>Evaldas Jablonskas apžvelgia viešus „Citus“ atsiliepimus, pirkėjų patirtis, garantinių defektų šalinimą, vandens pratekėjimus ir preliminariųjų sutarčių rizikas.</p>

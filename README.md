@@ -48,6 +48,8 @@ Evaldas Jablonskas asmeninės patirties pagrindu rašo apie daugiabučio įgalio
 
 * [Evaldas Jablonskas – Daugiabučio įgaliotinio užrašai](/daugiabucio-igaliotinio-uzrasai/)  
   Straipsnių ciklas apie daugiabučio įgaliotinio patirtį, administravimo ribas, statytojų defektus ir institucijų atsakomybę.
+* [UAB „Prokuratūra“: kai bendruomenės gynimas prilyginamas nusikaltimui](/daugiabucio-igaliotinio-uzrasai/prokuratura/uab-prokuratura-bendruomenes-gynimas/)  
+  Evaldo Jablonsko straipsnis apie situaciją, kai daugiabučio bendruomenės interesų gynimas, statybų broko viešinimas ir kreipimaisi į verslo asociacijas virto baudžiamuoju įtarimu.
 * [Kai savivaldybė daugiabučio įgaliotinį prilygina administratoriui](/daugiabucio-igaliotinio-uzrasai/savivaldybe/)
   Evaldo Jablonsko straipsnis apie situaciją, kai savivaldybė daugiabučio įgaliotinį vertina kaip administratorių ar pastato valdytoją.
 * [VVTAT – vartotojų gynėja ar dar viena biurokratinė siena?](/daugiabucio-igaliotinio-uzrasai/vvtat/vvtat-vartotoju-gyneja-ar-dar-viena-biurokratine-siena/)  

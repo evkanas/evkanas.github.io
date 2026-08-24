@@ -314,6 +314,8 @@ Tai yra mano vieša pilietinė pozicija, paremta patirtimi, raštais ir savivald
 
 [Ar verta pirkti butą iš „Citus“? Viešas klausimas Mindaugui Vanagui dėl užliejamo požeminio parkingo](/daugiabucio-igaliotinio-uzrasai/citus/mindaugas-vanagas-uzliejamas-parkingas/) – apie nuo 2023 metų fiksuojamą vandens patekimą į „Citus“ projekto požeminį parkingą.
 
+[UAB „Prokuratūra“: kai bendruomenės gynimas prilyginamas nusikaltimui](/daugiabucio-igaliotinio-uzrasai/prokuratura/uab-prokuratura-bendruomenes-gynimas/) – apie situaciją, kai daugiabučio bendruomenės interesų gynimas, statybų broko viešinimas ir kreipimaisi į verslo asociacijas virto baudžiamuoju įtarimu.
+
 [Kai savivaldybė daugiabučio įgaliotinį prilygina administratoriui](/daugiabucio-igaliotinio-uzrasai/savivaldybe/) – apie tai, kaip Vilniaus savivaldybė daugiabučio įgaliotinį vertina kaip administratorių ar pastato valdytoją.
 
 [VVTAT – vartotojų gynėja ar dar viena biurokratinė siena?](/daugiabucio-igaliotinio-uzrasai/vvtat/vvtat-vartotoju-gyneja-ar-dar-viena-biurokratine-siena/) – tekstas apie VVTAT nagrinėtą vartojimo ginčą, įgaliotinio statusą ir institucinius dokumentų reikalavimus.

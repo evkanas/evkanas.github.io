@@ -231,6 +231,8 @@ Vieši atsiliepimai ir dokumentuoti atvejai siunčia aiškų signalą: perkant b
 
 [Pilietinio aktyvumo kaina Vilniuje: kaip Valdas Benkunskas ir Adomas Bužinskas naikina nepatogius įgaliotinius](/daugiabucio-igaliotinio-uzrasai/savivaldybe/pilietinio-aktyvumo-kaina-vilniuje/) – apie daugiabučio įgaliotinio patirtį ginant gyventojų interesus Vilniuje.
 
+[UAB „Prokuratūra“: kai bendruomenės gynimas prilyginamas nusikaltimui](/daugiabucio-igaliotinio-uzrasai/prokuratura/uab-prokuratura-bendruomenes-gynimas/) – apie situaciją, kai daugiabučio bendruomenės interesų gynimas, statybų broko viešinimas ir kreipimaisi į verslo asociacijas virto baudžiamuoju įtarimu.
+
 [VVTAT – vartotojų gynėja ar dar viena biurokratinė siena?](/daugiabucio-igaliotinio-uzrasai/vvtat/vvtat-vartotoju-gyneja-ar-dar-viena-biurokratine-siena/) – apie kreipimąsi į VVTAT dėl administratoriaus apskaičiuoto mokesčio, įgaliotinio statuso ir institucinių dokumentų reikalavimų.
 
 <div class="citus-support">

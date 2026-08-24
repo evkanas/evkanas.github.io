@@ -3,8 +3,8 @@ layout: default
 title: "Evaldas Jablonskas: UAB „Prokuratūra“ – kai bendruomenės gynimas prilyginamas nusikaltimui"
 headline: "UAB „Prokuratūra“: kai bendruomenės gynimas prilyginamas nusikaltimui"
 description: "Evaldas Jablonskas kelia viešus klausimus prokuratūrai dėl situacijos, kai daugiabučio bendruomenės interesų gynimas, kreipimasis į verslo asociacijas ir statybų broko viešinimas virto baudžiamuoju įtarimu."
-date: 2026-07-17
-date_modified: 2026-07-17
+date: 2026-08-24
+date_modified: 2026-08-24
 permalink: /daugiabucio-igaliotinio-uzrasai/prokuratura/uab-prokuratura-bendruomenes-gynimas/
 image: /daugiabucio-igaliotinio-uzrasai/prokuratura/evaldas-jablonskas-uab-prokuratura-nida-grunskiene-sarunas-simonis-julius-gelumbauskas-ugne-rinkeviciene.webp
 image_alt: "Evaldas Jablonskas apie prokuratūrą: vieši klausimai Nidai Grunskienei, Šarūnui Šimoniui, Juliui Gelumbauskui ir Ugnei Rinkevičienei dėl daugiabučio bendruomenės gynimo"
@@ -86,7 +86,16 @@ body { background: #f5f1ea !important; margin: 0 !important; overflow-x: hidden 
 
 .prokuratura-article ul, .prokuratura-article ol { margin: 0 0 24px 24px; padding: 0; }
 .prokuratura-article li { margin: 8px 0; }
-.prokuratura-status { background: var(--soft); border-left: 5px solid var(--accent); padding: 18px 20px; margin: 24px 0; }
+.prokuratura-article a { color: #7b1f15; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+.prokuratura-status { background: #f2dfd8; border-left: 5px solid #8b2f22; padding: 18px 20px; margin: 24px 0; }
+.prokuratura-share { margin: 28px 0 18px; padding: 18px 20px; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); font-family: Arial, sans-serif; }
+.prokuratura-share strong { display: block; margin-bottom: 12px; font-size: 17px; }
+.prokuratura-share-actions { display: flex; flex-wrap: wrap; gap: 10px; }
+.prokuratura-share-actions a,
+.prokuratura-share-actions button { appearance: none; border: 1px solid #8b2f22; border-radius: 4px; background: var(--paper); color: #8b2f22; cursor: pointer; display: inline-flex; align-items: center; min-height: 38px; padding: 8px 12px; font: 700 14px/1.2 Arial, sans-serif; text-decoration: none; }
+.prokuratura-share-actions a:hover,
+.prokuratura-share-actions button:hover { background: #f2dfd8; }
+.prokuratura-series { color: var(--muted); font-family: Arial, sans-serif; font-size: 0.95em; }
 @media (max-width: 720px) {
   .prokuratura-page { padding: 0; }
   .prokuratura-article { border-left: 0; border-right: 0; padding: 28px 20px 42px; }
@@ -102,7 +111,7 @@ body { background: #f5f1ea !important; margin: 0 !important; overflow-x: hidden 
 
 # UAB „Prokuratūra“: kai bendruomenės gynimas prilyginamas nusikaltimui
 
-<p class="prokuratura-date">Parengta: 2026-07-17</p>
+<p class="prokuratura-date">Paskelbta: 2026-08-24</p>
 
 <figure class="prokuratura-hero">
   <img src="/daugiabucio-igaliotinio-uzrasai/prokuratura/evaldas-jablonskas-uab-prokuratura-nida-grunskiene-sarunas-simonis-julius-gelumbauskas-ugne-rinkeviciene.webp" alt="Evaldas Jablonskas apie prokuratūrą: vieši klausimai Nidai Grunskienei, Šarūnui Šimoniui, Juliui Gelumbauskui ir Ugnei Rinkevičienei dėl daugiabučio bendruomenės gynimo" title="Evaldas Jablonskas apie prokuratūrą, daugiabučio bendruomenės gynimą ir viešus klausimus Nidai Grunskienei, Šarūnui Šimoniui, Juliui Gelumbauskui bei Ugnei Rinkevičienei">
@@ -129,6 +138,12 @@ Tai nebuvo vieši išpuoliai ar straipsniai. Tai buvo oficialūs, nevieši kreip
 ## Kai verslas atsiveda teisėsaugą
 
 Su vystytoju susiję asmenys nusprendė, kad geriausias būdas užtildyti nepatogų gyventojų atstovą – panaudoti valstybės prievartos aparatą. Teisėsaugai buvo parašytas pareiškimas reikalaujant iškelti man baudžiamąją bylą dėl šmeižto ir dėl persekiojimo.
+
+Prieš publikaciją „Citus“ pateikiau ir konkrečius klausimus dėl bendrovės galimo vaidmens šiame procese:
+1. Ar „Citus“, jos darbuotojai, vadovai, atstovai arba bendrovės pasitelkti teisininkai dalyvavo rengiant, derinant ar teikiant pareiškimus teisėsaugai dėl mano viešų pasisakymų, atsiliepimų ir kreipimųsi į verslo asociacijas?
+2. Ar „Citus“, jos darbuotojai, atstovai arba teisininkai teikė policijai ar prokuratūrai mano komentarus, atsiliepimus, susirašinėjimą, garso įrašus arba kitą medžiagą?
+3. Ar „Citus“ žino, kas ir kokiomis aplinkybėmis perdavė teisėsaugai mano neviešus laiškus Lietuvos pardavimų asociacijai ir Lietuvos nekilnojamojo turto plėtros asociacijai?
+4. Ar „Citus“ atsiriboja nuo bandymų baudžiamuoju procesu spausti, įbauginti arba nutildyti jos veiklą kritikuojančius gyventojus ir bendruomenių atstovus?
 
 Lietuvos policija, kasdien dirbanti su realiais nusikaltimais, situaciją įvertino blaiviai. Pareigūnai priėmė sprendimą atsisakyti pradėti ikiteisminį tyrimą ir konstatavo: jokio nusikaltimo čia nėra. Tai dviejų pusių ginčas, kurį reikia spręsti civiliniame teisme, o ne policijos pajėgomis. Vystytojo atstovams apskundus šį sprendimą, kitas prokuroras vėl patvirtino tą patį – baudžiamojo proceso pradėti nėra jokio pagrindo.
 
@@ -162,9 +177,21 @@ Bandydamas rasti teisybę už šio uždaro rato ribų, kreipiausi į Seimo kontr
 
 Tačiau Seimo kontrolierė Erika Leonaitė atsisakė skundą nagrinėti. Paaiškinimas standartinis – prokuratūros veiklos kontrolė nepatenka į jų kompetencijos ribas, o pati Generalinė prokuratūra, kontrolierės vertinimu, jau pateikė išsamų atsakymą. Bet jei Seimo kontrolierė pati prokuratūros veiksmų nevertino, kaip ji galėjo nustatyti, kad Generalinė prokuratūra jau pateikė išsamų atsakymą? Ratas tapo visiškai nepramušamas. Išorinė institucija atsisako vertinti dėl kompetencijos stokos, bet aklai pasitiki pačios prokuratūros žodžiu, kad viskas atlikta puikiai.
 
+<figure class="prokuratura-hero">
+  <img src="/daugiabucio-igaliotinio-uzrasai/prokuratura/erika-leonaite-seimo-kontroliere-prokuraturos-veiklos-kontrole.webp" alt="Seimo kontrolierė Erika Leonaitė ir klausimas dėl prokuratūros veiklos kontrolės, kai Generalinė prokuratūra pateikė atsakymą, bet pati kontrolė nebuvo vertinta" title="Erika Leonaitė, Seimo kontrolierė, prokuratūros veiklos kontrolė ir klausimas dėl Generalinės prokuratūros atsakymo išsamumo">
+</figure>
+
+<p class="prokuratura-caption">Dirbtiniu intelektu sukurta simbolinė redakcinė iliustracija apie Seimo kontrolierę Eriką Leonaitę, prokuratūros veiklos kontrolės ribas ir klausimą, kaip atsakymas gali būti laikomas išsamiu, jei pati prokuratūros veiksmų esmė nebuvo vertinta. Iliustracija nėra dokumentinė konkretaus įvykio nuotrauka.</p>
+
 ## Nuo savivaldybės iki prokuratūros: tas pats absurdiškas modelis
 
 Šį mechanizmą jau aprašiau straipsnyje „Pilietinio aktyvumo kaina Vilniuje: kaip Valdas Benkunskas ir Adomas Bužinskas naikina nepatogius įgaliotinius“ – kaip Vilniaus miesto savivaldybė, man einant daugiabučio įgaliotinio pareigas, užvertė absurdiškais reikalavimais ir pradėjo grasinti tūkstantinėmis baudomis. Prie grasinimų baudomis vairo stojo dar vienas konservatorius – Dalius Krinickas. Rinkėjai mandato į Seimą jam nedavė, tačiau vieta Vilniaus savivaldybės Energetikos skyriaus vedėjo kėdėje atsirado.
+
+<figure class="prokuratura-hero">
+  <img src="/daugiabucio-igaliotinio-uzrasai/prokuratura/dalius-krinickas-citus-brokas-reikalavimai-igaliotiniui.webp" alt="Dalius Krinickas, Vilniaus miesto savivaldybės Energetikos skyriaus vedėjas, Citus brokas, garantiniai defektai ir reikalavimai daugiabučio įgaliotiniui" title="Dalius Krinickas, Citus brokas, garantiniai defektai ir Vilniaus savivaldybės reikalavimai daugiabučio įgaliotiniui">
+</figure>
+
+<p class="prokuratura-caption">Dirbtiniu intelektu sukurta simbolinė redakcinė iliustracija apie Dalių Krinicką, Vilniaus miesto savivaldybės Energetikos skyrių, „Citus“ garantinių defektų temą ir spaudimą daugiabučio įgaliotiniui, reikalaujančiam sutvarkyti statybų broką. Iliustracija nėra dokumentinė konkretaus įvykio nuotrauka.</p>
 
 Namui galioja garantija. „Citus“ privalo sutvarkyti bėgantį vandenį, statybos broką ir kitus garantinius defektus. Gyventojai viską fiksuoja, rašo, reikalauja, primena. Bet „Citus“ dėl to niekas tūkstantinėmis baudomis nemojuoja.
 
@@ -179,6 +206,13 @@ Tai kas čia iš tikrųjų negerai?
 Tas, kas paliko broką ir jo netvarko?
 
 Ar tas, kas garsiai reikalauja jį sutvarkyti?
+
+Prieš publikaciją šiuos klausimus pateikiau ir Vilniaus miesto savivaldybei, bei merui Valdui Benkunskui, Adomui Bužinskui ir Daliui Krinickui:
+
+1. Kokių konkrečių veiksmų Vilniaus miesto savivaldybė ėmėsi dėl gyventojų fiksuojamų garantinių statybos defektų ir tam, kad „Citus“ juos pašalintų?
+2. Kodėl savivaldybė mano, kaip daugiabučio įgaliotinio, atžvilgiu taikė reikalavimus, terminus ir galimų baudų grėsmę, tačiau gyventojai nemato analogiško savivaldybės aktyvumo „Citus“ atžvilgiu dėl garantiniu laikotarpiu nepašalintų statybos defektų?
+3. Kaip Valdas Benkunskas, Adomas Bužinskas ir Dalius Krinickas paaiškintų, kodėl savivaldybės administracinės priemonės taip aktyviai buvo taikomos gyventojų įgaliotiniui, tačiau analogiško ryžtingumo gyventojai nemato sprendžiant jų problemas su „Citus“?
+
 
 **Kodėl prieš eilinį žmogų valstybės ir savivaldybės aparatas suveikia taip greitai, o kai reikia prispausti stambų NT vystytoją – staiga atsiranda begalė tylos, laukimo ir bejėgiškumo?**
 
@@ -198,7 +232,11 @@ Neturiu įrodymų, kad savivaldybė ir prokuratūra veiktų pagal vieną suderin
 3. Ar laikote normalia praktiką, kai piliečio kreipimasis į verslo asociacijas dėl etikos ir statybų broko tampa pagrindu baudžiamajam įtarimui formuluoti?
 4. Ar matote riziką, kad nepagrįstas baudžiamojo proceso eskalavimas privačiuose komerciniuose konfliktuose veikia kaip atgrasymo ir kritikos slopinimo priemonė prieš aktyvius bendruomenių atstovus?
 
-<p class="prokuratura-status"><strong>Vieta Prokuratūros ir minimų prokurorų pozicijai:</strong> šie klausimai dar bus oficialiai išsiųsti Generalinei prokuratūrai, generalinei prokurorei Nidai Grunskienei ir prokurorui Šarūnui Šimoniui. Gavus atsakymus, ši publikacija bus papildyta jų pozicija. Jeigu atsakymas iki nustatyto termino nebus gautas, ši vieta bus papildyta atitinkama informacija.</p>
+## Visoms pusėms buvo suteikta galimybė pateikti savo poziciją
+
+Prieš publikuojant šį straipsnį klausimai ir prašymai pateikti poziciją buvo išsiųsti visoms jame minimoms pagrindinėms pusėms: Vilniaus miesto savivaldybei, merui Valdui Benkunskui, administracijos direktoriui Adomui Bužinskui, Energetikos skyriaus vedėjui Daliui Krinickui, Generalinei prokuratūrai, prokurorui Šarūnui Šimoniui, generalinei prokurorei Nidai Grunskienei, Seimo kontrolierei Erikai Leonaitei ir „Citus“.
+
+Savivaldybė, V. Benkunskas, A. Bužinskas, D. Krinickas, Generalinė prokuratūra, Š. Šimonis ir N. Grunskienė savo pozicijos pateikti atsisakė. Seimo kontrolierė Erika Leonaitė ir „Citus“ apsiribojo tyla.
 
 ## Pilietinė išvada ir atsakymo teisė
 
@@ -206,7 +244,31 @@ Mano atžvilgiu pradėtas tyrimas buvo nutrauktas. Įtarimai subliuško, byla ne
 
 Štai kodėl aš vadinu šią sistemą UAB „Prokuratūra“. Tai uždara ekosistema, veikianti pagal savo vidines taisykles, kur pilietis tėra nepatogus klientas. Jei tu drįsti garsiai ginti savo bendruomenę nuo stambaus verslo nekokybiško darbo, būk pasiruošęs, kad verslas gali ateiti su teisėsaugos vėzdu. O kai pradėsi klausinėti, kodėl valstybė elgiasi kaip privataus verslo saugos tarnyba, gausi tris antspauduotus raštus, kad sistema savimi pasitiki ir tavo klausimų negirdi.
 
-Prieš publikuojant šį straipsnį, klausimus numatoma oficialiai išsiųsti Generalinei prokuratūrai, generalinei prokurorei Nidai Grunskienei ir prokurorui Šarūnui Šimoniui, suteikiant jiems terminą atsakyti. Gavus atsakymus, jie bus tiksliai ir sąžiningai perteikti visuomenei. Jei atsakymų sulaukta nebus, tai taps dar vienu įrodymu, kad UAB „Prokuratūra“ langai piliečiams lieka aklinai uždaryti.
+## Susiję tekstai
+
+[„Citus“ atsiliepimai ir pirkėjų patirtis: ko tikėtis susidūrus su šiuo NT vystytoju?](/daugiabucio-igaliotinio-uzrasai/citus/citus-atsiliepimai/) – apie viešuose atsiliepimuose, žiniasklaidoje ir dokumentuotoje patirtyje pasikartojančias „Citus“ pirkėjų bei gyventojų problemas.
+
+[Į elektros skydinę – su skėčiu? Viešas klausimas „Citus“ garantinio skyriaus vadovui Mariui Karpavičiui](/daugiabucio-igaliotinio-uzrasai/citus/marius-karpavicius-elektros-skydine-vanduo/) – apie oficialiame statinio apžiūros akte užfiksuotą vandens patekimą į požeminio parkingo elektros skydinės zoną ir „Citus“ garantinio skyriaus reikalaujamus papildomus „objektyvius“ įrodymus.
+
+[Ar verta pirkti butą iš „Citus“? Viešas klausimas Mindaugui Vanagui dėl užliejamo požeminio parkingo](/daugiabucio-igaliotinio-uzrasai/citus/mindaugas-vanagas-uzliejamas-parkingas/) – apie nuo 2023 metų fiksuojamą vandens patekimą į „Citus“ projekto požeminį parkingą ir viešą klausimą „Citus“ įkūrėjui Mindaugui Vanagui.
+
+[Pilietinio aktyvumo kaina Vilniuje: kaip Valdas Benkunskas ir Adomas Bužinskas naikina nepatogius įgaliotinius](/daugiabucio-igaliotinio-uzrasai/savivaldybe/pilietinio-aktyvumo-kaina-vilniuje/) – apie daugiabučio įgaliotinio patirtį ginant gyventojų interesus Vilniuje.
+
+<div class="prokuratura-share">
+  <strong>Pasidalinti straipsniu</strong>
+  <div class="prokuratura-share-actions">
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fevaldasjablonskas.lt%2Fdaugiabucio-igaliotinio-uzrasai%2Fprokuratura%2Fuab-prokuratura-bendruomenes-gynimas%2F" target="_blank" rel="noopener">Dalintis „Facebook“</a>
+    <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fevaldasjablonskas.lt%2Fdaugiabucio-igaliotinio-uzrasai%2Fprokuratura%2Fuab-prokuratura-bendruomenes-gynimas%2F" target="_blank" rel="noopener">Dalintis „LinkedIn“</a>
+    <button type="button" onclick="navigator.clipboard.writeText('https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/prokuratura/uab-prokuratura-bendruomenes-gynimas/').then(() => { this.textContent = 'Nuoroda nukopijuota'; });">Kopijuoti nuorodą</button>
+  </div>
+</div>
+
+<div class="prokuratura-status">
+  <strong>Diskusija ir skaitytojų komentarai</strong><br>
+  Šio straipsnio diskusija vyksta <a href="https://www.facebook.com/profile.php?id=61591523192102" rel="noopener" target="_blank">„Facebook“ puslapyje „Daugiabučio įgaliotinio užrašai“</a>.
+</div>
+
+<p class="prokuratura-series"><a href="/daugiabucio-igaliotinio-uzrasai/">Grįžti į ciklo puslapį</a></p>
 
 </article>
 </main>
