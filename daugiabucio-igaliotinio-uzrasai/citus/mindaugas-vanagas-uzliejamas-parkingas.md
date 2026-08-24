@@ -330,6 +330,8 @@ Apie kitus mūsų projekte nustatytus defektus, jų šalinimą ir bendravimą su
 
 [Pilietinio aktyvumo kaina Vilniuje](/daugiabucio-igaliotinio-uzrasai/savivaldybe/pilietinio-aktyvumo-kaina-vilniuje/) – apie daugiabučio įgaliotinio patirtį ginant gyventojų interesus Vilniuje.
 
+[UAB „Prokuratūra“: kai bendruomenės gynimas prilyginamas nusikaltimui](/daugiabucio-igaliotinio-uzrasai/prokuratura/uab-prokuratura-bendruomenes-gynimas/) – apie situaciją, kai daugiabučio bendruomenės interesų gynimas, statybų broko viešinimas ir kreipimaisi į verslo asociacijas virto baudžiamuoju įtarimu.
+
 [Kai savivaldybė daugiabučio įgaliotinį prilygina administratoriui](/daugiabucio-igaliotinio-uzrasai/savivaldybe/) – apie tai, kaip Vilniaus savivaldybė daugiabučio įgaliotinį vertina kaip administratorių ar pastato valdytoją.
 
 <div class="savivaldybe-share">
