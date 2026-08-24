@@ -152,7 +152,7 @@ Pirmiausia, Vilniaus apylinkės prokuratūros vyriausiasis prokuroras Julius Gel
 
 Tada paprašiau pradėti Šarūno Šimonio tarnybinį patikrinimą. Vidaus tyrimų skyriaus vyriausioji prokurorė Ugnė Rinkevičienė atsisakė tai padaryti. Jos argumentas mane pribloškė: tarnybinio patikrinimo metu negalima vertinti prokuroro sprendimų pagrįstumo. Iškart kyla logiškas klausimas: jei negalima vertinti sprendimų pagrįstumo, kaip institucija gali užtikrintai konstatuoti, kad prokuroras elgėsi teisėtai ir nepadarė jokio pažeidimo?
 
-Paskutinė viltis buvo skundas pačiai generalinei prokurorei Nidai Grunskienei. Sulaukiau galutinio, jos pačios pasirašyto rašto. Ir čia ratas užsidarė. Rašte tiesiog konstatuota, kad ankstesni atsakymai išsamūs, o argumentai – nebekartojami. N. Grunskienė pripažino faktą: Šimoniui buvo pavesta tik patikrinti policijos nutarimą, o sprendimą pradėti tyrimą jis priėmė pats. Ji taip pat patvirtino, kad atlikus tyrimą jokio nusikaltimo nerasta.
+Paskutinė viltis buvo skundas pačiai generalinei prokurorei Nidai Grunskienei. Sulaukiau galutinio, jos pačios pasirašyto rašto. Ir čia ratas užsidarė. Rašte tiesiog konstatuota, kad ankstesni atsakymai išsamūs, o argumentai – nebekartojami. N. Grunskienė pripažino faktą: Šimoniui buvo pavesta tik patikrinti policijos nutarimą, o sprendimą pradėti tyrimą jis priėmė pats. Ji taip pat patvirtino, kad atlikus tyrimą jokio nusikaltimo nerasta. Tačiau kaip galima konstatuoti, kad pažeidimo nebuvo, jei pati prokuratūra pripažino, kad Šimonio sprendimo pradėti tyrimą pagrįstumas apskritai nebuvo vertintas?
 
 Ir viskas. Skundas atmestas. Atsakymas – neskundžiamas. Sistema pati patikrino savo darbuotoją, pati nerado jokių klaidų ir pati oficialiai pareiškė, kad daugiau šiuo klausimu su manimi nesikalbės.
 
@@ -160,17 +160,17 @@ Ir viskas. Skundas atmestas. Atsakymas – neskundžiamas. Sistema pati patikrin
 
 Bandydamas rasti teisybę už šio uždaro rato ribų, kreipiausi į Seimo kontrolierių įstaigą. Prašiau įvertinti ne pačius prokuroro sprendimus, o akivaizdų prokuratūros biurokratizmą – tai, kad institucija tiesiog kopijuoja savo atsakymus ir ignoruoja esminius piliečio klausimus.
 
-Tačiau Seimo kontrolierė atsisakė skundą nagrinėti. Paaiškinimas standartinis – prokuratūros veiklos kontrolė nepatenka į jų kompetencijos ribas, o pati Generalinė prokuratūra, kontrolierės vertinimu, jau pateikė išsamų atsakymą. Bet jei Seimo kontrolierė pati prokuratūros veiksmų nevertino, kaip ji galėjo nustatyti, kad Generalinė prokuratūra jau pateikė išsamų atsakymą? Ratas tapo visiškai nepramušamas. Išorinė institucija atsisako vertinti dėl kompetencijos stokos, bet aklai pasitiki pačios prokuratūros žodžiu, kad viskas atlikta puikiai.
+Tačiau Seimo kontrolierė Erika Leonaitė atsisakė skundą nagrinėti. Paaiškinimas standartinis – prokuratūros veiklos kontrolė nepatenka į jų kompetencijos ribas, o pati Generalinė prokuratūra, kontrolierės vertinimu, jau pateikė išsamų atsakymą. Bet jei Seimo kontrolierė pati prokuratūros veiksmų nevertino, kaip ji galėjo nustatyti, kad Generalinė prokuratūra jau pateikė išsamų atsakymą? Ratas tapo visiškai nepramušamas. Išorinė institucija atsisako vertinti dėl kompetencijos stokos, bet aklai pasitiki pačios prokuratūros žodžiu, kad viskas atlikta puikiai.
 
 ## Nuo savivaldybės iki prokuratūros: tas pats absurdiškas modelis
 
 Šį mechanizmą jau aprašiau straipsnyje „Pilietinio aktyvumo kaina Vilniuje: kaip Valdas Benkunskas ir Adomas Bužinskas naikina nepatogius įgaliotinius“ – kaip Vilniaus miesto savivaldybė, man einant daugiabučio įgaliotinio pareigas, užvertė absurdiškais reikalavimais ir pradėjo grasinti tūkstantinėmis baudomis. Prie grasinimų baudomis vairo stojo dar vienas konservatorius – Dalius Krinickas. Rinkėjai mandato į Seimą jam nedavė, tačiau vieta Vilniaus savivaldybės Energetikos skyriaus vedėjo kėdėje atsirado.
 
-O dabar pažiūrėkime, kas vyksta kitoje pusėje.
-
 Namui galioja garantija. „Citus“ privalo sutvarkyti bėgantį vandenį, statybos broką ir kitus garantinius defektus. Gyventojai viską fiksuoja, rašo, reikalauja, primena. Bet „Citus“ dėl to niekas tūkstantinėmis baudomis nemojuoja.
 
 Užtat man – prašom.
+
+Vienoje pusėje – konservatorių valdoma Vilniaus savivaldybė. Kitoje – Generalinė prokuratūra, kurios vadovė į postą pasodinta gavus tų pačių konservatorių Seimo palaiminimą. O per vidurį lieka pilietis, kuris viena ranka turi gintis nuo tų pačių konservatorių žmonių savivaldybėje ir prokuratūros viršūnėje, o kita – reikalauti, kad stambus NT vystytojas pagaliau sutvarkytų savo paliktą broką. Kai visos svirtys vienų rankose, gintis tenka vienam.
 
 Nauji reikalavimai, nauji terminai, nauji grasinimai baudomis. Ir visa tai žmogui, kuris daro vieną dalyką – reikalauja, kad vystytojas pagaliau sutvarkytų tai, ką privalo sutvarkyti.
 
