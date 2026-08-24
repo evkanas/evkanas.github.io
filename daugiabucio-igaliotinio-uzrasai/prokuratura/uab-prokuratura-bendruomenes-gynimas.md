@@ -119,11 +119,11 @@ body { background: #f5f1ea !important; margin: 0 !important; overflow-x: hidden 
 
 <p class="prokuratura-caption">Dirbtiniu intelektu sukurta simbolinė redakcinė iliustracija straipsniui apie Evaldo Jablonsko keliamus klausimus prokuratūrai. Iliustracijoje pavaizduoti Nida Grunskienė, Šarūnas Šimonis, Julius Gelumbauskas ir Ugnė Rinkevičienė; ji nėra dokumentinė konkretaus įvykio nuotrauka.</p>
 
-<p class="prokuratura-source">Autorius: Evaldas Jablonskas. Publikacijoje pateikiami dokumentais, procesiniais sprendimais ir susirašinėjimu pagrįsti faktai bei autoriaus asmeninis šių aplinkybių vertinimas. Formuluotė UAB „Prokuratūra“ vartojama kaip publicistinė metafora</p>
+<p class="prokuratura-source">Autorius: Evaldas Jablonskas. Publikacijoje pateikiami dokumentais, procesiniais sprendimais ir susirašinėjimu pagrįsti faktai bei autoriaus asmeninis šių aplinkybių vertinimas. Formuluotė UAB „Prokuratūra“ vartojama kaip publicistinė metafora.</p>
 
 <p class="prokuratura-lead">Visada maniau, kad teisėsauga yra skirta ginti visuomenę ir viešąjį interesą. Niekada negalėjau įsivaizduoti, kad vieną dieną Lietuvos valstybės vardu veikianti sistema bus panaudota tam, kad apgintų stambaus nekilnojamojo turto vystytojo ramybę nuo vieno nepatogaus daugiabučio įgaliotinio. Ir ne tiesiog apgintų, o teisėtą bendruomenės teisių gynimą bei neviešus laiškus verslo asociacijoms paverstų oficialiu baudžiamuoju įtarimu.</p>
 
-Ši istorija – ne tik apie mane. Tai istorija apie sistemą, kurią vadinu publicistine metafora: **UAB „Prokuratūra“**. Susidūręs su ja pasijutau lyg patekęs į uždarą komercinio banko aptarnavimo ratą: institucija pati vertina savo pačios darbuotojus, pati pažeidimų neranda, pati savo raštus pripažįsta visiškai išsamiais ir pati uždaro visas duris skundams. Ratas užsidaro, spyna užrakinama, o esminiai klausimai lieka kaboti ore.
+Ši istorija – ne tik apie mane. Tai istorija apie sistemą, kuriai pasirinkau publicistinę metaforą – **UAB „Prokuratūra“**. Susidūręs su ja pasijutau lyg patekęs į uždarą komercinio banko aptarnavimo ratą: institucija pati vertina savo pačios darbuotojus, pati pažeidimų neranda, pati savo raštus pripažįsta visiškai išsamiais ir pati uždaro visas duris skundams. Ratas užsidaro, spyna užrakinama, o esminiai klausimai lieka kaboti ore.
 
 ## Konfliktas, prasidėjęs nuo vandens skydinėje ir statybų broko
 
@@ -161,7 +161,7 @@ Galiausiai tas pats prokuroras Š. Šimonis bylą nutraukė. Motyvas iš esmės 
 
 ## UAB „Prokuratūra“ – uždaras atsakymų ratas
 
-Nusprendęs išsiaiškinti, kodėl su manimi buvo taip pasielgta, kreipiausi į Generalinę prokuratūrą. Tikėjausi realaus tyrimo, o patekau į klasikinį biurokratinį karuselės žaidimą.
+Nusprendęs išsiaiškinti, kodėl su manimi buvo taip pasielgta, kreipiausi į Generalinę prokuratūrą. Tikėjausi realaus tyrimo, o patekau į klasikinę biurokratinę karuselę.
 
 Pirmiausia, Vilniaus apylinkės prokuratūros vyriausiasis prokuroras Julius Gelumbauskas man atsakė, kad prokuroras turi „procesinį savarankiškumą“, o policija esą nebuvo tinkamai įvertinusi vieno garso įrašo. Tačiau jis nesugebėjo įvardyti, kokie konkrečiai nauji faktai staiga pateisino mano pavertimą įtariamuoju ir kodėl laiškai asociacijoms tapo nusikaltimo dalimi.
 
@@ -207,7 +207,7 @@ Tas, kas paliko broką ir jo netvarko?
 
 Ar tas, kas garsiai reikalauja jį sutvarkyti?
 
-Prieš publikaciją šiuos klausimus pateikiau ir Vilniaus miesto savivaldybei, bei merui Valdui Benkunskui, Adomui Bužinskui ir Daliui Krinickui:
+Prieš publikaciją šiuos klausimus pateikiau ir Vilniaus miesto savivaldybei bei merui Valdui Benkunskui, Adomui Bužinskui ir Daliui Krinickui:
 
 1. Kokių konkrečių veiksmų Vilniaus miesto savivaldybė ėmėsi dėl gyventojų fiksuojamų garantinių statybos defektų ir tam, kad „Citus“ juos pašalintų?
 2. Kodėl savivaldybė mano, kaip daugiabučio įgaliotinio, atžvilgiu taikė reikalavimus, terminus ir galimų baudų grėsmę, tačiau gyventojai nemato analogiško savivaldybės aktyvumo „Citus“ atžvilgiu dėl garantiniu laikotarpiu nepašalintų statybos defektų?
@@ -223,7 +223,7 @@ Neturiu įrodymų, kad savivaldybė ir prokuratūra veiktų pagal vieną suderin
 1. Kokie konkretūs duomenys pateisino policijos atsisakymo panaikinimą, kurių prieš tai nematė nei policijos tyrėjai, nei prokuroras Tomas Danyla?
 2. Kodėl procesas buvo išplėtotas iki oficialių įtarimų, jei vėliau pats pripažinote, kad situacija nesiekia baudžiamajam procesui būtino pavojingumo?
 3. Kodėl mano nevieši laiškai verslo asociacijoms, ginant daugiabučio interesus ir keliant etikos klausimus, įtarime buvo įvardyti kaip „tęsiami neteisėti veiksmai“?
-4. Ar tikrinote, kaip šis neviešas susirašinėjimas pateko į bylos medžiagą, ir ar vertinote riziką, kad baudžiamasis procesas gali būti naudojamas kaip stambaus verslo spaudimo įrankis?
+4. Ar tikrinote, kaip šis neviešas susirašinėjimas pateko į bylos medžiagą, ir ar vertinote riziką, kad baudžiamasis procesas gali būti naudojamas kaip stambaus verslo naudojamas spaudimo įrankis?
 
 ## Vieši klausimai generalinei prokurorei Nidai Grunskienei:
 
@@ -242,7 +242,7 @@ Savivaldybė, V. Benkunskas, A. Bužinskas, D. Krinickas, Generalinė prokuratū
 
 Mano atžvilgiu pradėtas tyrimas buvo nutrauktas. Įtarimai subliuško, byla nepasiekė teismo, o prokuratūra pripažino, kad nusikalstamos veikos požymių nebuvo. Tačiau valstybės mašinos sukelto streso, apklausų, išlaidų advokatams ir bandymo padaryti mane nusikaltėliu niekas neištrins.
 
-Štai kodėl aš vadinu šią sistemą UAB „Prokuratūra“. Tai uždara ekosistema, veikianti pagal savo vidines taisykles, kur pilietis tėra nepatogus klientas. Jei tu drįsti garsiai ginti savo bendruomenę nuo stambaus verslo nekokybiško darbo, būk pasiruošęs, kad verslas gali ateiti su teisėsaugos vėzdu. O kai pradėsi klausinėti, kodėl valstybė elgiasi kaip privataus verslo saugos tarnyba, gausi tris antspauduotus raštus, kad sistema savimi pasitiki ir tavo klausimų negirdi.
+Štai kodėl aš vadinu šią sistemą UAB „Prokuratūra“. Tai uždara ekosistema, veikianti pagal savo vidines taisykles, kurioje pilietis tėra nepatogus klientas. Jei tu drįsti garsiai ginti savo bendruomenę nuo stambaus verslo nekokybiško darbo, būk pasiruošęs, kad verslas gali ateiti su teisėsaugos vėzdu. O kai pradėsi klausinėti, kodėl valstybė elgiasi kaip privataus verslo saugos tarnyba, gausi tris antspauduotus raštus, kad sistema savimi pasitiki ir tavo klausimų negirdi.
 
 ## Susiję tekstai
 
