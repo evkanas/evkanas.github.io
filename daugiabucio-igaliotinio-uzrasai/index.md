@@ -155,6 +155,14 @@ Man svarbu parodyti, kad daugiabučio įgaliotinis nėra administratorius, pasta
 
 <div class="igaliotinis-article-list">
 
+<h3><a href="/daugiabucio-igaliotinio-uzrasai/savivaldybe/laurynas-kasciunas-valstybes-priesas/">Aš – „valstybės priešas“ L. Kasčiūno akivaizdoje</a></h3>
+
+<p>Evaldas Jablonskas rašo apie konservatorių valdomos Vilniaus savivaldybės reikalavimus, Citus garantinių defektų istoriją, administracinio spaudimo pojūtį ir klausimą, kodėl TS-LKD pirmininkas Laurynas Kasčiūnas į tai nereaguoja.</p>
+
+</div>
+
+<div class="igaliotinis-article-list">
+
 <h3><a href="/daugiabucio-igaliotinio-uzrasai/prokuratura/uab-prokuratura-bendruomenes-gynimas/">UAB „Prokuratūra“: kai bendruomenės gynimas prilyginamas nusikaltimui</a></h3>
 
 <p>Evaldas Jablonskas rašo apie situaciją, kai daugiabučio bendruomenės interesų gynimas, statybų broko viešinimas ir kreipimaisi į verslo asociacijas virto baudžiamuoju įtarimu.</p>
@@ -223,4 +231,6 @@ Man svarbu parodyti, kad daugiabučio įgaliotinis nėra administratorius, pasta
 Tolesniuose įrašuose planuoju detaliau nagrinėti savivaldybės atsakymų formalizmą, defektų dokumentavimą, statytojų garantinius triukus ir ANK 505 straipsnio taikymo užkulisius.
 
 [Grįžti į pagrindinį puslapį](/)
+
+
 
