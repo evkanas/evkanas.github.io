@@ -225,7 +225,7 @@ Tačiau 2026 m. kovo 27 dieną gavau naują savivaldybės raštą.
   >
 </figure>
 
-<p class="prokuratura-caption"><strong>Romualdas Pliavga – Vilniaus miesto savivaldybės pareigūnas, pasirašęs mano atžvilgiu siųstus reikalavimus.</strong></p>
+<p class="prokuratura-caption"><strong>Romualdas Pliavga – Vilniaus miesto savivaldybės pareigūnas, pasirašęs mano atžvilgiu siųstus reikalavimus. DI sukurta simbolinė iliustracija.</strong></p>
 
 Jį pasirašė vėl tas pats pareigūnas – Romualdas Pliavga, nepaisydamas ankstesniame teismo procese išsakytų išvadų.
 
