@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Evaldas Jablonskas: Aš – „valstybės priešas“ L. Kasčiūno akivaizdoje"
-headline: "Aš – „valstybės priešas“ L. Kasčiūno akivaizdoje"
-description: "Evaldas Jablonskas rašo, kaip konservatorių valdoma Vilniaus savivaldybė, gindama NT vystytojų verslo interesus, pavertė aktyvų daugiabučio įgaliotinį „valstybės priešu“."
+title: "Evaldas Jablonskas: Aš – „valstybės priešas“ Lauryno Kasčiūno akivaizdoje"
+headline: "Aš – „valstybės priešas“ Lauryno Kasčiūno akivaizdoje"
+description: "Evaldas Jablonskas rašo apie Vilniaus savivaldybės spaudimą daugiabučio įgaliotiniui, „Citus“ konfliktą ir Lauryno Kasčiūno tylą."
 date: 2026-09-10
 date_modified: 2026-09-10
 permalink: /daugiabucio-igaliotinio-uzrasai/savivaldybe/laurynas-kasciunas-valstybes-priesas/
@@ -124,9 +124,9 @@ body { background: #f5f1ea !important; margin: 0 !important; overflow-x: hidden 
 
 <p class="prokuratura-kicker">Daugiabučio įgaliotinio užrašai / Savivaldybė</p>
 
-# Evaldas Jablonskas: Aš – „valstybės priešas“
+# Evaldas Jablonskas: Aš – „valstybės priešas“ Lauryno Kasčiūno akivaizdoje
 
-<p class="prokuratura-subtitle">L. Kasčiūno akivaizdoje: kaip konservatorių valdoma Vilniaus savivaldybė, gindama NT vystytojų verslo interesus, pavertė mane „valstybės priešu“</p>
+<p class="prokuratura-subtitle">Kaip konservatorių valdoma Vilniaus savivaldybė, gindama NT vystytojų verslo interesus, pavertė mane „valstybės priešu“</p>
 
 <p class="prokuratura-date">Paskelbta: 2026-09-10</p>
 
@@ -136,11 +136,11 @@ body { background: #f5f1ea !important; margin: 0 !important; overflow-x: hidden 
   <img
     src="/daugiabucio-igaliotinio-uzrasai/savivaldybe/laurynas-kasciunas-valstybes-priesas-vilniaus-savivaldybe.webp"
     alt="Evaldas Jablonskas apie Lauryną Kasčiūną, Vilniaus savivaldybę, Citus garantinius defektus ir spaudimą daugiabučio įgaliotiniui"
-    title="Aš – valstybės priešas L. Kasčiūno akivaizdoje"
+    title="Evaldas Jablonskas ir Laurynas Kasčiūnas – „valstybės priešo“ istorija"
   >
 </figure>
 
-<p class="prokuratura-caption">Dirbtiniu intelektu sukurta simbolinė redakcinė iliustracija apie savivaldybės reikalavimus, baudų grėsmes ir pilietinio aktyvumo slopinimo pojūtį. Iliustracija nėra dokumentinė konkretaus įvykio nuotrauka.</p>
+<p class="prokuratura-caption">Dirbtiniu intelektu sukurta satyrinė redakcinė iliustracija, perteikianti Evaldo Jablonsko požiūrį į Vilniaus savivaldybės administracinį spaudimą ir Lauryno Kasčiūno reakcijos nebuvimą. Iliustracija yra alegorinė ir nevaizduoja dokumentinio konkretaus įvykio.</p>
 
 <div class="prokuratura-note">
   <p><strong>Redakcinė pastaba.</strong> Publikacijoje pateikiamos dokumentais, susirašinėjimu ir teismų procesuose išryškėjusiomis aplinkybėmis pagrįstos faktinės aplinkybės, o jų vertinimai, interpretacijos ir išvados yra autoriaus asmeninė nuomonė.</p>
@@ -284,9 +284,9 @@ Būtent todėl Vilniaus savivaldybės administracijos ir ją valdančių konserv
 
 Ir čia atsiranda politinė šios istorijos dalis.
 
-## Kai apie tai buvo informuotas L. Kasčiūnas
+## Kai apie tai buvo informuotas Laurynas Kasčiūnas
 
-Apie Valdo Benkunsko ir Adomo Bužinsko vaidmenį šioje istorijoje jau išsamiai rašiau straipsnyje [„Pilietinio aktyvumo kaina Vilniuje“](/daugiabucio-igaliotinio-uzrasai/savivaldybe/pilietinio-aktyvumo-kaina-vilniuje/).
+Apie Vilniaus merą Valdą Benkunską ir Vilniaus miesto savivaldybės administracijos direktorių Adomą Bužinską šioje istorijoje jau išsamiai rašiau straipsnyje [„Pilietinio aktyvumo kaina Vilniuje“](/daugiabucio-igaliotinio-uzrasai/savivaldybe/pilietinio-aktyvumo-kaina-vilniuje/).
 
 Todėl liepos 17 dieną kreipiausi tiesiai į TS-LKD pirmininką Lauryną Kasčiūną. Norėjau sužinoti, kaip partijos vadovas vertina tai, kas vyksta konservatorių vadovaujamoje Vilniaus savivaldybėje.
 
@@ -302,7 +302,7 @@ Taigi apie situaciją jis buvo informuotas. Klausimas dabar nebe tas, ar TS-LKD 
 
 Klausimas – kodėl L. Kasčiūnas pasirenka į tai nereaguoti.
 
-## L. Kasčiūnas nemato ar nenori matyti?
+## Laurynas Kasčiūnas nemato ar nenori matyti?
 
 Šioje vietoje man jau nebeįdomu abstrakčiai klausti, ar Laurynas Kasčiūnas „žino“, kas vyksta Vilniuje.
 
@@ -342,7 +342,7 @@ Tik kažkodėl nelieka nė vieno politiko, turinčio laiko paklausti – kodėl?
 
 Prieš publikuodamas šį straipsnį suteikiau visoms jame minimoms pusėms progą pateikti savo poziciją. 2026 m. rugsėjo 2 d. atskirus klausimus išsiunčiau „Citus“, Vilniaus miesto savivaldybei ir Laurynui Kasčiūnui. Reakcijos į šiuos paklausimus puikiai atskleidžia, kaip kiekviena iš šių pusių elgiasi susidūrusi su nepatogiais klausimais.
 
-„Citus“ pasirinko jau kone klasikine tampančią tylą – bendrajam bendrovės adresui išsiųstas laiškas, kurio kopijas gavo Eglė Bačionytė ir Mindaugas Vanagas, liko be atsako. Kaip ir ne kartą anksčiau, vystytojas į nepatogius klausimus tiesiog neatsako.
+„Citus“ pasirinko jau kone klasikine tampančią tylą – bendrajam bendrovės adresui išsiųstas laiškas, kurio kopijas gavo „Citus“ komunikacijos vadovė Eglė Bačionytė ir bendrovės įkūrėjas Mindaugas Vanagas, liko be atsako. Kaip ir ne kartą anksčiau, vystytojas į nepatogius klausimus tiesiog neatsako.
 
 Vilniaus miesto savivaldybei pateikiau šešis konkrečius klausimus. Laiško kopijas gavo administracijos direktorius Adomas Bužinskas, Energetikos skyriaus vedėjas Dalius Krinickas ir Romualdas Pliavga. Klausiau, kodėl mano, kaip daugiabučio įgaliotinio, atžvilgiu buvo pradėti buldozeriniai administraciniai veiksmai, reikalaujant dokumentų, kuriuos faktiškai valdo profesionali administravimo įmonė. Klausiau, kodėl šis spaudimas tęsėsi net vykstant teisiniams ginčams ir kartu grasinant tūkstantinėmis baudomis. Klausiau ir apie absurdišką priedangos istoriją, kai man buvo nurodyta vykdyti reikalavimus objekte, kuris, kaip vėliau pati savivaldybė pripažino, net nėra mano valdomame name.
 
