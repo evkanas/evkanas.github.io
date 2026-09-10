@@ -3,8 +3,8 @@ layout: default
 title: "Evaldas Jablonskas: Aš – „valstybės priešas“ L. Kasčiūno akivaizdoje"
 headline: "Aš – „valstybės priešas“ L. Kasčiūno akivaizdoje"
 description: "Evaldas Jablonskas rašo, kaip konservatorių valdoma Vilniaus savivaldybė, gindama NT vystytojų verslo interesus, pavertė aktyvų daugiabučio įgaliotinį „valstybės priešu“."
-date: 2026-09-02
-date_modified: 2026-09-02
+date: 2026-09-10
+date_modified: 2026-09-10
 permalink: /daugiabucio-igaliotinio-uzrasai/savivaldybe/laurynas-kasciunas-valstybes-priesas/
 image: /daugiabucio-igaliotinio-uzrasai/savivaldybe/laurynas-kasciunas-valstybes-priesas-vilniaus-savivaldybe.webp
 image_alt: "Evaldas Jablonskas apie Lauryną Kasčiūną, Vilniaus savivaldybę, Citus garantinius defektus ir spaudimą daugiabučio įgaliotiniui"
@@ -128,7 +128,7 @@ body { background: #f5f1ea !important; margin: 0 !important; overflow-x: hidden 
 
 <p class="prokuratura-subtitle">L. Kasčiūno akivaizdoje: kaip konservatorių valdoma Vilniaus savivaldybė, gindama NT vystytojų verslo interesus, pavertė mane „valstybės priešu“</p>
 
-<p class="prokuratura-date">Paskelbta: 2026-09-02</p>
+<p class="prokuratura-date">Paskelbta: 2026-09-10</p>
 
 <p class="prokuratura-lead">Viskas prasidėjo gana banaliai – nuo naujos statybos daugiabučio defektų. Tačiau kuo atkakliau reikalavau, kad defektai būtų pašalinti, tuo keistesni dalykai pradėjo vykti jau visai kitoje pusėje. Problema pamažu tapo ne statybos brokas. Problema tapau aš.</p>
 
@@ -337,6 +337,52 @@ Kai pradedi kelti nepatogius klausimus stambiam verslui ir institucijoms – tam
 O tada, pasirodo, atsiranda labai daug valstybės aparato žmonių, turinčių laiko tavimi domėtis.
 
 Tik kažkodėl nelieka nė vieno politiko, turinčio laiko paklausti – kodėl?
+
+### Visoms pusėms buvo suteikta galimybė pasisakyti
+
+Prieš publikuodamas šį straipsnį suteikiau visoms jame minimoms pusėms progą pateikti savo poziciją. 2026 m. rugsėjo 2 d. atskirus klausimus išsiunčiau „Citus“, Vilniaus miesto savivaldybei ir Laurynui Kasčiūnui. Reakcijos į šiuos paklausimus puikiai atskleidžia, kaip kiekviena iš šių pusių elgiasi susidūrusi su nepatogiais klausimais.
+
+„Citus“ pasirinko jau kone klasikine tampančią tylą – bendrajam bendrovės adresui išsiųstas laiškas, kurio kopijas gavo Eglė Bačionytė ir Mindaugas Vanagas, liko be atsako. Kaip ir ne kartą anksčiau, vystytojas į nepatogius klausimus tiesiog neatsako.
+
+Vilniaus miesto savivaldybei pateikiau šešis konkrečius klausimus. Laiško kopijas gavo administracijos direktorius Adomas Bužinskas, Energetikos skyriaus vedėjas Dalius Krinickas ir Romualdas Pliavga. Klausiau, kodėl mano, kaip daugiabučio įgaliotinio, atžvilgiu buvo pradėti buldozeriniai administraciniai veiksmai, reikalaujant dokumentų, kuriuos faktiškai valdo profesionali administravimo įmonė. Klausiau, kodėl šis spaudimas tęsėsi net vykstant teisiniams ginčams ir kartu grasinant tūkstantinėmis baudomis. Klausiau ir apie absurdišką priedangos istoriją, kai man buvo nurodyta vykdyti reikalavimus objekte, kuris, kaip vėliau pati savivaldybė pripažino, net nėra mano valdomame name.
+
+Tačiau du klausimai dūrė tiesiai į pažeidžiamiausią tašką.
+
+Paklausiau, ar Vilniaus miesto savivaldybė, jos vadovai ar darbuotojai bendravo su „Citus“, jos atstovais ar susijusiais asmenimis dėl mano, kaip įgaliotinio, veiksmų ar konflikto su vystytoju.
+
+Taip pat paklausiau, ar savivaldybė atmeta galimybę, kad šis administracinis persekiojimas tėra atsakas į mano reikalavimus „Citus“ šalinti statybos defektus.
+
+Šį kartą savivaldybė sureagavo. Atsakymą pasirašė pats administracijos direktorius Adomas Bužinskas.
+
+Tačiau tai, kas sekė, sunkiai pavadinsi atsakymu – veikiau bandymu išsisukti. Dalis klausimų buvo pridengta formalia nuoroda, kad „vyksta teismo byla“, todėl savivaldybė esą susilaikys nuo komentarų. Tačiau į esminį klausimą apie galimą užkulisinį bendravimą su „Citus“ atsakymo „taip“ arba „ne“ nebuvo.
+
+Vietoje to A. Bužinskas šį ir dar vieną nepatogų klausimą tiesiog pavadino „nekorektiškais“.
+
+Ir čia kyla natūralus klausimas: kas čia iš tikrųjų nekorektiška – tiesus piliečio klausimas ar savivaldybės vengimas į jį atsakyti?
+
+Vienas iš epizodų, dėl kurio savivaldybė iš manęs reikalavo atlikti veiksmus ir kuris vėliau virto administracinio nusižengimo procesu, prasidėjo nuo Leonardo Sivinskio kreipimosi. Viešai prieinami duomenys rodo, kad L. Sivinskis daugiau kaip septynerius metus dirbo „Civinity“, kur ėjo statybos departamento vadovo pareigas. Tuo metu, kai 2025 m. pavasarį kilo mano konfliktas su L. Sivinskiu, „Citus“ direktoriumi jau buvo Vilius Kucinas – tas pats V. Kucinas, kuris tuo pačiu metu buvo ir AB „Civinity“ valdybos narys.
+
+Beje, L. Sivinskis Vilniaus savivaldybės ir NT aplinkoje nėra naujas veikėjas. Jo pavardė viešojoje erdvėje, kalbant apie Senamiesčio nekilnojamojo turto ginčus, figūravo dar 2016 metais.
+
+Man šios sąsajos atrodo akivaizdžios – taškai susijungia. Todėl mano klausimas apie galimą savivaldybės ir „Citus“ suartėjimą neatsirado iš niekur. Savivaldybė galėjo labai paprastai išsklaidyti abejones ir atsakyti viena fraze: bendravome arba nebendravome.
+
+Ji pasirinko kitą kelią – pavadinti klausimą „nekorektišku“.
+
+Tai patogi biurokratinė priedanga: kai neturi ką atsakyti, apkaltink to paklaususįjį etikos stoka.
+
+Savivaldybė dar bandė pridurti, kad mano patikrinimas neva buvo įtrauktas į 2026 metų planinių patikrinimų planą. Tačiau ši popierinė gynyba visiškai nepaaiškina, kodėl iš manęs buvo reikalaujama to, ko nevaldau, kodėl gąsdinta baudomis pačiame teismo įkarštyje ir kodėl man buvo kišami svetimi reikalavimai.
+
+Galiausiai atskirai dėl publikacijos kreipiausi ir į Lauryną Kasčiūną. Laiško kopija tą pačią dieną buvo išsiųsta ir TS-LKD sekretoriatui – jiems buvo pranešta apie rengiamą publikaciją ir pateikti klausimai, į kuriuos prašiau atsakyti.
+
+Iki nustatyto termino iš L. Kasčiūno nesulaukiau jokio atsakymo.
+
+Taigi prieš skaitytojo akis nusipiešia iškalbingas trejetas:
+
+* **„Citus“ – akla ir kurčia tyla.**
+* **Laurynas Kasčiūnas – visiškas abejingumas ir tyla.**
+* **Vilniaus miesto savivaldybė – biurokratinis išsisukinėjimas, kai tiesūs klausimai apie galimą bendravimą su vystytoju paliekami be aiškaus atsakymo, o pats klausimas pavadinamas „nekorektišku“.**
+
+Skaitytojui palieku spręsti, ką reiškia ši institucinė tyla ir „nekorektiškais“ vadinami bandymai ginti stambųjį vystytoją.
 
 ## Susiję tekstai
 
