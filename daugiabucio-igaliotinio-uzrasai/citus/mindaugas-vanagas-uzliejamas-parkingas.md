@@ -20,11 +20,16 @@ keywords:
   - vandens skverbimasis į parkingą
   - statybos defektai
 about:
-  - Evaldas Jablonskas
-  - Citus
-  - Mindaugas Vanagas
-  - požeminio parkingo defektai
-  - vandens skverbimasis
+  - name: Evaldas Jablonskas
+    type: Person
+  - name: Citus
+    type: Organization
+  - name: Mindaugas Vanagas
+    type: Person
+  - name: požeminio parkingo defektai
+    type: Thing
+  - name: vandens skverbimasis
+    type: Thing
 breadcrumbs:
   - name: "Evaldas Jablonskas"
     url: "/"

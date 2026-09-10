@@ -23,11 +23,44 @@ keywords:
   - bendruomenės gynimas
   - baudžiamasis procesas
 about:
-  - Evaldas Jablonskas
-  - Prokuratūra
-  - daugiabučio bendruomenės gynimas
-  - baudžiamasis procesas
-  - vieši klausimai prokuratūrai
+  - name: Evaldas Jablonskas
+    type: Person
+  - name: Prokuratūra
+    type: GovernmentOrganization
+  - name: daugiabučio bendruomenės gynimas
+    type: Thing
+  - name: baudžiamasis procesas
+    type: Thing
+  - name: vieši klausimai prokuratūrai
+    type: Thing
+  - name: Nida Grunskienė
+    type: Person
+  - name: Šarūnas Šimonis
+    type: Person
+  - name: Julius Gelumbauskas
+    type: Person
+  - name: Ugnė Rinkevičienė
+    type: Person
+  - name: Erika Leonaitė
+    type: Person
+  - name: Valdas Benkunskas
+    type: Person
+  - name: Adomas Bužinskas
+    type: Person
+  - name: Dalius Krinickas
+    type: Person
+  - name: Generalinė prokuratūra
+    type: GovernmentOrganization
+  - name: Seimo kontrolierių įstaiga
+    type: GovernmentOrganization
+  - name: Vilniaus miesto savivaldybė
+    type: GovernmentOrganization
+  - name: Citus
+    type: Organization
+  - name: Lietuvos nekilnojamojo turto plėtros asociacija
+    type: Organization
+  - name: Lietuvos pardavimų asociacija
+    type: Organization
 ---
 
 <style>

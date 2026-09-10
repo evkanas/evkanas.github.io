@@ -19,12 +19,18 @@ keywords:
   - pilietinio aktyvumo kaina
   - daugiabučio įgaliotinis
 about:
-  - Evaldas Jablonskas
-  - Valdas Benkunskas
-  - Adomas Bužinskas
-  - Vilniaus savivaldybė
-  - pilietinis aktyvumas
-  - daugiabučio įgaliotinis
+  - name: Evaldas Jablonskas
+    type: Person
+  - name: Valdas Benkunskas
+    type: Person
+  - name: Adomas Bužinskas
+    type: Person
+  - name: Vilniaus savivaldybė
+    type: GovernmentOrganization
+  - name: pilietinis aktyvumas
+    type: Thing
+  - name: daugiabučio įgaliotinis
+    type: Thing
 breadcrumbs:
   - name: "Evaldas Jablonskas"
     url: "/"

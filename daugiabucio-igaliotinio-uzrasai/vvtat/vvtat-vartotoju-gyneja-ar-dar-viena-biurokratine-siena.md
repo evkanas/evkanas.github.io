@@ -22,11 +22,24 @@ keywords:
   - Goda Aleksaitė
   - Aida Gasiūnaitė-Stavginskienė
 about:
-  - VVTAT
-  - daugiabučio įgaliotinis
-  - vartotojų ginčas
-  - administratoriaus mokesčiai
-  - asmens duomenų rinkimas
+  - name: VVTAT
+    type: GovernmentOrganization
+  - name: daugiabučio įgaliotinis
+    type: Thing
+  - name: vartotojų ginčas
+    type: Thing
+  - name: administratoriaus mokesčiai
+    type: Thing
+  - name: asmens duomenų rinkimas
+    type: Thing
+  - name: Evaldas Jablonskas
+    type: Person
+  - name: Goda Aleksaitė
+    type: Person
+  - name: Aida Gasiūnaitė-Stavginskienė
+    type: Person
+  - name: UAB „Domus tersus“
+    type: Organization
 breadcrumbs:
   - name: "Evaldas Jablonskas"
     url: "/"

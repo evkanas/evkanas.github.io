@@ -26,12 +26,18 @@ keywords:
   - preliminarioji sutartis
   - NT vystytojas
 about:
-  - Evaldas Jablonskas
-  - Citus
-  - Citus atsiliepimai
-  - pirkėjų patirtis
-  - garantiniai defektai
-  - preliminariųjų sutarčių rizikos
+  - name: Evaldas Jablonskas
+    type: Person
+  - name: Citus
+    type: Organization
+  - name: Citus atsiliepimai
+    type: Thing
+  - name: pirkėjų patirtis
+    type: Thing
+  - name: garantiniai defektai
+    type: Thing
+  - name: preliminariųjų sutarčių rizikos
+    type: Thing
 breadcrumbs:
   - name: "Evaldas Jablonskas"
     url: "/"
