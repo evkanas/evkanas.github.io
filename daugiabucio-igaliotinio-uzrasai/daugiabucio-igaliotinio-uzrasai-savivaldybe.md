@@ -5,6 +5,17 @@ description: "Evaldo Jablonsko straipsnis apie daugiabučio įgaliotinio vaidmen
 date: 2026-07-01
 permalink: /daugiabucio-igaliotinio-uzrasai/savivaldybe/
 image: /daugiabucio-igaliotinio-uzrasai/evaldas-jablonskas-daugiabucio-igaliotinio-uzrasai.webp
+about:
+  - name: Evaldas Jablonskas
+    type: Person
+  - name: Vilniaus miesto savivaldybė
+    type: GovernmentOrganization
+  - name: daugiabučio įgaliotinis
+    type: Thing
+  - name: daugiabučio administravimas
+    type: Thing
+  - name: gyventojų savivalda
+    type: Thing
 breadcrumbs:
   - name: "Evaldas Jablonskas"
     url: "/"

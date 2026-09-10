@@ -23,11 +23,28 @@ keywords:
   - daugiabučio įgaliotinis
   - pilietinis aktyvumas
 about:
-  - Evaldas Jablonskas
-  - Laurynas Kasčiūnas
-  - Vilniaus savivaldybė
-  - daugiabučio įgaliotinis
-  - pilietinis aktyvumas
+  - name: Evaldas Jablonskas
+    type: Person
+  - name: Laurynas Kasčiūnas
+    type: Person
+  - name: Vilniaus savivaldybė
+    type: GovernmentOrganization
+  - name: daugiabučio įgaliotinis
+    type: Thing
+  - name: pilietinis aktyvumas
+    type: Thing
+  - name: Valdas Benkunskas
+    type: Person
+  - name: Adomas Bužinskas
+    type: Person
+  - name: Dalius Krinickas
+    type: Person
+  - name: Romualdas Pliavga
+    type: Person
+  - name: Citus
+    type: Organization
+  - name: TS-LKD
+    type: Organization
 breadcrumbs:
   - name: "Evaldas Jablonskas"
     url: "/"
@@ -391,6 +408,8 @@ Skaitytojui palieku spręsti, ką reiškia ši institucinė tyla ir „nekorekti
 [Kai savivaldybė daugiabučio įgaliotinį prilygina administratoriui](/daugiabucio-igaliotinio-uzrasai/savivaldybe/) – apie tai, kaip Vilniaus savivaldybė daugiabučio įgaliotinį vertina kaip administratorių ar pastato valdytoją.
 
 [UAB „Prokuratūra“: kai bendruomenės gynimas prilyginamas nusikaltimui](/daugiabucio-igaliotinio-uzrasai/prokuratura/uab-prokuratura-bendruomenes-gynimas/) – apie situaciją, kai daugiabučio bendruomenės interesų gynimas, statybų broko viešinimas ir kreipimaisi į verslo asociacijas virto baudžiamuoju įtarimu.
+
+[Ar verta pirkti butą iš „Citus“? Viešas klausimas Mindaugui Vanagui dėl užliejamo požeminio parkingo](/daugiabucio-igaliotinio-uzrasai/citus/mindaugas-vanagas-uzliejamas-parkingas/) – apie nuo 2023 metų fiksuojamą vandens skverbimąsi į parkingą, bandymus pašalinti defektus ir kreipimąsi į „Citus“ įkūrėją Mindaugą Vanagą.
 
 <div class="prokuratura-share">
   <strong>Pasidalinti straipsniu</strong>

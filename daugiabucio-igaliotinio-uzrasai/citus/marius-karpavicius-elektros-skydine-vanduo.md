@@ -24,11 +24,16 @@ keywords:
   - statinio apžiūros aktas
   - daugiabučio įgaliotinis
 about:
-  - Evaldas Jablonskas
-  - Citus
-  - Marius Karpavičius
-  - vandens patekimas į elektros skydinę
-  - garantinio skyriaus veiksmai
+  - name: Evaldas Jablonskas
+    type: Person
+  - name: Citus
+    type: Organization
+  - name: Marius Karpavičius
+    type: Person
+  - name: vandens patekimas į elektros skydinę
+    type: Thing
+  - name: garantinio skyriaus veiksmai
+    type: Thing
 breadcrumbs:
   - name: "Evaldas Jablonskas"
     url: "/"
