@@ -48,6 +48,30 @@
   {% endif %}
   {% endif %}
 
+  {% if page.url == '/' %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "@id": "{{ site.url }}/#person",
+    "name": "Evaldas Jablonskas",
+    "url": "{{ site.url }}/",
+    "jobTitle": "Microsoft Dynamics 365 Business Central / NAV Developer",
+    "description": "Evaldas Jablonskas – Microsoft Dynamics 365 Business Central / NAV programuotojas ir daugiabučio įgaliotinis Vilniuje.",
+    "sameAs": [
+      "https://github.com/evkanas",
+      "https://www.linkedin.com/in/evaldas-jablonskas-5b45a794/",
+      "https://www.facebook.com/profile.php?id=61591523192102",
+      "https://www.instagram.com/igaliotinio.uzrasai/",
+      "https://www.youtube.com/@DaugiabucioIgaliotinioUzrasai",
+      "https://x.com/igaliotinis_lt",
+      "https://www.tiktok.com/@igaliotiniouzrasai"
+    ]
+  }
+  </script>
+  {% endif %}
+
+  
   {% if page_type == 'article' or page.about %}
   <script type="application/ld+json">
   {
@@ -70,11 +94,13 @@
     "dateModified": "{{ page.date_modified | default: page.date | date_to_xmlschema }}",
     "author": {
       "@type": "Person",
+       "@id": "{{ site.url }}/#person",
       "name": "{{ page.author | default: 'Evaldas Jablonskas' | escape }}",
       "url": "{{ site.url }}/"
     },
     "publisher": {
       "@type": "Person",
+      "@id": "{{ site.url }}/#person",
       "name": "Evaldas Jablonskas",
       "url": "{{ site.url }}/"
     }{% if page.about %},

@@ -29,8 +29,13 @@ Microsoft Dynamics 365 Business Central / NAV Developer with over 10 years of ER
 
 ## Profiles
 
-- [Evaldas Jablonskas on GitHub](https://github.com/evkanas)
-- [Evaldas Jablonskas on LinkedIn](https://www.linkedin.com/in/evaldas-jablonskas-5b45a794/)
+- <a href="https://github.com/evkanas" target="_blank" rel="noopener noreferrer">Evaldas Jablonskas on GitHub</a>
+- <a href="https://www.linkedin.com/in/evaldas-jablonskas-5b45a794/" target="_blank" rel="noopener noreferrer">Evaldas Jablonskas on LinkedIn</a>
+- <a href="https://www.facebook.com/profile.php?id=61591523192102" target="_blank" rel="noopener noreferrer">Daugiabučio įgaliotinio užrašai on Facebook</a>
+- <a href="https://www.instagram.com/igaliotinio.uzrasai/" target="_blank" rel="noopener noreferrer">Daugiabučio įgaliotinio užrašai on Instagram</a>
+- <a href="https://www.youtube.com/@DaugiabucioIgaliotinioUzrasai" target="_blank" rel="noopener noreferrer">Daugiabučio įgaliotinio užrašai on YouTube</a>
+- <a href="https://x.com/igaliotinis_lt" target="_blank" rel="noopener noreferrer">Daugiabučio įgaliotinio užrašai on X</a>
+- <a href="https://www.tiktok.com/@igaliotiniouzrasai" target="_blank" rel="noopener noreferrer">Daugiabučio įgaliotinio užrašai on TikTok</a>
 
 ## Technical Articles
 
