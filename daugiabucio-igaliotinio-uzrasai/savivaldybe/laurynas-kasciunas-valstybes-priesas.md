@@ -50,6 +50,8 @@ breadcrumbs:
     url: "/"
   - name: "Daugiabučio įgaliotinio užrašai"
     url: "/daugiabucio-igaliotinio-uzrasai/"
+  - name: "Savivaldybė"
+    url: "https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/savivaldybe/"
   - name: "Aš – valstybės priešas"
     url: "/daugiabucio-igaliotinio-uzrasai/savivaldybe/laurynas-kasciunas-valstybes-priesas/"
 ---
@@ -139,7 +141,7 @@ body { background: #f5f1ea !important; margin: 0 !important; overflow-x: hidden 
 <main class="prokuratura-page" markdown="1">
 <article class="prokuratura-article" markdown="1">
 
-<p class="prokuratura-kicker">Daugiabučio įgaliotinio užrašai / Savivaldybė</p>
+<nav class="prokuratura-kicker" aria-label="Puslapio kelias"><a href="/">Evaldas Jablonskas</a> / <a href="/daugiabucio-igaliotinio-uzrasai/">Daugiabučio įgaliotinio užrašai</a> / <a href="/daugiabucio-igaliotinio-uzrasai/savivaldybe/">Savivaldybė</a> / <span aria-current="page">Aš – „valstybės priešas“ Lauryno Kasčiūno akivaizdoje</span></nav>
 
 # Evaldas Jablonskas: Aš – „valstybės priešas“ Lauryno Kasčiūno akivaizdoje
 
@@ -401,7 +403,9 @@ Taigi prieš skaitytojo akis nusipiešia iškalbingas trejetas:
 
 Skaitytojui palieku spręsti, ką reiškia ši institucinė tyla ir „nekorektiškais“ vadinami bandymai ginti stambųjį vystytoją.
 
-## Susiję tekstai
+## Susiję straipsniai
+
+[Seimo kontrolierė Erika Leonaitė pati sugalvojo mano prašymą – ir pati į jį atsakė](/daugiabucio-igaliotinio-uzrasai/seimo-kontrolieriai/erika-leonaite-atsakymas/) – apie keturis Seimo kontrolierei pateiktus klausimus ir vėliau gautą oficialų atsakymą.
 
 [Pilietinio aktyvumo kaina Vilniuje: kaip Valdas Benkunskas ir Adomas Bužinskas naikina nepatogius įgaliotinius](/daugiabucio-igaliotinio-uzrasai/savivaldybe/pilietinio-aktyvumo-kaina-vilniuje/) – apie Vilniaus savivaldybės požiūrį į aktyvų daugiabučio įgaliotinį, pilietinį aktyvumą ir administracinio spaudimo riziką.
 
@@ -431,7 +435,6 @@ Skaitytojui palieku spręsti, ką reiškia ši institucinė tyla ir „nekorekti
 
 </article>
 </main>
-
 
 
 

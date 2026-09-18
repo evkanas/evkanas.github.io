@@ -39,6 +39,8 @@ breadcrumbs:
     url: "/"
   - name: "Daugiabučio įgaliotinio užrašai"
     url: "/daugiabucio-igaliotinio-uzrasai/"
+  - name: "Citus"
+    url: "https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/citus/"
   - name: "Viešas klausimas „Citus“ garantinio skyriaus vadovui Mariui Karpavičiui"
     url: "/daugiabucio-igaliotinio-uzrasai/citus/marius-karpavicius-elektros-skydine-vanduo/"
 ---
@@ -118,7 +120,7 @@ body { background: #f5f1ea !important; margin: 0 !important; overflow-x: hidden 
 <main class="citus-page" markdown="1">
 <article class="citus-article" markdown="1">
 
-<p class="citus-kicker">Daugiabučio įgaliotinio užrašai / Citus</p>
+<nav class="citus-kicker" aria-label="Puslapio kelias"><a href="/">Evaldas Jablonskas</a> / <a href="/daugiabucio-igaliotinio-uzrasai/">Daugiabučio įgaliotinio užrašai</a> / <a href="/daugiabucio-igaliotinio-uzrasai/citus/">Citus</a> / <span aria-current="page">Į elektros skydinę – su skėčiu?</span></nav>
 
 # Į elektros skydinę – su skėčiu? Viešas klausimas „Citus“ garantinio skyriaus vadovui Mariui Karpavičiui
 
@@ -206,7 +208,7 @@ Tik viešumas, dokumentai ir bendras gyventojų spaudimas gali priversti didžiu
 
 Ši publikacija yra Evaldo Jablonsko viešai pateikiamas klausimas ir dokumentais grindžiamas situacijos vertinimas. Ji bus papildyta, jeigu „Citus“ arba Marius Karpavičius pateiks atsakymą.
 
-## Susiję tekstai
+## Susiję straipsniai
 
 [„Citus“ atsiliepimai ir pirkėjų patirtis: ko tikėtis susidūrus su šiuo NT vystytoju?](/daugiabucio-igaliotinio-uzrasai/citus/citus-atsiliepimai/) – apie viešuose atsiliepimuose, žiniasklaidoje ir dokumentuotoje patirtyje pasikartojančias „Citus“ pirkėjų bei gyventojų problemas.
 

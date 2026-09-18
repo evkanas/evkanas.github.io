@@ -155,6 +155,15 @@ Man svarbu parodyti, kad daugiabučio įgaliotinis nėra administratorius, pasta
 
 <div class="igaliotinis-article-list">
 
+<h3><a href="/daugiabucio-igaliotinio-uzrasai/seimo-kontrolieriai/erika-leonaite-atsakymas/">Seimo kontrolierė Erika Leonaitė pati sugalvojo mano prašymą – ir pati į jį atsakė</a></h3>
+
+<p>Seimo kontrolierei Erikai Leonaitei pateikiau keturis konkrečius klausimus. Oficialiame atsakyme mano prašymo turinys buvo pakeistas, o į pačius klausimus neatsakyta.</p>
+
+</div>
+
+
+<div class="igaliotinis-article-list">
+
 <h3><a href="/daugiabucio-igaliotinio-uzrasai/savivaldybe/laurynas-kasciunas-valstybes-priesas/">Aš – „valstybės priešas“ L. Kasčiūno akivaizdoje</a></h3>
 
 <p>Evaldas Jablonskas rašo apie konservatorių valdomos Vilniaus savivaldybės reikalavimus, Citus garantinių defektų istoriją, administracinio spaudimo pojūtį ir klausimą, kodėl TS-LKD pirmininkas Laurynas Kasčiūnas į tai nereaguoja.</p>

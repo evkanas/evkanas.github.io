@@ -168,7 +168,11 @@ Dabartinis institucijos mąstymas veda prie iškreiptos atsakomybės schemos, ku
 
 ---
 
-## Susiję tekstai
+## Susiję straipsniai
+
+[Aš – „valstybės priešas“ Lauryno Kasčiūno akivaizdoje](/daugiabucio-igaliotinio-uzrasai/savivaldybe/laurynas-kasciunas-valstybes-priesas/) – apie Lauryno Kasčiūno tylą, Vilniaus savivaldybės administracinį spaudimą ir „Citus“ garantinių defektų istoriją.
+
+[Seimo kontrolierė Erika Leonaitė pati sugalvojo mano prašymą – ir pati į jį atsakė](/daugiabucio-igaliotinio-uzrasai/seimo-kontrolieriai/erika-leonaite-atsakymas/) – apie keturis Seimo kontrolierei pateiktus klausimus ir vėliau gautą oficialų atsakymą.
 
 [Ar verta pirkti butą iš „Citus“? Viešas klausimas Mindaugui Vanagui dėl užliejamo požeminio parkingo](/daugiabucio-igaliotinio-uzrasai/citus/mindaugas-vanagas-uzliejamas-parkingas/) – apie nuo 2023 metų fiksuojamą vandens patekimą į „Citus“ projekto požeminį parkingą.
 

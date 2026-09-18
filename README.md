@@ -53,6 +53,8 @@ Evaldas Jablonskas asmeninės patirties pagrindu rašo apie daugiabučio įgalio
 
 * [Evaldas Jablonskas – Daugiabučio įgaliotinio užrašai](/daugiabucio-igaliotinio-uzrasai/)  
   Straipsnių ciklas apie daugiabučio įgaliotinio patirtį, administravimo ribas, statytojų defektus ir institucijų atsakomybę.
+* [Seimo kontrolierė Erika Leonaitė pati sugalvojo mano prašymą – ir pati į jį atsakė](/daugiabucio-igaliotinio-uzrasai/seimo-kontrolieriai/erika-leonaite-atsakymas/)  
+  Seimo kontrolierei Erikai Leonaitei pateikiau keturis konkrečius klausimus. Oficialiame atsakyme mano prašymo turinys buvo pakeistas, o į pačius klausimus neatsakyta.
 * [Evaldas Jablonskas: Aš – „valstybės priešas“ Lauryno Kasčiūno akivaizdoje](/daugiabucio-igaliotinio-uzrasai/savivaldybe/laurynas-kasciunas-valstybes-priesas/)  
   Evaldo Jablonsko straipsnis apie Lauryno Kasčiūno tylą, Vilniaus savivaldybės administracinį spaudimą ir „Citus“ garantinių defektų istoriją.
 * [UAB „Prokuratūra“: kai bendruomenės gynimas prilyginamas nusikaltimui](/daugiabucio-igaliotinio-uzrasai/prokuratura/uab-prokuratura-bendruomenes-gynimas/)  
