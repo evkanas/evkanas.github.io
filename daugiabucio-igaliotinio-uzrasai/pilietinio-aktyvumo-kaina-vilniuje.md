@@ -36,6 +36,8 @@ breadcrumbs:
     url: "/"
   - name: "Daugiabučio įgaliotinio užrašai"
     url: "/daugiabucio-igaliotinio-uzrasai/"
+  - name: "Savivaldybė"
+    url: "https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/savivaldybe/"
   - name: "Pilietinio aktyvumo kaina Vilniuje"
     url: "/daugiabucio-igaliotinio-uzrasai/savivaldybe/pilietinio-aktyvumo-kaina-vilniuje/"
 ---
@@ -232,7 +234,7 @@ body {
 <main class="savivaldybe-page" markdown="1">
 <article class="savivaldybe-article" markdown="1">
 
-<p class="savivaldybe-kicker">Daugiabučio įgaliotinio užrašai / Savivaldybė</p>
+<nav class="savivaldybe-kicker" aria-label="Puslapio kelias"><a href="/">Evaldas Jablonskas</a> / <a href="/daugiabucio-igaliotinio-uzrasai/">Daugiabučio įgaliotinio užrašai</a> / <a href="/daugiabucio-igaliotinio-uzrasai/savivaldybe/">Savivaldybė</a> / <span aria-current="page">Pilietinio aktyvumo kaina Vilniuje</span></nav>
 
 # Pilietinio aktyvumo kaina Vilniuje: kaip Valdas Benkunskas ir Adomas Bužinskas naikina nepatogius įgaliotinius
 
@@ -316,7 +318,9 @@ Mano patirtis rodo, kad šiandien Vilniuje už tokį aktyvumą Valdas Benkunska
 
 Tai yra mano vieša pilietinė pozicija, paremta patirtimi, raštais ir savivaldybės veiksmų seka; jeigu mano išvados netikslios, Valdas Benkunskas, Adomas Bužinskas ir Vilniaus miesto savivaldybė gali tai paneigti paprastai – viešai, raštu ir argumentais.
 
-## Susiję tekstai
+## Susiję straipsniai
+
+[Seimo kontrolierė Erika Leonaitė pati sugalvojo mano prašymą – ir pati į jį atsakė](/daugiabucio-igaliotinio-uzrasai/seimo-kontrolieriai/erika-leonaite-atsakymas/) – apie keturis Seimo kontrolierei pateiktus klausimus ir vėliau gautą oficialų atsakymą.
 
 [Ar verta pirkti butą iš „Citus“? Viešas klausimas Mindaugui Vanagui dėl užliejamo požeminio parkingo](/daugiabucio-igaliotinio-uzrasai/citus/mindaugas-vanagas-uzliejamas-parkingas/) – apie nuo 2023 metų fiksuojamą vandens patekimą į „Citus“ projekto požeminį parkingą.
 

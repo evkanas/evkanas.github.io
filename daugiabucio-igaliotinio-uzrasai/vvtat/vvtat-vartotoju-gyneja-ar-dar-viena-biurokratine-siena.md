@@ -225,7 +225,11 @@ VVTAT taip pat pati pripažino, kad reikalaudama kitų savininkų sąskaitų, mo
 
 **Pavėluotas VVTAT atsakymas straipsnyje iškeltų problemų nepaneigė. Priešingai – jis parodė, kad į dalį konkrečių ir nepatogių klausimų Tarnyba taip ir neatsakė, o savo pačios reikalavimų teisėtumo bei realios galimybės juos įvykdyti iš esmės nevertino.**
 
-## Susiję tekstai
+## Susiję straipsniai
+
+[Aš – „valstybės priešas“ Lauryno Kasčiūno akivaizdoje](/daugiabucio-igaliotinio-uzrasai/savivaldybe/laurynas-kasciunas-valstybes-priesas/) – apie Lauryno Kasčiūno tylą, Vilniaus savivaldybės administracinį spaudimą ir „Citus“ garantinių defektų istoriją.
+
+[Seimo kontrolierė Erika Leonaitė pati sugalvojo mano prašymą – ir pati į jį atsakė](/daugiabucio-igaliotinio-uzrasai/seimo-kontrolieriai/erika-leonaite-atsakymas/) – apie keturis Seimo kontrolierei pateiktus klausimus ir vėliau gautą oficialų atsakymą.
 
 [Pilietinio aktyvumo kaina Vilniuje](/daugiabucio-igaliotinio-uzrasai/savivaldybe/pilietinio-aktyvumo-kaina-vilniuje/) – tekstas apie aktyvaus daugiabučio įgaliotinio patirtį susiduriant su instituciniu spaudimu ir administracinio aparato logika.
 

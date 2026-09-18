@@ -45,6 +45,8 @@ breadcrumbs:
     url: "/daugiabucio-igaliotinio-uzrasai/"
   - name: "Citus atsiliepimai"
     url: "/daugiabucio-igaliotinio-uzrasai/citus/citus-atsiliepimai/"
+  - name: "Citus"
+    url: "https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/citus/"
 ---
 
 <style>
@@ -124,7 +126,7 @@ body { background: #f5f1ea !important; margin: 0 !important; overflow-x: hidden 
 <main class="citus-page" markdown="1">
 <article class="citus-article" markdown="1">
 
-<p class="citus-kicker">Daugiabučio įgaliotinio užrašai / Citus</p>
+<nav class="citus-kicker" aria-label="Puslapio kelias"><a href="/">Evaldas Jablonskas</a> / <a href="/daugiabucio-igaliotinio-uzrasai/">Daugiabučio įgaliotinio užrašai</a> / <a href="/daugiabucio-igaliotinio-uzrasai/citus/">Citus</a> / <span aria-current="page">Citus atsiliepimai</span></nav>
 
 # „Citus“ atsiliepimai ir pirkėjų patirtis: ko tikėtis susidūrus su šiuo NT vystytoju?
 
@@ -229,7 +231,7 @@ Vieši atsiliepimai ir dokumentuoti atvejai siunčia aiškų signalą: perkant b
 - <a href="https://www.imones.lt/citus-construction-uab/atsiliepimai-skundai" target="_blank" rel="noopener">„Imones.lt“ – „Citus Construction“ atsiliepimai ir skundai</a>
 - <a href="https://www.reddit.com/r/lithuania/comments/1mzygsa/gal_kas_susiduret_su_citus_vystytojais/" target="_blank" rel="noopener">„Reddit“ diskusija apie „Citus“ kokybę ir aptarnavimą</a>
 
-## Susiję tekstai
+## Susiję straipsniai
 
 [Į elektros skydinę – su skėčiu? Viešas klausimas „Citus“ garantinio skyriaus vadovui Mariui Karpavičiui](/daugiabucio-igaliotinio-uzrasai/citus/marius-karpavicius-elektros-skydine-vanduo/) – apie oficialiame statinio apžiūros akte užfiksuotą vandens patekimą į požeminio parkingo elektros skydinės zoną ir „Citus“ garantinio skyriaus reikalaujamus papildomus „objektyvius“ įrodymus.
 

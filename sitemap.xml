@@ -3,7 +3,7 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://evaldasjablonskas.lt/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-09-18</lastmod>
     <image:image>
       <image:loc>https://evaldasjablonskas.lt/evaldas-jablonskas-business-central-portfolio.png</image:loc>
     </image:image>
@@ -51,7 +51,7 @@
   </url>
   <url>
     <loc>https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/</loc>
-    <lastmod>2026-08-07</lastmod>
+    <lastmod>2026-09-18</lastmod>
     <image:image>
       <image:loc>https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/evaldas-jablonskas-daugiabucio-igaliotinio-uzrasai.webp</image:loc>
       <image:title>Evaldas Jablonskas - Daugiabučio įgaliotinio užrašai</image:title>
@@ -126,7 +126,7 @@
   </url>
   <url>
     <loc>https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/prokuratura/uab-prokuratura-bendruomenes-gynimas/</loc>
-    <lastmod>2026-08-24</lastmod>
+    <lastmod>2026-09-18</lastmod>
     <image:image>
       <image:loc>https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/prokuratura/evaldas-jablonskas-uab-prokuratura-nida-grunskiene-sarunas-simonis-julius-gelumbauskas-ugne-rinkeviciene.webp</image:loc>
       <image:title>Evaldas Jablonskas apie prokuratūrą ir daugiabučio bendruomenės gynimą</image:title>
@@ -155,5 +155,25 @@
       <image:title>Romualdas Pliavga ir Vilniaus miesto savivaldybės reikalavimai daugiabučio įgaliotiniui</image:title>
       <image:caption>Romualdas Pliavga, Vilniaus miesto savivaldybės pareigūnas, pasirašęs Evaldo Jablonsko atžvilgiu siųstus reikalavimus.</image:caption>
     </image:image>
+  </url>
+  <url>
+    <loc>https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/seimo-kontrolieriai/erika-leonaite-atsakymas/</loc>
+    <lastmod>2026-09-18</lastmod>
+    <image:image>
+      <image:loc>https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/seimo-kontrolieriai/erika_leonaite_pati_suformulavo_pati_atsake.webp</image:loc>
+      <image:title>Seimo kontrolierė Erika Leonaitė pati sugalvojo mano prašymą – ir pati į jį atsakė</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/citus/</loc>
+    <lastmod>2026-09-18</lastmod>
+  </url>
+  <url>
+    <loc>https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/prokuratura/</loc>
+    <lastmod>2026-09-18</lastmod>
+  </url>
+  <url>
+    <loc>https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/seimo-kontrolieriai/</loc>
+    <lastmod>2026-09-18</lastmod>
   </url>
 </urlset>

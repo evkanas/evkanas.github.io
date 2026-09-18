@@ -35,6 +35,8 @@ breadcrumbs:
     url: "/"
   - name: "Daugiabučio įgaliotinio užrašai"
     url: "/daugiabucio-igaliotinio-uzrasai/"
+  - name: "Citus"
+    url: "https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/citus/"
   - name: "Viešas klausimas „Citus“ įkūrėjui Mindaugui Vanagui"
     url: "/daugiabucio-igaliotinio-uzrasai/citus/mindaugas-vanagas-uzliejamas-parkingas/"
 ---
@@ -235,7 +237,7 @@ body {
 <main class="savivaldybe-page" markdown="1">
 <article class="savivaldybe-article" markdown="1">
 
-<p class="savivaldybe-kicker">Daugiabučio įgaliotinio užrašai / Citus</p>
+<nav class="savivaldybe-kicker" aria-label="Puslapio kelias"><a href="/">Evaldas Jablonskas</a> / <a href="/daugiabucio-igaliotinio-uzrasai/">Daugiabučio įgaliotinio užrašai</a> / <a href="/daugiabucio-igaliotinio-uzrasai/citus/">Citus</a> / <span aria-current="page">Viešas klausimas „Citus“ įkūrėjui Mindaugui Vanagui</span></nav>
 
 # Ar verta pirkti butą iš „Citus“? Viešas klausimas Mindaugui Vanagui dėl užliejamo požeminio parkingo
 
@@ -327,7 +329,7 @@ Apie kitus mūsų projekte nustatytus defektus, jų šalinimą ir bendravimą su
 
 Šiame tekste pateikiama mano ir kitų gyventojų patirtis bei dokumentais ir vaizdo medžiaga pagrindžiami faktai, kuriuos galima pagrįsti susirašinėjimu ir vaizdo medžiaga. Publikacijoje pateikiami klausimai nėra išankstinė išvada dėl „Citus“ ar Mindaugo Vanago atsakomybės. Gautas „Vanagas Group“ teisininkės atsakymas apibendrintas šiame tekste; jeigu bus gauta papildoma pozicija ar konkretus defekto šalinimo planas, tekstas bus atnaujintas.
 
-## Susiję tekstai
+## Susiję straipsniai
 
 [„Citus“ atsiliepimai ir pirkėjų patirtis: ko tikėtis susidūrus su šiuo NT vystytoju?](/daugiabucio-igaliotinio-uzrasai/citus/citus-atsiliepimai/) – apie viešuose atsiliepimuose, žiniasklaidoje ir dokumentuotoje patirtyje pasikartojančias „Citus“ pirkėjų bei gyventojų problemas.
 

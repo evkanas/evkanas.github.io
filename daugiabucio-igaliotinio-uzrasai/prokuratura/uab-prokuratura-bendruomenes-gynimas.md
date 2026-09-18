@@ -4,7 +4,7 @@ title: "Evaldas Jablonskas: UAB „Prokuratūra“ – kai bendruomenės gynimas
 headline: "UAB „Prokuratūra“: kai bendruomenės gynimas prilyginamas nusikaltimui"
 description: "Evaldas Jablonskas kelia viešus klausimus prokuratūrai dėl situacijos, kai daugiabučio bendruomenės interesų gynimas, kreipimasis į verslo asociacijas ir statybų broko viešinimas virto baudžiamuoju įtarimu."
 date: 2026-08-24
-date_modified: 2026-08-24
+date_modified: 2026-09-18
 permalink: /daugiabucio-igaliotinio-uzrasai/prokuratura/uab-prokuratura-bendruomenes-gynimas/
 image: /daugiabucio-igaliotinio-uzrasai/prokuratura/evaldas-jablonskas-uab-prokuratura-nida-grunskiene-sarunas-simonis-julius-gelumbauskas-ugne-rinkeviciene.webp
 image_alt: "Evaldas Jablonskas apie prokuratūrą: vieši klausimai Nidai Grunskienei, Šarūnui Šimoniui, Juliui Gelumbauskui ir Ugnei Rinkevičienei dėl daugiabučio bendruomenės gynimo"
@@ -61,6 +61,15 @@ about:
     type: Organization
   - name: Lietuvos pardavimų asociacija
     type: Organization
+breadcrumbs:
+  - name: "Evaldas Jablonskas"
+    url: "https://evaldasjablonskas.lt/"
+  - name: "Daugiabučio įgaliotinio užrašai"
+    url: "https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/"
+  - name: "Prokuratūra"
+    url: "https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/prokuratura/"
+  - name: "UAB „Prokuratūra“: kai bendruomenės gynimas prilyginamas nusikaltimui"
+    url: "https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/prokuratura/uab-prokuratura-bendruomenes-gynimas/"
 ---
 
 <style>
@@ -140,7 +149,7 @@ body { background: #f5f1ea !important; margin: 0 !important; overflow-x: hidden 
 <main class="prokuratura-page" markdown="1">
 <article class="prokuratura-article" markdown="1">
 
-<p class="prokuratura-kicker">Daugiabučio įgaliotinio užrašai / Prokuratūra</p>
+<nav class="prokuratura-kicker" aria-label="Puslapio kelias"><a href="/">Evaldas Jablonskas</a> / <a href="/daugiabucio-igaliotinio-uzrasai/">Daugiabučio įgaliotinio užrašai</a> / <a href="/daugiabucio-igaliotinio-uzrasai/prokuratura/">Prokuratūra</a> / <span aria-current="page">UAB „Prokuratūra“: kai bendruomenės gynimas prilyginamas nusikaltimui</span></nav>
 
 # UAB „Prokuratūra“: kai bendruomenės gynimas prilyginamas nusikaltimui
 
@@ -216,6 +225,8 @@ Tačiau Seimo kontrolierė Erika Leonaitė atsisakė skundą nagrinėti. Paaišk
 
 <p class="prokuratura-caption">Dirbtiniu intelektu sukurta simbolinė redakcinė iliustracija apie Seimo kontrolierę Eriką Leonaitę, prokuratūros veiklos kontrolės ribas ir klausimą, kaip atsakymas gali būti laikomas išsamiu, jei pati prokuratūros veiksmų esmė nebuvo vertinta. Iliustracija nėra dokumentinė konkretaus įvykio nuotrauka.</p>
 
+[Plačiau apie vėliau gautą Erikos Leonaitės atsakymą ir keturis neatsakytus klausimus.](/daugiabucio-igaliotinio-uzrasai/seimo-kontrolieriai/erika-leonaite-atsakymas/)
+
 ## Nuo savivaldybės iki prokuratūros: tas pats absurdiškas modelis
 
 Šį mechanizmą jau aprašiau straipsnyje „Pilietinio aktyvumo kaina Vilniuje: kaip Valdas Benkunskas ir Adomas Bužinskas naikina nepatogius įgaliotinius“ – kaip Vilniaus miesto savivaldybė, man einant daugiabučio įgaliotinio pareigas, užvertė absurdiškais reikalavimais ir pradėjo grasinti tūkstantinėmis baudomis. Prie grasinimų baudomis vairo stojo dar vienas konservatorius – Dalius Krinickas. Rinkėjai mandato į Seimą jam nedavė, tačiau vieta Vilniaus savivaldybės Energetikos skyriaus vedėjo kėdėje atsirado.
@@ -277,7 +288,11 @@ Mano atžvilgiu pradėtas tyrimas buvo nutrauktas. Įtarimai subliuško, byla ne
 
 Štai kodėl aš vadinu šią sistemą UAB „Prokuratūra“. Tai uždara ekosistema, veikianti pagal savo vidines taisykles, kurioje pilietis tėra nepatogus klientas. Jei tu drįsti garsiai ginti savo bendruomenę nuo stambaus verslo nekokybiško darbo, būk pasiruošęs, kad verslas gali ateiti su teisėsaugos vėzdu. O kai pradėsi klausinėti, kodėl valstybė elgiasi kaip privataus verslo saugos tarnyba, gausi tris antspauduotus raštus, kad sistema savimi pasitiki ir tavo klausimų negirdi.
 
-## Susiję tekstai
+## Susiję straipsniai
+
+[Aš – „valstybės priešas“ Lauryno Kasčiūno akivaizdoje](/daugiabucio-igaliotinio-uzrasai/savivaldybe/laurynas-kasciunas-valstybes-priesas/) – apie Lauryno Kasčiūno tylą, Vilniaus savivaldybės administracinį spaudimą ir „Citus“ garantinių defektų istoriją.
+
+[Seimo kontrolierė Erika Leonaitė pati sugalvojo mano prašymą – ir pati į jį atsakė](/daugiabucio-igaliotinio-uzrasai/seimo-kontrolieriai/erika-leonaite-atsakymas/) – apie keturis Seimo kontrolierei pateiktus klausimus ir vėliau gautą oficialų atsakymą.
 
 [„Citus“ atsiliepimai ir pirkėjų patirtis: ko tikėtis susidūrus su šiuo NT vystytoju?](/daugiabucio-igaliotinio-uzrasai/citus/citus-atsiliepimai/) – apie viešuose atsiliepimuose, žiniasklaidoje ir dokumentuotoje patirtyje pasikartojančias „Citus“ pirkėjų bei gyventojų problemas.
 
