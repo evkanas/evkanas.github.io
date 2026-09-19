@@ -38,6 +38,14 @@ breadcrumbs:
 
 <div class="igaliotinis-article-list">
 
+<h2><a href="/daugiabucio-igaliotinio-uzrasai/citus-omberg-garantines-prieziuros-rokiruote/">Vadovai keičiasi, vanduo bėga: kai NT rinkos „rokiruotės“ tampa fasadu, už kurio džiūsta tik vystytojų sąžinė</a></h2>
+
+<p>„Citus“ ir „Omberg“ garantinės priežiūros specialistų rokiruotė, statybos defektai, hidroizoliacijos problemos ir klausimas, kodėl vadovai keičiasi greičiau nei sprendžiamos gyventojų problemos.</p>
+
+</div>
+
+<div class="igaliotinis-article-list">
+
 <h2><a href="/daugiabucio-igaliotinio-uzrasai/citus/citus-atsiliepimai/">„Citus“ atsiliepimai ir pirkėjų patirtis: ko tikėtis susidūrus su šiuo NT vystytoju?</a></h2>
 
 <p>Apie viešus „Citus“ atsiliepimus, pirkėjų patirtis, garantinių defektų šalinimą ir gyventojų keliamus klausimus.</p>

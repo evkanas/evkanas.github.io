@@ -155,6 +155,14 @@ Man svarbu parodyti, kad daugiabučio įgaliotinis nėra administratorius, pasta
 
 <div class="igaliotinis-article-list">
 
+<h3><a href="/daugiabucio-igaliotinio-uzrasai/citus-omberg-garantines-prieziuros-rokiruote/">Vadovai keičiasi, vanduo bėga: kai NT rinkos „rokiruotės“ tampa fasadu, už kurio džiūsta tik vystytojų sąžinė</a></h3>
+
+<p>„Citus“ ir „Omberg“ garantinės priežiūros specialistų rokiruotė, statybos defektai, hidroizoliacijos problemos ir klausimas, kodėl vadovai keičiasi greičiau nei sprendžiamos gyventojų problemos.</p>
+
+</div>
+
+<div class="igaliotinis-article-list">
+
 <h3><a href="/daugiabucio-igaliotinio-uzrasai/seimo-kontrolieriai/erika-leonaite-atsakymas/">Seimo kontrolierė Erika Leonaitė pati sugalvojo mano prašymą – ir pati į jį atsakė</a></h3>
 
 <p>Seimo kontrolierei Erikai Leonaitei pateikiau keturis konkrečius klausimus. Oficialiame atsakyme mano prašymo turinys buvo pakeistas, o į pačius klausimus neatsakyta.</p>

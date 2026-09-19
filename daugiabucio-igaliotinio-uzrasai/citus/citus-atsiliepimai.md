@@ -233,6 +233,8 @@ Vieši atsiliepimai ir dokumentuoti atvejai siunčia aiškų signalą: perkant b
 
 ## Susiję straipsniai
 
+[Vadovai keičiasi, vanduo bėga: kai NT rinkos „rokiruotės“ tampa fasadu, už kurio džiūsta tik vystytojų sąžinė](/daugiabucio-igaliotinio-uzrasai/citus-omberg-garantines-prieziuros-rokiruote/) – apie „Citus“ ir „Omberg“ garantinės priežiūros specialistų kaitą ir neišspręstus defektus.
+
 [Į elektros skydinę – su skėčiu? Viešas klausimas „Citus“ garantinio skyriaus vadovui Mariui Karpavičiui](/daugiabucio-igaliotinio-uzrasai/citus/marius-karpavicius-elektros-skydine-vanduo/) – apie oficialiame statinio apžiūros akte užfiksuotą vandens patekimą į požeminio parkingo elektros skydinės zoną ir „Citus“ garantinio skyriaus reikalaujamus papildomus „objektyvius“ įrodymus.
 
 [Ar verta pirkti butą iš „Citus“? Viešas klausimas Mindaugui Vanagui dėl užliejamo požeminio parkingo](/daugiabucio-igaliotinio-uzrasai/citus/mindaugas-vanagas-uzliejamas-parkingas/) – apie nuo 2023 metų fiksuojamą vandens patekimą į „Citus“ projekto požeminį parkingą ir viešą klausimą „Citus“ įkūrėjui Mindaugui Vanagui.

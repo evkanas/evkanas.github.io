@@ -341,6 +341,8 @@ Apie kitus mūsų projekte nustatytus defektus, jų šalinimą ir bendravimą su
 
 [Kai savivaldybė daugiabučio įgaliotinį prilygina administratoriui](/daugiabucio-igaliotinio-uzrasai/savivaldybe/) – apie tai, kaip Vilniaus savivaldybė daugiabučio įgaliotinį vertina kaip administratorių ar pastato valdytoją.
 
+[Vadovai keičiasi, vanduo bėga: kai NT rinkos „rokiruotės“ tampa fasadu, už kurio džiūsta tik vystytojų sąžinė](/daugiabucio-igaliotinio-uzrasai/citus-omberg-garantines-prieziuros-rokiruote/)
+
 <div class="savivaldybe-share">
   <strong>Pasidalinti straipsniu</strong>
   <div class="savivaldybe-share-actions">
