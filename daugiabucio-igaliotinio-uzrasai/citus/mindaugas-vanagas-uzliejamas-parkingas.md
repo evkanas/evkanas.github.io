@@ -5,6 +5,7 @@ headline: "Ar verta pirkti butą iš „Citus“? Viešas klausimas Mindaugui Va
 description: "Evaldas Jablonskas viešai klausia „Citus“ įkūrėjo Mindaugo Vanago apie nuo 2023 metų fiksuojamą vandens skverbimąsi į požeminį parkingą ir ilgalaikį defektų pašalinimą."
 date: 2026-07-15
 date_modified: 2026-07-15
+date_modified: 2026-09-24
 permalink: /daugiabucio-igaliotinio-uzrasai/citus/mindaugas-vanagas-uzliejamas-parkingas/
 image: /daugiabucio-igaliotinio-uzrasai/citus/evaldas-jablonskas-viesas-klausimas-citus-mindaugui-vanagui.webp
 image_alt: "DI sukurta simbolinė iliustracija: Evaldas Jablonskas viešai kreipiasi į „Citus“ įkūrėją Mindaugą Vanagą dėl vandens skverbimosi į požeminį parkingą"
@@ -330,6 +331,8 @@ Apie kitus mūsų projekte nustatytus defektus, jų šalinimą ir bendravimą su
 Šiame tekste pateikiama mano ir kitų gyventojų patirtis bei dokumentais ir vaizdo medžiaga pagrindžiami faktai, kuriuos galima pagrįsti susirašinėjimu ir vaizdo medžiaga. Publikacijoje pateikiami klausimai nėra išankstinė išvada dėl „Citus“ ar Mindaugo Vanago atsakomybės. Gautas „Vanagas Group“ teisininkės atsakymas apibendrintas šiame tekste; jeigu bus gauta papildoma pozicija ar konkretus defekto šalinimo planas, tekstas bus atnaujintas.
 
 ## Susiję straipsniai
+
+[„Citus“ garantija: kai po garantinių darbų atsiranda nauja žala](/daugiabucio-igaliotinio-uzrasai/citus/citus-garantija/) – Evaldo Jablonsko pasakojimo apie parkingo defektus ir jų šalinimą tęsinys.
 
 [„Citus“ atsiliepimai ir pirkėjų patirtis: ko tikėtis susidūrus su šiuo NT vystytoju?](/daugiabucio-igaliotinio-uzrasai/citus/citus-atsiliepimai/) – apie viešuose atsiliepimuose, žiniasklaidoje ir dokumentuotoje patirtyje pasikartojančias „Citus“ pirkėjų bei gyventojų problemas.
 

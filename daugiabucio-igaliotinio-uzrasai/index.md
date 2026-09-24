@@ -155,6 +155,14 @@ Man svarbu parodyti, kad daugiabučio įgaliotinis nėra administratorius, pasta
 
 <div class="igaliotinis-article-list">
 
+<h3><a href="/daugiabucio-igaliotinio-uzrasai/citus/citus-garantija/">„Citus“ garantija: popierius, kuris ištirpsta greičiau nei pavasario sniegas</a></h3>
+
+<p>Evaldas Jablonskas apie „Citus“ garantinius darbus: vandens skverbimąsi į parkingą, po remonto atsiradusią žalą ir besikeičiančius atsakingus darbuotojus.</p>
+
+</div>
+
+<div class="igaliotinis-article-list">
+
 <h3><a href="/daugiabucio-igaliotinio-uzrasai/seimo-kontrolieriai/erika-leonaite-atsakymas/">Seimo kontrolierė Erika Leonaitė pati sugalvojo mano prašymą – ir pati į jį atsakė</a></h3>
 
 <p>Seimo kontrolierei Erikai Leonaitei pateikiau keturis konkrečius klausimus. Oficialiame atsakyme mano prašymo turinys buvo pakeistas, o į pačius klausimus neatsakyta.</p>
