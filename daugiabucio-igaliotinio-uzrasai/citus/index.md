@@ -38,6 +38,14 @@ breadcrumbs:
 
 <div class="igaliotinis-article-list">
 
+<h2><a href="/daugiabucio-igaliotinio-uzrasai/citus/citus-garantija/">„Citus“ garantija: popierius, kuris ištirpsta greičiau nei pavasario sniegas</a></h2>
+
+<p>Evaldas Jablonskas apie „Citus“ garantinius darbus: vandens skverbimąsi į parkingą, po remonto atsiradusią žalą ir besikeičiančius atsakingus darbuotojus.</p>
+
+</div>
+
+<div class="igaliotinis-article-list">
+
 <h2><a href="/daugiabucio-igaliotinio-uzrasai/citus/citus-atsiliepimai/">„Citus“ atsiliepimai ir pirkėjų patirtis: ko tikėtis susidūrus su šiuo NT vystytoju?</a></h2>
 
 <p>Apie viešus „Citus“ atsiliepimus, pirkėjų patirtis, garantinių defektų šalinimą ir gyventojų keliamus klausimus.</p>
