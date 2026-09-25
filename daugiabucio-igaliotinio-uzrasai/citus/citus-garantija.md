@@ -3,8 +3,8 @@ layout: default
 title: "„Citus“ garantija: popierius, kuris ištirpsta greičiau nei pavasario sniegas"
 headline: "„Citus“ garantija: popierius, kuris ištirpsta greičiau nei pavasario sniegas"
 description: "Evaldas Jablonskas apie „Citus“ garantinius darbus: vandens skverbimąsi į parkingą, po remonto atsiradusią žalą ir besikeičiančius atsakingus darbuotojus."
-date: 2026-09-24
-date_modified: 2026-09-24
+date: 2026-09-25
+date_modified: 2026-09-25
 permalink: /daugiabucio-igaliotinio-uzrasai/citus/citus-garantija/
 image: /daugiabucio-igaliotinio-uzrasai/citus/citus-garantija-pasaka-be-galo.webp
 image_alt: "DI sugeneruota iliustracija: Robertas Balašaitis, Šarūnas Tarutis, Mindaugas Vanagas ir Marius Karpavičius vandens užliejamame parkinge"
@@ -128,7 +128,7 @@ body { background: #f5f1ea !important; margin: 0 !important; overflow-x: hidden 
 
 # „Citus“ garantija: popierius, kuris ištirpsta greičiau nei pavasario sniegas
 
-<p class="citus-date">Paskelbta: 2026-09-24</p>
+<p class="citus-date">Paskelbta: 2026-09-25</p>
 
 <figure class="citus-hero">
   <img src="/daugiabucio-igaliotinio-uzrasai/citus/citus-garantija-pasaka-be-galo.webp" alt="DI sugeneruota iliustracija: Robertas Balašaitis, Šarūnas Tarutis, Mindaugas Vanagas ir Marius Karpavičius vandens užliejamame parkinge" title="„Citus“ garantija – pasaka be galo" width="1672" height="941">
@@ -368,10 +368,6 @@ Ankstesnės Evaldo Jablonsko publikacijos apie „Citus“ ir garantinių defekt
 - [„Citus“ atsiliepimai ir pirkėjų patirtis](/daugiabucio-igaliotinio-uzrasai/citus/citus-atsiliepimai/)
 - [Viešas klausimas Mariui Karpavičiui dėl vandens elektros skydinėje](/daugiabucio-igaliotinio-uzrasai/citus/marius-karpavicius-elektros-skydine-vanduo/)
 - [Viešas klausimas Mindaugui Vanagui dėl užliejamo požeminio parkingo](/daugiabucio-igaliotinio-uzrasai/citus/mindaugas-vanagas-uzliejamas-parkingas/)
-- [UAB „Prokuratūra“: kai bendruomenės gynimas prilyginamas nusikaltimui](/daugiabucio-igaliotinio-uzrasai/prokuratura/uab-prokuratura-bendruomenes-gynimas/)
-- [Aš – „valstybės priešas“ Lauryno Kasčiūno akivaizdoje](/daugiabucio-igaliotinio-uzrasai/savivaldybe/laurynas-kasciunas-valstybes-priesas/)
-- [Pilietinio aktyvumo kaina Vilniuje: kaip Valdas Benkunskas ir Adomas Bužinskas naikina nepatogius įgaliotinius](/daugiabucio-igaliotinio-uzrasai/savivaldybe/pilietinio-aktyvumo-kaina-vilniuje/)
-
 
 <div class="citus-share">
   <strong>Pasidalinti straipsniu</strong>
