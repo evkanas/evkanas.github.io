@@ -42,3 +42,8 @@ Pridėdamas arba atnaujindamas straipsnį, pats patikrink ir pagal esamas projek
 - Patikrink, kad vartotojo tekstas ir H1 nepasikeitė, jeigu jų redaguoti nebuvo prašyta.
 - Sėkmingas build savaime nereiškia, kad SEO užduotis atlikta. Užbaik visus taikomus patikros punktus.
 - Galutiniame atsakyme trumpai nurodyk pakeistus failus, konkrečiai sutvarkytus SEO duomenis, patikros rezultatus ir likusius apribojimus. Neteik vietinės patikros kaip Google indeksavimo ar pozicijų garantijos.
+
+## Navigacijos patikra
+
+- Naują straipsnį patikrink pagrindiniame projekto puslapyje README.md, ciklo puslapyje daugiabucio-igaliotinio-uzrasai/index.md ir kategorijos puslapyje. Jei straipsnis turi būti rodomas pagrindiniame puslapyje, pridėk jį į README.md pagal esamą nuorodos ir trumpo aprašymo formatą.
+- Po sitemap pakeitimų išparsink statinį sitemap.xml kaip XML ir patikrink, kad kiekvienas straipsnis būtų atskiras užbaigtas <url> įrašas.
