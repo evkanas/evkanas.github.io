@@ -368,6 +368,7 @@ Ankstesnės Evaldo Jablonsko publikacijos apie „Citus“ ir garantinių defekt
 - [„Citus“ atsiliepimai ir pirkėjų patirtis](/daugiabucio-igaliotinio-uzrasai/citus/citus-atsiliepimai/)
 - [Viešas klausimas Mariui Karpavičiui dėl vandens elektros skydinėje](/daugiabucio-igaliotinio-uzrasai/citus/marius-karpavicius-elektros-skydine-vanduo/)
 - [Viešas klausimas Mindaugui Vanagui dėl užliejamo požeminio parkingo](/daugiabucio-igaliotinio-uzrasai/citus/mindaugas-vanagas-uzliejamas-parkingas/)
+- [Vadovai keičiasi, vanduo bėga: kai NT rinkos „rokiruotės“ tampa fasadu, už kurio džiūsta tik vystytojų sąžinė](/daugiabucio-igaliotinio-uzrasai/citus-omberg-garantines-prieziuros-rokiruote/) – apie „Citus“ ir „Omberg“ garantinės priežiūros specialistų kaitą bei neišspręstus defektus.
 
 <div class="citus-share">
   <strong>Pasidalinti straipsniu</strong>

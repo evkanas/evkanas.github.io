@@ -223,6 +223,8 @@ Tik viešumas, dokumentai ir bendras gyventojų spaudimas gali priversti didžiu
 
 [VVTAT – vartotojų gynėja ar dar viena biurokratinė siena?](/daugiabucio-igaliotinio-uzrasai/vvtat/vvtat-vartotoju-gyneja-ar-dar-viena-biurokratine-siena/) – apie kreipimąsi į VVTAT dėl administratoriaus apskaičiuoto mokesčio, įgaliotinio statuso ir institucinių dokumentų reikalavimų.
 
+[Vadovai keičiasi, vanduo bėga: kai NT rinkos „rokiruotės“ tampa fasadu, už kurio džiūsta tik vystytojų sąžinė](/daugiabucio-igaliotinio-uzrasai/citus-omberg-garantines-prieziuros-rokiruote/)
+
 <div class="citus-share">
   <strong>Pasidalinti straipsniu</strong>
   <div class="citus-share-actions">

@@ -155,6 +155,9 @@ Man svarbu parodyti, kad daugiabučio įgaliotinis nėra administratorius, pasta
 
 <div class="igaliotinis-article-list">
 
+<h3><a href="/daugiabucio-igaliotinio-uzrasai/citus-omberg-garantines-prieziuros-rokiruote/">Vadovai keičiasi, vanduo bėga: kai NT rinkos „rokiruotės“ tampa fasadu, už kurio džiūsta tik vystytojų sąžinė</a></h3>
+
+<p>„Citus“ ir „Omberg“ garantinės priežiūros specialistų rokiruotė, statybos defektai, hidroizoliacijos problemos ir klausimas, kodėl vadovai keičiasi greičiau nei sprendžiamos gyventojų problemos.</p>
 <h3><a href="/daugiabucio-igaliotinio-uzrasai/citus/citus-garantija/">„Citus“ garantija: popierius, kuris ištirpsta greičiau nei pavasario sniegas</a></h3>
 
 <p>Evaldas Jablonskas apie „Citus“ garantinius darbus: vandens skverbimąsi į parkingą, po remonto atsiradusią žalą ir besikeičiančius atsakingus darbuotojus.</p>
