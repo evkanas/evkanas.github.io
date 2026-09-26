@@ -435,6 +435,8 @@ Taigi abi bendrovės turėjo galimybę paaiškinti savo poziciją dėl šiame st
 
 [Ar verta pirkti butą iš „Citus“? Viešas klausimas Mindaugui Vanagui dėl užliejamo požeminio parkingo](/daugiabucio-igaliotinio-uzrasai/citus/mindaugas-vanagas-uzliejamas-parkingas/) – apie nuo 2023 metų fiksuojamą vandens patekimą į „Citus“ projekto požeminį parkingą ir viešą klausimą „Citus“ įkūrėjui Mindaugui Vanagui.
 
+[„Citus“ garantija: kai po garantinių darbų atsiranda nauja žala](/daugiabucio-igaliotinio-uzrasai/citus/citus-garantija/) – apie parkingo defektus, garantinių darbų eigą ir po jų atsiradusią naują žalą.
+
 <div class="citus-support">
   <strong>Palaikyti „Daugiabučio įgaliotinio užrašus“</strong>
   <p>Jeigu šis darbas atrodo prasmingas, galite prisidėti prie jo tęstinumo. Surinktos lėšos bus naudojamos dokumentuotų statybos defektų viešinimui, informacijos rengimui ir sklaidai per žiniasklaidą bei kitus viešus kanalus.</p>
