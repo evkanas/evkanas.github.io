@@ -1,10 +1,10 @@
 ---
 layout: "default"
-title: "„Citus“ ir „Omberg“ garantinės priežiūros rokiruotė – vadovai keičiasi, vanduo bėga"
+title: "„Citus“ ir „Omberg“: Marius Karpavičius, Robertas Balašaitis ir garantinė priežiūra"
 headline: "Vadovai keičiasi, vanduo bėga: kai NT rinkos „rokiruotės“ tampa fasadu, už kurio džiūsta tik vystytojų sąžinė"
-description: "„Citus“ ir „Omberg“ garantinės priežiūros specialistų rokiruotė, statybos defektai, hidroizoliacijos problemos ir klausimas, kodėl vadovai keičiasi greičiau nei sprendžiamos gyventojų problemos."
-date: "2026-09-19"
-date_modified: "2026-09-19"
+description: "Evaldas Jablonskas apie Marių Karpavičių, Robertą Balašaitį, „Citus“ ir „Omberg“ garantinę priežiūrą, hidroizoliaciją ir vandens patekimą į parkingą."
+date: "2026-09-26"
+date_modified: "2026-09-26"
 permalink: "/daugiabucio-igaliotinio-uzrasai/citus-omberg-garantines-prieziuros-rokiruote/"
 image: "/daugiabucio-igaliotinio-uzrasai/citus/evaldas-jablonskas-citus-omberg-marius-karpavicius-robertas-balasaitis.webp"
 image_alt: "Marius Karpavičius kairėje ir Robertas Balašaitis dešinėje – DI iliustracija apie „Citus“ ir „Omberg“ garantinės priežiūros rokiruotę."
@@ -12,10 +12,33 @@ lang: "lt"
 type: "article"
 author: "Evaldas Jablonskas"
 about:
+  - name: Evaldas Jablonskas
+    type: Person
   - name: Citus
     type: Organization
   - name: Omberg
     type: Organization
+  - name: Marius Karpavičius
+    type: Person
+  - name: Robertas Balašaitis
+    type: Person
+  - name: garantinė priežiūra
+    type: Thing
+  - name: hidroizoliacija
+    type: Thing
+  - name: vandens patekimas į parkingą
+    type: Thing
+keywords:
+  - Evaldas Jablonskas
+  - daugiabučio įgaliotinis
+  - Citus
+  - Omberg
+  - Marius Karpavičius
+  - Robertas Balašaitis
+  - garantinė priežiūra
+  - hidroizoliacija
+  - vanduo parkinge
+  - statybos defektai
 breadcrumbs:
   - name: "Evaldas Jablonskas"
     url: "/"
@@ -101,14 +124,14 @@ body { background: #f5f1ea !important; margin: 0 !important; overflow-x: hidden 
 }
 </style>
 
-<main class="citus-page" markdown="1">
+<div class="citus-page" markdown="1">
 <article class="citus-article" markdown="1">
 
 <nav class="citus-kicker" aria-label="Puslapio kelias"><a href="/">Evaldas Jablonskas</a> / <a href="/daugiabucio-igaliotinio-uzrasai/">Daugiabučio įgaliotinio užrašai</a> / <a href="/daugiabucio-igaliotinio-uzrasai/citus/">Citus</a> / <span aria-current="page">Vadovai keičiasi, vanduo bėga</span></nav>
 
 # Vadovai keičiasi, vanduo bėga: kai NT rinkos „rokiruotės“ tampa fasadu, už kurio džiūsta tik vystytojų sąžinė
 
-<p class="citus-date">Paskelbta: 2026-09-19</p>
+<p class="citus-date">Paskelbta: 2026-09-26</p>
 
 <figure class="citus-hero">
   <img src="/daugiabucio-igaliotinio-uzrasai/citus/evaldas-jablonskas-citus-omberg-marius-karpavicius-robertas-balasaitis.webp" alt="Marius Karpavičius kairėje ir Robertas Balašaitis dešinėje – DI iliustracija apie „Citus“ ir „Omberg“ garantinės priežiūros rokiruotę." width="1448" height="1086">
@@ -394,7 +417,7 @@ Nes iš viso šio proceso džiūsta ne sienos.
 **Džiūsta tik vystytojų sąžinė.**
 
 
-### „Citus“ ir „Omberg“ pozicija
+## „Citus“ ir „Omberg“ pozicija
 
 Prieš publikaciją buvo kreiptasi ir į „Citus“, ir į „Omberg“, suteikiant abiem bendrovėms galimybę pateikti savo poziciją dėl šiame straipsnyje keliamų klausimų.
 
@@ -447,4 +470,4 @@ Taigi abi bendrovės turėjo galimybę paaiškinti savo poziciją dėl šiame st
 
 <p class="citus-series"><a href="/daugiabucio-igaliotinio-uzrasai/">Grįžti į ciklo puslapį</a></p>
 </article>
-</main>
+</div>
