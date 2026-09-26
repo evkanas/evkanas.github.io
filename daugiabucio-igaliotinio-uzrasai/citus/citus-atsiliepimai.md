@@ -4,6 +4,7 @@ title: "Citus atsiliepimai: pirkėjų patirtis ir rizikos perkant būstą"
 headline: "„Citus“ atsiliepimai ir pirkėjų patirtis: ko tikėtis susidūrus su šiuo NT vystytoju?"
 description: "Evaldas Jablonskas apžvelgia viešus „Citus“ atsiliepimus, pirkėjų patirtis, garantinių defektų šalinimą, vandens pratekėjimus ir preliminariųjų sutarčių rizikas."
 date: 2026-08-07
+date_modified: 2026-09-24
 permalink: /daugiabucio-igaliotinio-uzrasai/citus/citus-atsiliepimai/
 image: /daugiabucio-igaliotinio-uzrasai/citus/evaldas-jablonskas-citus-atsiliepimai-pozeminis-parkingas-vanduo.webp
 image_alt: "Evaldas Jablonskas apie „Citus“ atsiliepimus – vandens patekimo ir drėgmės pėdsakai požeminiame parkinge"
@@ -234,6 +235,7 @@ Vieši atsiliepimai ir dokumentuoti atvejai siunčia aiškų signalą: perkant b
 ## Susiję straipsniai
 
 [Vadovai keičiasi, vanduo bėga: kai NT rinkos „rokiruotės“ tampa fasadu, už kurio džiūsta tik vystytojų sąžinė](/daugiabucio-igaliotinio-uzrasai/citus-omberg-garantines-prieziuros-rokiruote/) – apie „Citus“ ir „Omberg“ garantinės priežiūros specialistų kaitą ir neišspręstus defektus.
+[„Citus“ garantija: kai po garantinių darbų atsiranda nauja žala](/daugiabucio-igaliotinio-uzrasai/citus/citus-garantija/) – Evaldo Jablonsko pasakojimo apie parkingo defektus ir jų šalinimą tęsinys.
 
 [Į elektros skydinę – su skėčiu? Viešas klausimas „Citus“ garantinio skyriaus vadovui Mariui Karpavičiui](/daugiabucio-igaliotinio-uzrasai/citus/marius-karpavicius-elektros-skydine-vanduo/) – apie oficialiame statinio apžiūros akte užfiksuotą vandens patekimą į požeminio parkingo elektros skydinės zoną ir „Citus“ garantinio skyriaus reikalaujamus papildomus „objektyvius“ įrodymus.
 

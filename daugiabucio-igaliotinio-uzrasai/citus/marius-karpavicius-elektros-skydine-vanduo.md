@@ -4,6 +4,7 @@ title: "Evaldas Jablonskas: viešas klausimas „Citus“ garantinio skyriaus va
 headline: "Į elektros skydinę – su skėčiu? Viešas klausimas „Citus“ garantinio skyriaus vadovui Mariui Karpavičiui"
 description: "Evaldas Jablonskas viešai klausia „Citus“ garantinio skyriaus vadovo Mariaus Karpavičiaus, kodėl po apžiūros akte užfiksuoto vandens patekimo į elektros skydinę vis dar reikalaujama papildomų įrodymų."
 date: 2026-07-29
+date_modified: 2026-09-24
 permalink: /daugiabucio-igaliotinio-uzrasai/citus/marius-karpavicius-elektros-skydine-vanduo/
 image: /daugiabucio-igaliotinio-uzrasai/citus/evaldas-jablonskas-citus-marius-karpavicius-elektros-skydine-vanduo.webp
 image_alt: "Evaldas Jablonskas viešai klausia „Citus“ garantinio skyriaus vadovo Mariaus Karpavičiaus dėl vandens patekimo į požeminio parkingo elektros skydinę"
@@ -209,6 +210,8 @@ Tik viešumas, dokumentai ir bendras gyventojų spaudimas gali priversti didžiu
 Ši publikacija yra Evaldo Jablonsko viešai pateikiamas klausimas ir dokumentais grindžiamas situacijos vertinimas. Ji bus papildyta, jeigu „Citus“ arba Marius Karpavičius pateiks atsakymą.
 
 ## Susiję straipsniai
+
+[„Citus“ garantija: kai po garantinių darbų atsiranda nauja žala](/daugiabucio-igaliotinio-uzrasai/citus/citus-garantija/) – Evaldo Jablonsko pasakojimo apie parkingo defektus ir jų šalinimą tęsinys.
 
 [„Citus“ atsiliepimai ir pirkėjų patirtis: ko tikėtis susidūrus su šiuo NT vystytoju?](/daugiabucio-igaliotinio-uzrasai/citus/citus-atsiliepimai/) – apie viešuose atsiliepimuose, žiniasklaidoje ir dokumentuotoje patirtyje pasikartojančias „Citus“ pirkėjų bei gyventojų problemas.
 
