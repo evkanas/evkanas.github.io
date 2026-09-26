@@ -161,7 +161,7 @@ Vanduo, žinoma, niekur nedingo – nes fizikos dėsnių „tešlos tepimas“ a
 
 **„Kristalinė hidroizoliacija“ nukrito. Vadovo kompetencija – taip pat. O vanduo – ne.**
 
-Ir dabar tokius „stebuklus“ Robertas galės sėkmingai tęsti jau „Omberg“ stovykloje – tik gyventojams nuo to ne lengviau: kai problemos ne sprendžiamos, o užtepamos „stebuklingais“ tepalais, keičiasi tik įmonės pavadinimas, o požiūris lieka tas pats..
+Ir dabar tokius „stebuklus“ Robertas galės sėkmingai tęsti jau „Omberg“ stovykloje – tik gyventojams nuo to ne lengviau: kai problemos ne sprendžiamos, o užtepamos „stebuklingais“ tepalais, keičiasi tik įmonės pavadinimas, o požiūris lieka tas pats.
 
 Keičiasi įmonės pavadinimas ant vizitinės kortelės.
 
@@ -392,6 +392,18 @@ Ir čia yra visa šios istorijos esmė:
 Nes iš viso šio proceso džiūsta ne sienos.
 
 **Džiūsta tik vystytojų sąžinė.**
+
+
+### „Citus“ ir „Omberg“ pozicija
+
+Prieš publikaciją buvo kreiptasi ir į „Citus“, ir į „Omberg“, suteikiant abiem bendrovėms galimybę pateikti savo poziciją dėl šiame straipsnyje keliamų klausimų.
+
+2026 m. rugsėjo 19 d. „Citus“ buvo išsiųstas prašymas pateikti bendrovės ir Mariaus Karpavičiaus poziciją, o „Omberg“ – bendrovės ir Roberto Balašaičio poziciją. Atsakymų buvo prašoma iki 2026 m. rugsėjo 24 d. 12:00 val.
+
+Iki nustatyto termino nei „Citus“, nei „Omberg“ atsakymo nepateikė.
+
+Taigi abi bendrovės turėjo galimybę paaiškinti savo poziciją dėl šiame straipsnyje aptariamų aplinkybių, tačiau pasirinko tylą.
+
 ## Susiję straipsniai
 
 [„Citus“ atsiliepimai ir pirkėjų patirtis: ko tikėtis susidūrus su šiuo NT vystytoju?](/daugiabucio-igaliotinio-uzrasai/citus/citus-atsiliepimai/) – apie pirkėjų patirtis ir garantinių defektų šalinimą.
@@ -399,12 +411,6 @@ Nes iš viso šio proceso džiūsta ne sienos.
 [Į elektros skydinę – su skėčiu? Viešas klausimas „Citus“ garantinio skyriaus vadovui Mariui Karpavičiui](/daugiabucio-igaliotinio-uzrasai/citus/marius-karpavicius-elektros-skydine-vanduo/) – apie oficialiame statinio apžiūros akte užfiksuotą vandens patekimą į požeminio parkingo elektros skydinės zoną ir „Citus“ garantinio skyriaus reikalaujamus papildomus „objektyvius“ įrodymus.
 
 [Ar verta pirkti butą iš „Citus“? Viešas klausimas Mindaugui Vanagui dėl užliejamo požeminio parkingo](/daugiabucio-igaliotinio-uzrasai/citus/mindaugas-vanagas-uzliejamas-parkingas/) – apie nuo 2023 metų fiksuojamą vandens patekimą į „Citus“ projekto požeminį parkingą ir viešą klausimą „Citus“ įkūrėjui Mindaugui Vanagui.
-
-[UAB „Prokuratūra“: kai bendruomenės gynimas prilyginamas nusikaltimui](/daugiabucio-igaliotinio-uzrasai/prokuratura/uab-prokuratura-bendruomenes-gynimas/) – apie situaciją, kai daugiabučio bendruomenės interesų gynimas, statybų broko viešinimas ir kreipimaisi į verslo asociacijas virto baudžiamuoju įtarimu.
-
-[Aš – „valstybės priešas“ Lauryno Kasčiūno akivaizdoje](/daugiabucio-igaliotinio-uzrasai/savivaldybe/laurynas-kasciunas-valstybes-priesas/) – apie Vilniaus savivaldybės reikalavimus daugiabučio įgaliotiniui, „Citus“ garantinių defektų istoriją ir viešą klausimą Laurynui Kasčiūnui.
-
-[Pilietinio aktyvumo kaina Vilniuje: kaip Valdas Benkunskas ir Adomas Bužinskas naikina nepatogius įgaliotinius](/daugiabucio-igaliotinio-uzrasai/savivaldybe/pilietinio-aktyvumo-kaina-vilniuje/) – apie daugiabučio įgaliotinio patirtį ginant gyventojų interesus Vilniuje ir savivaldybės spaudimą aktyviam gyventojų atstovui.
 
 <div class="citus-support">
   <strong>Palaikyti „Daugiabučio įgaliotinio užrašus“</strong>
