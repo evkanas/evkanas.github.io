@@ -179,7 +179,7 @@ Prie kasdienio kankinimo prisideda ir naujas lygmuo – **byrantis pastato kaili
 
 Defektų statybose pasitaiko visada. Didžioji naujiena ne tai, kad jie atsiranda. Didžioji naujiena yra tai, **kas vyksta, kai apie juos praneši**.
 
-Mano patirtis su „Citus“ parodė tik viena: rašai, fotografuoji, filmuoji, organizuoji komisijas, reikalauji. Pažadų – pilnas kibiras. Terminais žarstomasi į kairę ir į dešinę. Bet gyventojui nesvarbu, kiek kartų pasakyta „sprendžiame“. Gyventojui svarbu, ar klinkerio plytelės nustojo kristi ir ar vanduo nustojo bėgti. Jei ne – visa kita yra tik pigi komunikacija.
+Mano patirtis su „Citus“ parodė vieną dalyką: rašai, fotografuoji, filmuoji, organizuoji komisijas, reikalauji. Pažadų – pilnas kibiras. Terminais žarstomasi į kairę ir į dešinę. Bet gyventojui nesvarbu, kiek kartų pasakyta „sprendžiame“. Gyventojui svarbu, ar klinkerio plytelės nustojo kristi ir ar vanduo nustojo bėgti. Jei ne – visa kita yra tik pigi komunikacija.
 
 Tu pirkai būstą, o gavai antrą, nemokamą statybų prižiūrėtojo darbą be atlyginimo. Trejus metus iš eilės.
 
