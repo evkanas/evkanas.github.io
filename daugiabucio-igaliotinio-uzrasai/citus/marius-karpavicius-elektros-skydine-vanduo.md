@@ -211,6 +211,8 @@ Tik viešumas, dokumentai ir bendras gyventojų spaudimas gali priversti didžiu
 
 ## Susiję straipsniai
 
+[„CITUS ARTÌ“ viltys ir „Citus“ realybė: kai fasadas byrėja greičiau nei perkamas būstas](/daugiabucio-igaliotinio-uzrasai/citus/citus-arti-viltys-ir-citus-realybe/) – straipsnis apie „Citus“ būsto pirkėjo rizikas, garantinius defektus ir byrantį fasadą.
+
 [„Citus“ garantija: kai po garantinių darbų atsiranda nauja žala](/daugiabucio-igaliotinio-uzrasai/citus/citus-garantija/) – Evaldo Jablonsko pasakojimo apie parkingo defektus ir jų šalinimą tęsinys.
 
 [„Citus“ atsiliepimai ir pirkėjų patirtis: ko tikėtis susidūrus su šiuo NT vystytoju?](/daugiabucio-igaliotinio-uzrasai/citus/citus-atsiliepimai/) – apie viešuose atsiliepimuose, žiniasklaidoje ir dokumentuotoje patirtyje pasikartojančias „Citus“ pirkėjų bei gyventojų problemas.
