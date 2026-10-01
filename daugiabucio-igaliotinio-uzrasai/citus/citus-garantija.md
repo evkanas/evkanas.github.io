@@ -363,12 +363,15 @@ Vienintelis dalykas, kuris šioje istorijoje demonstruoja pavydėtiną stabilum�
 
 ## Susiję straipsniai
 
-Ankstesnės Evaldo Jablonsko publikacijos apie „Citus“ ir garantinių defektų istoriją:
+[„CITUS ARTÌ“ viltys ir „Citus“ realybė: kai fasadas byrėja greičiau nei perkamas būstas](/daugiabucio-igaliotinio-uzrasai/citus/citus-arti-viltys-ir-citus-realybe/) – straipsnis apie „Citus“ būsto pirkėjo rizikas, garantinius defektus ir byrantį fasadą.
 
-- [„Citus“ atsiliepimai ir pirkėjų patirtis](/daugiabucio-igaliotinio-uzrasai/citus/citus-atsiliepimai/)
-- [Viešas klausimas Mariui Karpavičiui dėl vandens elektros skydinėje](/daugiabucio-igaliotinio-uzrasai/citus/marius-karpavicius-elektros-skydine-vanduo/)
-- [Viešas klausimas Mindaugui Vanagui dėl užliejamo požeminio parkingo](/daugiabucio-igaliotinio-uzrasai/citus/mindaugas-vanagas-uzliejamas-parkingas/)
-- [Vadovai keičiasi, vanduo bėga: kai NT rinkos „rokiruotės“ tampa fasadu, už kurio džiūsta tik vystytojų sąžinė](/daugiabucio-igaliotinio-uzrasai/citus-omberg-garantines-prieziuros-rokiruote/) – apie „Citus“ ir „Omberg“ garantinės priežiūros specialistų kaitą bei neišspręstus defektus.
+[Vadovai keičiasi, vanduo bėga: kai NT rinkos „rokiruotės“ tampa fasadu, už kurio džiūsta tik vystytojų sąžinė](/daugiabucio-igaliotinio-uzrasai/citus-omberg-garantines-prieziuros-rokiruote/) – apie „Citus“ ir „Omberg“ garantinės priežiūros specialistų kaitą bei neišspręstus defektus.
+
+[„Citus“ atsiliepimai ir pirkėjų patirtis](/daugiabucio-igaliotinio-uzrasai/citus/citus-atsiliepimai/) – apie viešus pirkėjų atsiliepimus, garantinių defektų šalinimą ir susidūrimą su „Citus“ po būsto įsigijimo.
+
+[Į elektros skydinę – su skėčiu? Viešas klausimas „Citus“ garantinio skyriaus vadovui Mariui Karpavičiui](/daugiabucio-igaliotinio-uzrasai/citus/marius-karpavicius-elektros-skydine-vanduo/) – apie vandens patekimą į požeminio parkingo elektros skydinės zoną.
+
+[Ar verta pirkti butą iš „Citus“? Viešas klausimas Mindaugui Vanagui dėl užliejamo požeminio parkingo](/daugiabucio-igaliotinio-uzrasai/citus/mindaugas-vanagas-uzliejamas-parkingas/) – apie nuo 2023 metų fiksuojamą vandens skverbimąsi į požeminį parkingą.
 
 <div class="citus-share">
   <strong>Pasidalinti straipsniu</strong>
