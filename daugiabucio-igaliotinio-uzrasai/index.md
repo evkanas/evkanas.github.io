@@ -155,6 +155,14 @@ Man svarbu parodyti, kad daugiabučio įgaliotinis nėra administratorius, pasta
 
 <div class="igaliotinis-article-list">
 
+<h3><a href="/daugiabucio-igaliotinio-uzrasai/citus/citus-tyzenhauz-rytojaus-prestizas/">„CITUS Tyzenhauz“ – „rytojaus prestižas“ iki pirmo rimto lietaus?</a></h3>
+
+<p>Evaldo Jablonsko patirtis kitame „Citus“ projekte: vanduo parkinge, fasado defektai ir garantinė priežiūra – klausimai „CITUS Tyzenhauz“ pirkėjams.</p>
+
+</div>
+
+<div class="igaliotinis-article-list">
+
 <h3><a href="/daugiabucio-igaliotinio-uzrasai/citus/citus-arti-viltys-ir-citus-realybe/">„CITUS ARTÌ“ viltys ir „Citus“ realybė: kai fasadas byrėja greičiau nei perkamas būstas</a></h3>
 
 <p>Evaldo Jablonsko patirtis kitame „Citus“ projekte: nuo 2023 metų trunkantys garantiniai klausimai, vanduo parkinge ir byrantis fasadas – ką verta įvertinti renkantis „CITUS ARTÌ“.</p>

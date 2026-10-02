@@ -53,6 +53,8 @@ Evaldas Jablonskas asmeninės patirties pagrindu rašo apie daugiabučio įgalio
 
 * [Evaldas Jablonskas – Daugiabučio įgaliotinio užrašai](/daugiabucio-igaliotinio-uzrasai/)  
   Straipsnių ciklas apie daugiabučio įgaliotinio patirtį, administravimo ribas, statytojų defektus ir institucijų atsakomybę.
+* [„CITUS Tyzenhauz“ – „rytojaus prestižas“ iki pirmo rimto lietaus?](/daugiabucio-igaliotinio-uzrasai/citus/citus-tyzenhauz-rytojaus-prestizas/)  
+  Evaldo Jablonsko patirtis kitame „Citus“ projekte: vanduo parkinge, fasado defektai ir garantinė priežiūra – klausimai „CITUS Tyzenhauz“ pirkėjams.
 * [„CITUS ARTÌ“ viltys ir „Citus“ realybė: kai fasadas byrėja greičiau nei perkamas būstas](/daugiabucio-igaliotinio-uzrasai/citus/citus-arti-viltys-ir-citus-realybe/)  
   Evaldo Jablonsko patirtis kitame „Citus“ projekte: nuo 2023 metų trunkantys garantiniai klausimai, vanduo parkinge ir byrantis fasadas – ką verta įvertinti renkantis „CITUS ARTÌ“.
 * [Vadovai keičiasi, vanduo bėga: kai NT rinkos „rokiruotės“ tampa fasadu, už kurio džiūsta tik vystytojų sąžinė](/daugiabucio-igaliotinio-uzrasai/citus-omberg-garantines-prieziuros-rokiruote/)  
