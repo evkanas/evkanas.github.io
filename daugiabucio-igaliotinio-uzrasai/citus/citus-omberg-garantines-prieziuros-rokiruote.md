@@ -429,6 +429,8 @@ Taigi abi bendrovės turėjo galimybę paaiškinti savo poziciją dėl šiame st
 
 ## Susiję straipsniai
 
+[„CITUS Tyzenhauz“ – „rytojaus prestižas“ iki pirmo rimto lietaus?](/daugiabucio-igaliotinio-uzrasai/citus/citus-tyzenhauz-rytojaus-prestizas/) – apie autoriaus patirtį kitame „Citus“ projekte, vandenį parkinge, fasado pažeidimus ir klausimus „CITUS Tyzenhauz“ pirkėjams.
+
 [„CITUS ARTÌ“ viltys ir „Citus“ realybė: kai fasadas byrėja greičiau nei perkamas būstas](/daugiabucio-igaliotinio-uzrasai/citus/citus-arti-viltys-ir-citus-realybe/) – straipsnis apie „Citus“ būsto pirkėjo rizikas, garantinius defektus ir byrantį fasadą.
 
 [„Citus“ atsiliepimai ir pirkėjų patirtis: ko tikėtis susidūrus su šiuo NT vystytoju?](/daugiabucio-igaliotinio-uzrasai/citus/citus-atsiliepimai/) – apie pirkėjų patirtis ir garantinių defektų šalinimą.

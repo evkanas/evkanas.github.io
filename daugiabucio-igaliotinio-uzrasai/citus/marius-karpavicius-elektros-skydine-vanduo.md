@@ -211,6 +211,8 @@ Tik viešumas, dokumentai ir bendras gyventojų spaudimas gali priversti didžiu
 
 ## Susiję straipsniai
 
+[„CITUS Tyzenhauz“ – „rytojaus prestižas“ iki pirmo rimto lietaus?](/daugiabucio-igaliotinio-uzrasai/citus/citus-tyzenhauz-rytojaus-prestizas/) – apie autoriaus patirtį kitame „Citus“ projekte, vandenį parkinge, fasado pažeidimus ir klausimus „CITUS Tyzenhauz“ pirkėjams.
+
 [„CITUS ARTÌ“ viltys ir „Citus“ realybė: kai fasadas byrėja greičiau nei perkamas būstas](/daugiabucio-igaliotinio-uzrasai/citus/citus-arti-viltys-ir-citus-realybe/) – straipsnis apie „Citus“ būsto pirkėjo rizikas, garantinius defektus ir byrantį fasadą.
 
 [„Citus“ garantija: kai po garantinių darbų atsiranda nauja žala](/daugiabucio-igaliotinio-uzrasai/citus/citus-garantija/) – Evaldo Jablonsko pasakojimo apie parkingo defektus ir jų šalinimą tęsinys.
