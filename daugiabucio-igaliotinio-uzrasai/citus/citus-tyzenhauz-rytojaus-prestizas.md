@@ -204,6 +204,16 @@ Prestižas nėra gražus žodis buklete. Prestižas yra sausas parkingas, nebyra
 
 Prieš pasirašydami sutartį dėl „CITUS Tyzenhauz“, paklauskite savęs: ar esate pasiruošę po trejų metų tapti statybų techniniu prižiūrėtoju, fotografu ir teisininku vien tam, kad jūsų namas atrodytų taip, kaip buvo žadėta?
 
+### Straipsnis portale „Viskas.lt“
+
+Šios temos versiją taip pat paskelbiau portale „Viskas.lt“:
+
+<a href="https://viskas.lt/straipsniai/61918-citus-tyzenhauz-atsiliepimai-rytojaus-prestizas-ir-tai-ko-nepamatysi-vizualizacijose"
+   target="_blank"
+   rel="nofollow noopener">
+CITUS Tyzenhauz atsiliepimai: „rytojaus prestižas“ ir tai, ko nepamatysi vizualizacijose
+</a>
+
 ## Susiję straipsniai
 
 [„CITUS ARTì“ viltys ir „Citus“ realybė](/daugiabucio-igaliotinio-uzrasai/citus/citus-arti-viltys-ir-citus-realybe/) – apie autoriaus patirtį kitame „Citus“ projekte ir klausimus būsto pirkėjams.
