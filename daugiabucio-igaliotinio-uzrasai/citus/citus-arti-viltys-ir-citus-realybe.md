@@ -202,6 +202,8 @@ Vizualizacija ekrane mirga tik kelias minutes. O su tuo, kas pagal ją pastatyta
 
 ## Susiję straipsniai
 
+[„CITUS Tyzenhauz“ – „rytojaus prestižas“ iki pirmo rimto lietaus?](/daugiabucio-igaliotinio-uzrasai/citus/citus-tyzenhauz-rytojaus-prestizas/) – apie autoriaus patirtį kitame „Citus“ projekte, vandenį parkinge, fasado pažeidimus ir klausimus „CITUS Tyzenhauz“ pirkėjams.
+
 [Vadovai keičiasi, vanduo bėga: kai NT rinkos „rokiruotės“ tampa fasadu, už kurio džiūsta tik vystytojų sąžinė](/daugiabucio-igaliotinio-uzrasai/citus-omberg-garantines-prieziuros-rokiruote/) – apie „Citus“ ir „Omberg“ garantinės priežiūros specialistų kaitą bei neišspręstus defektus.
 
 [„Citus“ garantija: popierius, kuris ištirpsta greičiau nei pavasario sniegas](/daugiabucio-igaliotinio-uzrasai/citus/citus-garantija/) – apie garantinius darbus ir po jų atsiradusią žalą.

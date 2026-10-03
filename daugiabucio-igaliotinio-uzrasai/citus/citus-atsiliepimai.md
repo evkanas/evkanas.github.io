@@ -234,6 +234,8 @@ Vieši atsiliepimai ir dokumentuoti atvejai siunčia aiškų signalą: perkant b
 
 ## Susiję straipsniai
 
+[„CITUS Tyzenhauz“ – „rytojaus prestižas“ iki pirmo rimto lietaus?](/daugiabucio-igaliotinio-uzrasai/citus/citus-tyzenhauz-rytojaus-prestizas/) – apie autoriaus patirtį kitame „Citus“ projekte, vandenį parkinge, fasado pažeidimus ir klausimus „CITUS Tyzenhauz“ pirkėjams.
+
 [„CITUS ARTÌ“ viltys ir „Citus“ realybė: kai fasadas byrėja greičiau nei perkamas būstas](/daugiabucio-igaliotinio-uzrasai/citus/citus-arti-viltys-ir-citus-realybe/) – straipsnis apie „Citus“ būsto pirkėjo rizikas, garantinius defektus ir byrantį fasadą.
 
 [Vadovai keičiasi, vanduo bėga: kai NT rinkos „rokiruotės“ tampa fasadu, už kurio džiūsta tik vystytojų sąžinė](/daugiabucio-igaliotinio-uzrasai/citus-omberg-garantines-prieziuros-rokiruote/) – apie „Citus“ ir „Omberg“ garantinės priežiūros specialistų kaitą ir neišspręstus defektus.

@@ -3,7 +3,7 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://evaldasjablonskas.lt/</loc>
-    <lastmod>2026-09-18</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <image:image>
       <image:loc>https://evaldasjablonskas.lt/evaldas-jablonskas-business-central-portfolio.png</image:loc>
     </image:image>
@@ -51,7 +51,7 @@
   </url>
   <url>
     <loc>https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <image:image>
       <image:loc>https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/evaldas-jablonskas-daugiabucio-igaliotinio-uzrasai.webp</image:loc>
       <image:title>Evaldas Jablonskas - Daugiabučio įgaliotinio užrašai</image:title>
@@ -166,7 +166,7 @@
   </url>
   <url>
     <loc>https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/citus/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-10-02</lastmod>
   </url>
   <url>
     <loc>https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/prokuratura/</loc>
@@ -200,6 +200,15 @@
       <image:loc>https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/citus/evaldas-jablonskas-citus-arti-byrantis-fasadas.webp</image:loc>
       <image:title>„CITUS ARTÌ“ viltys ir „Citus“ realybė: kai fasadas byrėja greičiau nei perkamas būstas</image:title>
       <image:caption>„Citus“ įkūrėjas Mindaugas Vanagas ir bendrovės direktorius Šarūnas Tarutis satyrinėje iliustracijoje. Fone – kontrastas tarp „Citus“ reklaminio šūkio „Esame CITUS. Mes kuriame Jums fainus namus“ ir byrančio daugiabučio fasado.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/citus/citus-tyzenhauz-rytojaus-prestizas/</loc>
+    <lastmod>2026-10-03</lastmod>
+    <image:image>
+      <image:loc>https://evaldasjablonskas.lt/daugiabucio-igaliotinio-uzrasai/citus/evaldas-jablonskas-citus-tyzenhauz-rytojaus-prestizas.webp</image:loc>
+      <image:title>„CITUS Tyzenhauz“ – „rytojaus prestižas“ iki pirmo rimto lietaus?</image:title>
+      <image:caption>Simbolinė DI iliustracija apie „CITUS Tyzenhauz“ reklamuojamą „rytojaus prestižą“ ir kontrastą su autoriaus patirtimi kitame „Citus“ projekte – vandeniu požeminiame parkinge, fasado pažeidimais ir garantinės priežiūros problemomis. Tai nėra dokumentinė „CITUS Tyzenhauz“ nuotrauka.</image:caption>
     </image:image>
   </url>
 </urlset>
