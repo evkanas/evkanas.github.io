@@ -64,16 +64,6 @@ Daugiau nei 10 metų programavimo patirties: AL ir C/AL, integracijos, ataskaito
 - Document Handling
 - Process Automation
 
-## Profiles
-
-- <a href="https://github.com/evkanas" target="_blank" rel="noopener noreferrer">Evaldas Jablonskas on GitHub</a>
-- <a href="https://www.linkedin.com/in/evaldas-jablonskas-5b45a794/" target="_blank" rel="noopener noreferrer">Evaldas Jablonskas on LinkedIn</a>
-- <a href="https://www.facebook.com/profile.php?id=61591523192102" target="_blank" rel="noopener noreferrer">Daugiabučio įgaliotinio užrašai on Facebook</a>
-- <a href="https://www.instagram.com/igaliotinio.uzrasai/" target="_blank" rel="noopener noreferrer">Daugiabučio įgaliotinio užrašai on Instagram</a>
-- <a href="https://www.youtube.com/@DaugiabucioIgaliotinioUzrasai" target="_blank" rel="noopener noreferrer">Daugiabučio įgaliotinio užrašai on YouTube</a>
-- <a href="https://x.com/igaliotinis_lt" target="_blank" rel="noopener noreferrer">Daugiabučio įgaliotinio užrašai on X</a>
-- <a href="https://www.tiktok.com/@igaliotiniouzrasai" target="_blank" rel="noopener noreferrer">Daugiabučio įgaliotinio užrašai on TikTok</a>
-
 ## Technical Articles
 
 Technical notes and portfolio articles by **Evaldas Jablonskas** about Microsoft Dynamics 365 Business Central, Dynamics NAV, AL development, integrations, reporting, and process automation.
@@ -83,6 +73,16 @@ Technical notes and portfolio articles by **Evaldas Jablonskas** about Microsoft
 - [Evaldas Jablonskas – Business Central Finbite / Omniva Invoice Center Integration](/business-central-finbite-omniva-invoice-center-integration/)
   Microsoft Dynamics 365 Business Central / NAV portfolio straipsnis apie tiekėjų sąskaitų importą iš buvusio Omniva Invoice Center / Finbite tipo sąskaitų administravimo sprendimo per SOAP API ir XML apdorojimą.
 - [EVK Solution Agent – DI agentas el. laiškų ir tekstų analizei](/evk-solution-agent/)
+
+## Profiles
+
+- <a href="https://github.com/evkanas" target="_blank" rel="noopener noreferrer">Evaldas Jablonskas on GitHub</a>
+- <a href="https://www.linkedin.com/in/evaldas-jablonskas-5b45a794/" target="_blank" rel="noopener noreferrer">Evaldas Jablonskas on LinkedIn</a>
+- <a href="https://www.facebook.com/profile.php?id=61591523192102" target="_blank" rel="noopener noreferrer">Daugiabučio įgaliotinio užrašai on Facebook</a>
+- <a href="https://www.instagram.com/igaliotinio.uzrasai/" target="_blank" rel="noopener noreferrer">Daugiabučio įgaliotinio užrašai on Instagram</a>
+- <a href="https://www.youtube.com/@DaugiabucioIgaliotinioUzrasai" target="_blank" rel="noopener noreferrer">Daugiabučio įgaliotinio užrašai on YouTube</a>
+- <a href="https://x.com/igaliotinis_lt" target="_blank" rel="noopener noreferrer">Daugiabučio įgaliotinio užrašai on X</a>
+- <a href="https://www.tiktok.com/@igaliotiniouzrasai" target="_blank" rel="noopener noreferrer">Daugiabučio įgaliotinio užrašai on TikTok</a>
 
 ## Evaldas Jablonskas – Daugiabučio įgaliotinio užrašai
 
