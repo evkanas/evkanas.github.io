@@ -3,7 +3,7 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://evaldasjablonskas.lt/</loc>
-    <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <image:image>
       <image:loc>https://evaldasjablonskas.lt/evaldas-jablonskas-business-central-portfolio.png</image:loc>
     </image:image>
@@ -210,5 +210,9 @@
       <image:title>„CITUS Tyzenhauz“ – „rytojaus prestižas“ iki pirmo rimto lietaus?</image:title>
       <image:caption>Simbolinė DI iliustracija apie „CITUS Tyzenhauz“ reklamuojamą „rytojaus prestižą“ ir kontrastą su autoriaus patirtimi kitame „Citus“ projekte – vandeniu požeminiame parkinge, fasado pažeidimais ir garantinės priežiūros problemomis. Tai nėra dokumentinė „CITUS Tyzenhauz“ nuotrauka.</image:caption>
     </image:image>
+  </url>
+  <url>
+    <loc>https://evaldasjablonskas.lt/business-central-paslaugos/</loc>
+    <lastmod>2026-10-12</lastmod>
   </url>
 </urlset>

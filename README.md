@@ -1,8 +1,45 @@
-# Evaldas Jablonskas
+<style>
+/* This style is loaded only by the homepage. Container units exclude the scrollbar. */
+html { container-type: inline-size; }
+body { padding-top: 0; }
+.home-hero { box-sizing: border-box; width: 100cqw; margin: 0 0 32px calc(50% - 50cqw); padding: 56px 0; background: linear-gradient(125deg, #102b50, #12487a); color: #fff; }
+.home-hero-inner { box-sizing: border-box; max-width: 1100px; margin: 0 auto; padding: 0 24px; }
+.home-hero h1 { margin: 0 0 10px; font-size: clamp(2rem, 5vw, 2.8rem); line-height: 1.15; letter-spacing: -.025em; }
+.home-hero .home-specialization { margin: 0 0 16px; color: #92f2e6; font-size: 1.12rem; font-weight: 600; line-height: 1.45; }
+.home-hero .home-description { max-width: 760px; margin: 0 0 18px; color: #dceafb; }
+.home-hero .home-technologies { margin: 0 0 24px; color: #92f2e6; font-size: .95rem; font-weight: 600; }
+.home-hero .home-actions { display: flex; flex-wrap: wrap; gap: 12px; }
+.home-hero .home-button { display: inline-flex; align-items: center; justify-content: center; box-sizing: border-box; min-height: 46px; padding: 12px 22px; border-radius: 9px; font-weight: 800; text-decoration: none; line-height: 1.4; }
+.home-hero .home-button-primary { background: #00b99f; color: #062d33; border: 1px solid #00b99f; }
+.home-hero .home-button-secondary { color: #fff; border: 1px solid #8fb6d6; }
+.home-hero .home-button-primary:hover { background: #19ccb3; }
+.home-hero .home-button-secondary:hover { background: #254e77; }
+.home-hero .home-button:focus-visible { outline: 3px solid #b9e5ff; outline-offset: 4px; }
+@media (max-width: 530px) {
+  .home-hero { padding: 36px 0; }
+  .home-hero-inner { padding: 0 18px; }
+  .home-hero .home-specialization { font-size: 1rem; }
+  .home-hero .home-button { width: 100%; }
+}
+</style>
 
-Microsoft Dynamics 365 Business Central / NAV Developer with over 10 years of ERP development experience.
+<section class="home-hero" aria-labelledby="home-title">
+  <div class="home-hero-inner">
+  <h1 id="home-title">Evaldas Jablonskas</h1>
+  <p class="home-specialization">Microsoft Dynamics 365 Business Central / NAV (Navision) programuotojas</p>
+  <p class="home-description">Daugiau nei 10 metų ERP sistemų programavimo patirties. Individualūs Microsoft Dynamics 365 Business Central, Dynamics NAV (Navision) sprendimai, integracijos, ataskaitos ir verslo procesų automatizavimas.</p>
+  <p class="home-technologies">AL · C/AL · SQL Server · Integracijos · Ataskaitos</p>
+  <div class="home-actions">
+    <a class="home-button home-button-primary" href="/business-central-paslaugos/">Programavimo paslaugos</a>
+    <a class="home-button home-button-secondary" href="#selected-projects">Mano projektai</a>
+  </div>
+  </div>
+</section>
 
-![Evaldas Jablonskas – Microsoft Dynamics 365 Business Central / NAV Developer portfolio](evaldas-jablonskas-business-central-portfolio.png)
+## NAV / Business Central programavimo paslaugos
+
+**[Microsoft Dynamics NAV / Business Central programavimo paslaugos →](/business-central-paslaugos/)**  
+Daugiau nei 10 metų programavimo patirties: AL ir C/AL, integracijos, ataskaitos, procesų automatizavimas ir techninė priežiūra. [Susisiekite ir aptarkime užduotį](/business-central-paslaugos/#kontaktai).
 
 ## Selected Projects
 
