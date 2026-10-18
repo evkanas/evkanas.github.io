@@ -1,0 +1,62 @@
+---
+layout: default
+---
+<div class="product">
+  <a class="skip" href="#product-content">{{ page.labels.skip }}</a>
+  <header>
+    <div class="wrap">
+      <nav aria-label="{{ page.labels.navigation }}">
+        <a class="brand" href="/">Evaldas Jablonskas</a>
+        <div class="navlinks">
+          <a href="/business-central-paslaugos/">{{ page.labels.services }}</a>
+          <a href="#demonstration">{{ page.labels.demo }}</a>
+          <a href="#contact">{{ page.labels.contact }}</a>
+          <span class="languages" aria-label="{{ page.labels.language }}">
+            <a href="/bc-invoice-portal/" lang="en" hreflang="en"{% if page.lang == 'en' %} aria-current="page"{% endif %}>EN</a>
+            <span aria-hidden="true"> | </span>
+            <a href="/lt/bc-invoice-portal/" lang="lt" hreflang="lt"{% if page.lang == 'lt' %} aria-current="page"{% endif %}>LT</a>
+          </span>
+        </div>
+      </nav>
+    </div>
+  </header>
+  <div id="product-content">
+    <section class="hero" aria-labelledby="product-title">
+      <div class="wrap">
+        <div class="eyebrow">BC Invoice Portal</div>
+        <h1 id="product-title">{{ page.headline }}</h1>
+        <p>{{ page.hero_description }}</p>
+        <div class="buttons">
+          <a class="button primary" href="#demonstration">{{ page.labels.watch }}</a>
+          <a class="button outline" href="#contact">{{ page.labels.discuss }}</a>
+        </div>
+      </div>
+    </section>
+    <section class="white" id="demonstration" aria-labelledby="demo-title">
+      <div class="wrap">
+        <h2 id="demo-title">{{ page.labels.demo_title }}</h2>
+        <p class="intro">{{ page.video_description }}</p>
+        <div class="video">
+          <iframe src="https://www.youtube-nocookie.com/embed/{{ page.video_id }}?hl={{ page.lang }}" title="{{ page.video_title | escape }}" width="960" height="540" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>
+        </div>
+        <p><a href="https://www.youtube.com/watch?v={{ page.video_id }}">{{ page.labels.youtube }}</a></p>
+      </div>
+    </section>
+    {{ content }}
+    <section class="contact" id="contact" aria-labelledby="contact-title">
+      <div class="wrap">
+        <h2 id="contact-title">{{ page.labels.contact_title }}</h2>
+        <p>{{ page.contact_description }}</p>
+        <div class="contact-details">
+          <p>{{ page.labels.email }}: <a href="mailto:jablonskas@gmail.com">jablonskas@gmail.com</a></p>
+          <p>{{ page.labels.phone }}: <a href="tel:+37067207476">+370 672 07476</a></p>
+        </div>
+        <div class="buttons">
+          <a class="button primary" href="mailto:jablonskas@gmail.com">{{ page.labels.discuss }}</a>
+          <a class="button outline" href="https://www.linkedin.com/in/evaldas-jablonskas-5b45a794/">{{ page.labels.linkedin }}</a>
+        </div>
+      </div>
+    </section>
+  </div>
+  <footer><div class="wrap">Evaldas Jablonskas · <a href="/">{{ page.labels.home }}</a></div></footer>
+</div>

@@ -41,6 +41,12 @@ body { padding-top: 0; }
 **[Microsoft Dynamics NAV / Business Central programavimo paslaugos →](/business-central-paslaugos/)**  
 Daugiau nei 10 metų programavimo patirties: AL ir C/AL, integracijos, ataskaitos, procesų automatizavimas ir techninė priežiūra. [Susisiekite ir aptarkime užduotį](/business-central-paslaugos/#kontaktai).
 
+## BC Invoice Portal
+
+**[BC Invoice Portal – pardavimo sąskaitos per internetinį portalą →](/bc-invoice-portal/)**
+
+Mano sukurtas sprendimas leidžia darbuotojams kurti Business Central pardavimo sąskaitas neatidarant Business Central. Pirkėjai ir prekės pasirenkami iš BC, o sumas ir PVM apskaičiuoja Business Central. [Produkto pristatymas lietuviškai](/lt/bc-invoice-portal/).
+
 ## Selected Projects
 
 - [Lithuanian IBAN Bank Account Autofill](https://github.com/evkanas/business-central-lithuanian-iban-bank-account-autofill)  
