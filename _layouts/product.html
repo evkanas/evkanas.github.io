@@ -21,25 +21,27 @@ layout: default
     </div>
   </header>
   <div id="product-content">
-    <section class="hero" aria-labelledby="product-title">
-      <div class="wrap">
-        <div class="eyebrow">BC Invoice Portal</div>
-        <h1 id="product-title">{{ page.headline }}</h1>
-        <p>{{ page.hero_description }}</p>
-        <div class="buttons">
-          <a class="button primary" href="#demonstration">{{ page.labels.watch }}</a>
-          <a class="button outline" href="#contact">{{ page.labels.discuss }}</a>
+    <section class="product-hero" aria-labelledby="product-title">
+      <div class="wrap hero-grid">
+        <div class="hero-copy">
+          <p class="product-name">BC Invoice Portal</p>
+          <h1 id="product-title">{{ page.headline }}</h1>
+          <p class="hero-description">{{ page.hero_description }}</p>
+          <div class="buttons">
+            <a class="button primary" href="#contact">{{ page.labels.hero_contact }}</a>
+            <a class="button secondary" href="#workflow-title">{{ page.labels.workflow }}</a>
+          </div>
         </div>
-      </div>
-    </section>
-    <section class="white" id="demonstration" aria-labelledby="demo-title">
-      <div class="wrap">
-        <h2 id="demo-title">{{ page.labels.demo_title }}</h2>
-        <p class="intro">{{ page.video_description }}</p>
-        <div class="video">
-          <iframe src="https://www.youtube-nocookie.com/embed/{{ page.video_id }}?hl={{ page.lang }}" title="{{ page.video_title | escape }}" width="960" height="540" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>
-        </div>
-        <p><a href="https://www.youtube.com/watch?v={{ page.video_id }}">{{ page.labels.youtube }}</a></p>
+        <figure class="demonstration" id="demonstration" aria-labelledby="demo-title">
+          <div class="demo-heading">
+            <h2 id="demo-title">{{ page.labels.demo_title }}</h2>
+            <span class="demo-duration">1:54</span>
+          </div>
+          <div class="video">
+            <iframe src="https://www.youtube-nocookie.com/embed/{{ page.video_id }}?hl={{ page.lang }}" title="{{ page.video_title | escape }}" width="960" height="540" referrerpolicy="strict-origin-when-cross-origin" allow="encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>
+          </div>
+          <figcaption>{{ page.labels.demo_caption }}</figcaption>
+        </figure>
       </div>
     </section>
     {{ content }}
