@@ -8,7 +8,9 @@
   <link rel="canonical" href="{{ page.url | replace: 'index.html', '' | absolute_url }}">
 
   <script data-goatcounter="https://evkanas.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+  {% unless page.layout == 'product' %}
   <script src="https://www.paypal.com/sdk/js?client-id=BAAj5aGGYRqvHaqP8v4x-j71gN_R6t9pFsGHmdPLkUnRcGDZSGnkHyMsC4HF60Db83OqrQEVv3-7_yOeP4&components=hosted-buttons&disable-funding=venmo&currency=EUR"></script>
+  {% endunless %}
   
   <!-- Cloudflare Web Analytics -->
     <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "ffe9b4300040417bb084f44f05781727"}'></script>
@@ -207,6 +209,7 @@
       color: #0969da;
     }
   </style>
+  {% if page.layout == 'product' %}{% include product-head.html %}{% endif %}
 </head>
 <body>
   <main>

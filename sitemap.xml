@@ -3,7 +3,7 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://evaldasjablonskas.lt/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <image:image>
       <image:loc>https://evaldasjablonskas.lt/evaldas-jablonskas-business-central-portfolio.png</image:loc>
     </image:image>
@@ -213,6 +213,18 @@
   </url>
   <url>
     <loc>https://evaldasjablonskas.lt/business-central-paslaugos/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-18</lastmod>
+  </url>
+  <url>
+    <loc>https://evaldasjablonskas.lt/en/bc-invoice-portal/</loc>
+    <lastmod>2026-10-18</lastmod>
+  </url>
+  <url>
+    <loc>https://evaldasjablonskas.lt/lt/bc-invoice-portal/</loc>
+    <lastmod>2026-10-18</lastmod>
+  </url>
+  <url>
+    <loc>https://evaldasjablonskas.lt/en/business-central-services/</loc>
+    <lastmod>2026-10-18</lastmod>
   </url>
 </urlset>

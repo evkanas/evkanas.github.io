@@ -1,5 +1,6 @@
 ---
 layout: null
+lang: lt
 permalink: /business-central-paslaugos/
 ---
 <!doctype html>
@@ -11,6 +12,9 @@ permalink: /business-central-paslaugos/
     <title>Dynamics NAV (Navision) ir Business Central programuotojas | Evaldas Jablonskas</title>
     <meta name="description" content="Dynamics NAV (Navision) ir Business Central programuotojas įmonėms. Daugiau nei 10 metų patirties: sistemų priežiūra, klaidų taisymas, integracijos ir ataskaitos.">
     <link rel="canonical" href="https://evaldasjablonskas.lt/business-central-paslaugos/">
+    <link rel="alternate" hreflang="lt" href="https://evaldasjablonskas.lt/business-central-paslaugos/">
+    <link rel="alternate" hreflang="en" href="https://evaldasjablonskas.lt/en/business-central-services/">
+    <meta property="og:locale:alternate" content="en_US">
     <meta property="og:title" content="NAV ir Business Central programavimo paslaugos – Evaldas Jablonskas">
     <meta property="og:description" content="Daugiau nei 10 metų NAV / BC programavimo patirties. AL, C/AL, integracijos, ataskaitos ir procesų automatizavimas.">
     <meta property="og:url" content="https://evaldasjablonskas.lt/business-central-paslaugos/">
@@ -289,7 +293,16 @@ permalink: /business-central-paslaugos/
         scroll-behavior:auto;
       }
     }
+    .languages {
+      white-space:nowrap;
+    }
+    .navlinks .languages a[aria-current="page"] {
+      color:var(--dark);
+      text-decoration:underline;
+      text-underline-offset:5px;
+    }
     </style>
+    {% include services-hero-compact.html %}
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -338,6 +351,7 @@ permalink: /business-central-paslaugos/
             <a href="#projektai">Projektai</a>
             <a href="#kontaktai">Kontaktai</a>
             <a href="/">Pagrindinis puslapis ↗</a>
+            {% include language-switcher.html lt_url='/business-central-paslaugos/' en_url='/en/business-central-services/' label='Kalba' %}
           </div>
         </nav>
       </div>
@@ -398,6 +412,17 @@ permalink: /business-central-paslaugos/
               <h3>Esamų sistemų priežiūra</h3>
               <p>Senesnių Dynamics NAV (Navision) versijų ir Business Central On-Premises sistemų palaikymas: C/AL ir AL kodo koregavimas, klaidų taisymas ir funkcionalumo plėtra pagal sutartą darbų apimtį.</p>
             </article>
+          </div>
+        </div>
+      </section>
+      <section id="bc-invoice-portal">
+        <div class="wrap">
+          <h2>Mano sukurtas sprendimas – BC Invoice Portal</h2>
+          <p class="intro">Kurkite Business Central pardavimo sąskaitas per atskirą internetinį portalą. Darbuotojai pasirenka įmonę, pirkėją ir prekes, įveda kiekius, kainas bei nuolaidas, o Business Central apskaičiuoja sumas ir PVM.</p>
+          <div class="feature">
+            <strong>Patogus neužregistruotų pardavimo sąskaitų kūrimas ir valdymas.</strong>
+            <p>Tiesioginė Business Central Cloud integracija per standartines Microsoft API. Nereikia individualių AL plėtinių; būtina pradinė Microsoft Entra programos ir Business Central prieigos teisių sąranka.</p>
+            <a href="/lt/bc-invoice-portal/">Peržiūrėti BC Invoice Portal ir demonstraciją →</a>
           </div>
         </div>
       </section>
