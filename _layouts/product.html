@@ -8,14 +8,10 @@ layout: default
       <nav aria-label="{{ page.labels.navigation }}">
         <a class="brand" href="/">Evaldas Jablonskas</a>
         <div class="navlinks">
-          <a href="/business-central-paslaugos/">{{ page.labels.services }}</a>
+          <a href="{{ page.services_url | relative_url }}">{{ page.labels.services }}</a>
           <a href="#demonstration">{{ page.labels.demo }}</a>
           <a href="#contact">{{ page.labels.contact }}</a>
-          <span class="languages" aria-label="{{ page.labels.language }}">
-            <a href="/bc-invoice-portal/" lang="en" hreflang="en"{% if page.lang == 'en' %} aria-current="page"{% endif %}>EN</a>
-            <span aria-hidden="true"> | </span>
-            <a href="/lt/bc-invoice-portal/" lang="lt" hreflang="lt"{% if page.lang == 'lt' %} aria-current="page"{% endif %}>LT</a>
-          </span>
+          {% include language-switcher.html lt_url='/lt/bc-invoice-portal/' en_url='/en/bc-invoice-portal/' label=page.labels.language %}
         </div>
       </nav>
     </div>

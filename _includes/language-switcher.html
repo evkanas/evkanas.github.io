@@ -1,0 +1,5 @@
+<span class="languages" role="group" aria-label="{{ include.label | escape }}">
+  <a href="{{ include.lt_url | relative_url }}" lang="lt" hreflang="lt"{% if page.lang == 'lt' %} aria-current="page"{% endif %}>LT</a>
+  <span aria-hidden="true"> | </span>
+  <a href="{{ include.en_url | relative_url }}" lang="en" hreflang="en"{% if page.lang == 'en' %} aria-current="page"{% endif %}>EN</a>
+</span>
