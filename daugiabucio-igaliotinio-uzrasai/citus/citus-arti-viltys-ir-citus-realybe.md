@@ -229,7 +229,7 @@ Vizualizacija ekrane mirga tik kelias minutes. O su tuo, kas pagal ją pastatyta
       }
     </script>
     <div class="citus-revolut-slot">
-      <a class="citus-revolut-link" href="https://checkout.revolut.com/pay/86a57eb5-047a-44f5-b737-ba5f92c51a60" target="_blank" rel="noopener">Paremti per „Revolut“</a>
+      <a class="citus-revolut-link" href="https://checkout.revolut.com/pay/84017ee9-b910-4235-937d-cd01380c87ff" target="_blank" rel="noopener">Paremti per „Revolut“</a>
     </div>
   </div>
 </div>
