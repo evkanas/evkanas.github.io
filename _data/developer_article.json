@@ -1,0 +1,102 @@
+{
+  "en": {
+    "labels": {
+      "services": "Services",
+      "contact": "Discuss your task",
+      "language": "Language",
+      "home": "Home",
+      "draft": "Draft for review · Not published",
+      "by": "By Evaldas Jablonskas",
+      "compare": "NAV / BC services: two delivery models",
+      "traditional": "ERP services organisation",
+      "direct": "Direct collaboration",
+      "client": "Client",
+      "roles": [
+        "Client",
+        "Account Manager",
+        "Project Manager",
+        "Business Consultant",
+        "Team Lead",
+        "Developer"
+      ],
+      "independent": "Independent NAV / BC Developer",
+      "note": "Illustrative model. ERP company structures vary. Price and timing depend on the task.",
+      "facts": [
+        [
+          "Communication",
+          "5 handovers via 4 intermediaries",
+          "1 direct relationship"
+        ],
+        [
+          "Administrative overhead",
+          "Management and administration costs",
+          "Fewer intermediaries, less overhead"
+        ],
+        [
+          "Technical decisions",
+          "Coordinated across several roles",
+          "Directly with the developer"
+        ],
+        [
+          "Accountability",
+          "Shared across several roles",
+          "The developer owns the agreed result"
+        ]
+      ],
+      "portal": "Explore BC Invoice Portal →",
+      "caption": "Illustrative model – company structures may vary.",
+      "direct_work": "Requirements · Analysis · Technical advice · Design · Development · Testing · Ownership of the agreed result",
+      "cta": "Have a NAV or Business Central project? Let's discuss it directly."
+    }
+  },
+  "lt": {
+    "labels": {
+      "services": "Paslaugos",
+      "contact": "Aptarti užduotį",
+      "language": "Kalba",
+      "home": "Pradžia",
+      "draft": "Juodraštis peržiūrai · Nepublikuota",
+      "by": "Autorius – Evaldas Jablonskas",
+      "compare": "NAV / BC paslaugos: du darbo modeliai",
+      "traditional": "ERP paslaugų įmonė",
+      "direct": "Tiesioginis bendradarbiavimas",
+      "client": "Klientas",
+      "roles": [
+        "Klientas",
+        "Klientų vadybininkas",
+        "Projektų vadovas",
+        "Verslo konsultantas",
+        "Komandos vadovas",
+        "Programuotojas"
+      ],
+      "independent": "Nepriklausomas NAV / BC programuotojas",
+      "note": "Iliustracinis modelis. ERP įmonių struktūros skiriasi. Kaina ir terminai priklauso nuo užduoties.",
+      "facts": [
+        [
+          "Komunikacija",
+          "5 perdavimai per 4 tarpininkus",
+          "1 tiesioginis ryšys"
+        ],
+        [
+          "Administracinės sąnaudos",
+          "Valdymo ir administravimo išlaidos",
+          "Mažiau tarpininkų ir administravimo"
+        ],
+        [
+          "Techniniai sprendimai",
+          "Derinami per kelis specialistus",
+          "Tiesiogiai su programuotoju"
+        ],
+        [
+          "Atsakomybė už rezultatą",
+          "Paskirstyta keliems vaidmenims",
+          "Atsako sprendimą kuriantis žmogus"
+        ]
+      ],
+      "portal": "Peržiūrėti BC Invoice Portal →",
+      "caption": "Iliustracinis modelis – įmonių struktūros gali skirtis.",
+      "direct_work": "Poreikis · Analizė · Techninė konsultacija · Projektavimas · Programavimas · Testavimas · Atsakomybė už sutartą rezultatą",
+      "cta": "Turite NAV ar Business Central užduotį? Aptarkime ją tiesiogiai."
+    }
+  }
+}

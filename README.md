@@ -36,6 +36,12 @@ body { padding-top: 0; }
   </div>
 </section>
 
+<section lang="en" aria-labelledby="nav-bc-services-en">
+  <h2 id="nav-bc-services-en">NAV / Business Central Development Services</h2>
+  <p><strong><a href="/en/business-central-services/">Microsoft Dynamics NAV / Business Central Development Services →</a></strong><br>
+  More than 12 years of NAV / Business Central development experience: AL and C/AL, integrations, reporting, process automation and technical support. <a href="/en/business-central-services/#contact">Get in touch to discuss your requirements</a>.</p>
+</section>
+
 ## NAV / Business Central programavimo paslaugos
 
 **[Microsoft Dynamics NAV / Business Central programavimo paslaugos →](/business-central-paslaugos/)**  
@@ -79,6 +85,11 @@ Daugiau nei 10 metų programavimo patirties: AL ir C/AL, integracijos, ataskaito
 ## Technical Articles
 
 Technical notes and portfolio articles by **Evaldas Jablonskas** about Microsoft Dynamics 365 Business Central, Dynamics NAV, AL development, integrations, reporting, and process automation.
+
+- [Business Central paslaugos: už ką iš tikrųjų moka klientas?](/lt/independent-business-central-developer/)
+  ERP darbų modelių palyginimas: komunikacija, administracinės sąnaudos ir techninė atsakomybė.
+- [Business Central Services: What Are You Really Paying For?](/en/independent-business-central-developer/)
+  A comparison of ERP delivery models: communication, overhead and technical accountability.
 
 - [Business Central Lithuanian IBAN Bank Account Autofill – automatinis banko duomenų užpildymas pagal IBAN](https://evaldasjablonskas.lt/business-central-lithuanian-iban-bank-account-autofill/)  **Evaldo Jablonsko** portfolio straipsnis apie automatinį pirkėjų ir tiekėjų banko sąskaitų duomenų užpildymą pagal lietuviško IBAN banko kodą.
 - [Business Central ir OpenCart integracija – ERP ir e. prekybos automatizavimo koncepcija](/business-central-opencart-integration/) **Evaldo Jablonsko** portfolio straipsnis apie **Microsoft Dynamics 365 Business Central / NAV** ir **OpenCart** integraciją: prekes, variantus, likučius, kainas ir užsakymus.

@@ -1,0 +1,11 @@
+---
+layout: default
+---
+{% assign copy = site.data.developer_article[page.lang].labels %}
+<div class="developer-article">
+<a class="skip" href="#article-content">{% if page.lang == 'lt' %}Pereiti prie straipsnio{% else %}Skip to article{% endif %}</a>
+<header><nav><a class="brand" href="/">Evaldas Jablonskas</a><div class="navlinks"><a href="{{ page.services_url | relative_url }}">{{ copy.services }}</a><a href="#contact">{{ copy.contact }}</a>{% include language-switcher.html lt_url=page.lt_url en_url=page.en_url label=copy.language %}</div></nav></header>
+<article id="article-content"><div class="article-hero"><p class="eyebrow">NAV / BUSINESS CENTRAL{% if page.draft_review and jekyll.environment != 'production' %} · {{ copy.draft }}{% endif %}</p><h1>{{ page.headline }}</h1><p class="subtitle">{{ page.subtitle }}</p><p class="byline">{{ copy.by }}</p></div><div class="article-body">{{ content }}</div></article>
+<aside class="contact" id="contact"><h2>{{ copy.cta }}</h2><p>{% if page.lang == 'lt' %}Aprašykite problemą, naudojamą NAV / BC versiją ir norimą rezultatą.{% else %}Describe your task, NAV / BC version and the result you need.{% endif %}</p><a class="button" href="mailto:jablonskas@gmail.com">jablonskas@gmail.com</a><p><a href="tel:+37067207476">+370 672 07476</a></p></aside>
+<footer>Evaldas Jablonskas · <a href="{{ page.services_url | relative_url }}">{{ copy.services }}</a></footer>
+</div>

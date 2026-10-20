@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1500" viewBox="0 0 1200 1500" role="img">
+<title>NAV / BC paslaugos: du darbo modeliai</title>
+<desc>Iliustracinis palyginimas: kairėje – penki informacijos perdavimai per keturis tarpininkus, dešinėje – tiesioginis pokalbis su sprendimą kuriančiu programuotoju. Tai nėra visoms ERP įmonėms būdinga struktūra ar kainos ir terminų garantija.</desc>
+<rect x="0" y="0" width="1200" height="1500" fill="#f3f7fc" stroke="none"/>
+<rect x="0" y="0" width="1200" height="230" fill="#102b50" stroke="none"/>
+<text x="56" y="42.0" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#92f2e6">EVALDAS JABLONSKAS · NAV / BC</text>
+<text x="56" y="94.0" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#ffffff">NAV / BC paslaugos: du darbo modeliai</text>
+<rect x="56" y="270" width="522" height="630" fill="#ffffff" stroke="#dbe5f0"/>
+<text x="80" y="296.0" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="27" font-weight="700" fill="#102b50">ERP paslaugų įmonė</text>
+<rect x="622" y="270" width="522" height="630" fill="#ffffff" stroke="#dbe5f0"/>
+<text x="646" y="296.0" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="27" font-weight="700" fill="#102b50">Tiesioginis bendradarbiavimas</text>
+<rect x="622" y="270" width="522" height="7" fill="#00b99f" stroke="none"/>
+<rect x="80" y="370" width="474" height="54" fill="#f3f7fc" stroke="#c6d5e4"/>
+<text x="100" y="382.0" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#142a42">Klientas</text>
+<text x="303" y="422.0" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#52677d">↓</text>
+<rect x="80" y="446" width="474" height="54" fill="#f3f7fc" stroke="#c6d5e4"/>
+<text x="100" y="458.0" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#142a42">Klientų vadybininkas</text>
+<text x="303" y="498.0" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#52677d">↓</text>
+<rect x="80" y="522" width="474" height="54" fill="#f3f7fc" stroke="#c6d5e4"/>
+<text x="100" y="534.0" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#142a42">Projektų vadovas</text>
+<text x="303" y="574.0" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#52677d">↓</text>
+<rect x="80" y="598" width="474" height="54" fill="#f3f7fc" stroke="#c6d5e4"/>
+<text x="100" y="610.0" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#142a42">Verslo konsultantas</text>
+<text x="303" y="650.0" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#52677d">↓</text>
+<rect x="80" y="674" width="474" height="54" fill="#f3f7fc" stroke="#c6d5e4"/>
+<text x="100" y="686.0" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#142a42">Komandos vadovas</text>
+<text x="303" y="726.0" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#52677d">↓</text>
+<rect x="80" y="750" width="474" height="54" fill="#f3f7fc" stroke="#c6d5e4"/>
+<text x="100" y="762.0" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#142a42">Programuotojas</text>
+<rect x="646" y="383" width="474" height="64" fill="#e8fbf7" stroke="#86d5c9"/>
+<text x="670" y="400.0" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#142a42">Klientas</text>
+<text x="866" y="465.0" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="54" font-weight="400" fill="#12635b">↕</text>
+<rect x="646" y="554" width="474" height="96" fill="#e8fbf7" stroke="#86d5c9"/>
+<text x="670" y="569.0" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#142a42">Nepriklausomas NAV / BC</text>
+<text x="670" y="603.32" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#142a42">programuotojas</text>
+<text x="646" y="690.0" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#12635b">Analizuoja · Konsultuoja · Projektuoja</text>
+<text x="646" y="720.0" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#12635b">Programuoja · Testuoja · Atsako</text>
+<text x="80" y="845.0" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#52677d">5 perdavimai per 4 tarpininkus</text>
+<text x="646" y="845.0" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#12635b">1 tiesioginis ryšys</text>
+<rect x="56" y="930" width="1088" height="1" fill="#dbe5f0" stroke="none"/>
+<text x="80" y="940.0" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#52677d">ADMINISTRACINĖS SĄNAUDOS</text>
+<text x="80" y="972.0" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#142a42">Valdymo ir administravimo išlaidos</text>
+<text x="646" y="972.0" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#142a42">Mažiau tarpininkų ir administravimo</text>
+<rect x="56" y="1038" width="1088" height="1" fill="#dbe5f0" stroke="none"/>
+<text x="80" y="1048.0" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#52677d">TECHNINIAI SPRENDIMAI</text>
+<text x="80" y="1080.0" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#142a42">Derinami per kelis specialistus</text>
+<text x="646" y="1080.0" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#142a42">Tiesiogiai su programuotoju</text>
+<rect x="56" y="1146" width="1088" height="1" fill="#dbe5f0" stroke="none"/>
+<text x="80" y="1156.0" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#52677d">ATSAKOMYBĖ UŽ REZULTATĄ</text>
+<text x="80" y="1188.0" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#142a42">Paskirstyta keliems vaidmenims</text>
+<text x="646" y="1188.0" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#142a42">Atsako sprendimą kuriantis žmogus</text>
+<rect x="56" y="1284" width="1088" height="116" fill="#e5eef6" stroke="none"/>
+<text x="80" y="1302.0" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#142a42">Iliustracinis modelis. ERP įmonių struktūros skiriasi. Kaina ir terminai priklauso</text>
+<text x="80" y="1332.36" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#142a42">nuo užduoties.</text>
+<text x="56" y="1434.0" dominant-baseline="text-before-edge" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#102b50">evaldasjablonskas.lt  ·  jablonskas@gmail.com</text>
+</svg>

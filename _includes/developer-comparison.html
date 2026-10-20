@@ -1,0 +1,7 @@
+{% assign c = site.data.developer_article[page.lang].labels %}
+<figure class="comparison" aria-labelledby="comparison-title">
+<h2 id="comparison-title">{{ c.compare }}</h2>
+<div class="models"><div class="model"><h3>{{ c.traditional }}</h3><ol class="chain">{% for role in c.roles %}<li>{{ role }}</li>{% endfor %}</ol></div><div class="model direct"><h3>{{ c.direct }}</h3><div class="direct-chain"><p>{{ c.client }}</p><span aria-hidden="true">↕</span><p>{{ c.independent }}</p></div><p class="direct-work">{{ c.direct_work }}</p></div></div>
+<dl class="comparison-facts">{% for fact in c.facts %}<div><dt>{{ fact[0] }}</dt><dd><strong>{{ c.traditional }}:</strong> {{ fact[1] }}</dd><dd><strong>{{ c.direct }}:</strong> {{ fact[2] }}</dd></div>{% endfor %}</dl>
+
+</figure>
