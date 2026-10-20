@@ -210,6 +210,14 @@
     }
   </style>
   {% if page.layout == 'product' %}{% include product-head.html %}{% endif %}
+  {% if page.layout == 'developer-article' %}
+  <link rel="stylesheet" href="{{ '/assets/css/developer-article.css' | relative_url }}">
+  <link rel="alternate" hreflang="en" href="{{ page.en_url | absolute_url }}">
+  <link rel="alternate" hreflang="lt" href="{{ page.lt_url | absolute_url }}">
+  <link rel="alternate" hreflang="x-default" href="{{ page.en_url | absolute_url }}">
+  {% if page.lang == 'en' %}<meta property="og:locale" content="en_US">{% endif %}
+  <meta property="og:locale:alternate" content="{% if page.lang == 'en' %}lt_LT{% else %}en_US{% endif %}">
+  {% endif %}
 </head>
 <body>
   <main>

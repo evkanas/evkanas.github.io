@@ -80,6 +80,11 @@ Daugiau nei 10 metų programavimo patirties: AL ir C/AL, integracijos, ataskaito
 
 Technical notes and portfolio articles by **Evaldas Jablonskas** about Microsoft Dynamics 365 Business Central, Dynamics NAV, AL development, integrations, reporting, and process automation.
 
+- [Business Central paslaugos: už ką iš tikrųjų moka klientas?](/lt/independent-business-central-developer/)
+  ERP darbų modelių palyginimas: komunikacija, administracinės sąnaudos ir techninė atsakomybė.
+- [Business Central Services: What Are You Really Paying For?](/en/independent-business-central-developer/)
+  A comparison of ERP delivery models: communication, overhead and technical accountability.
+
 - [Business Central Lithuanian IBAN Bank Account Autofill – automatinis banko duomenų užpildymas pagal IBAN](https://evaldasjablonskas.lt/business-central-lithuanian-iban-bank-account-autofill/)  **Evaldo Jablonsko** portfolio straipsnis apie automatinį pirkėjų ir tiekėjų banko sąskaitų duomenų užpildymą pagal lietuviško IBAN banko kodą.
 - [Business Central ir OpenCart integracija – ERP ir e. prekybos automatizavimo koncepcija](/business-central-opencart-integration/) **Evaldo Jablonsko** portfolio straipsnis apie **Microsoft Dynamics 365 Business Central / NAV** ir **OpenCart** integraciją: prekes, variantus, likučius, kainas ir užsakymus.
 - [Evaldas Jablonskas – Business Central Finbite / Omniva Invoice Center Integration](/business-central-finbite-omniva-invoice-center-integration/)
