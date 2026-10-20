@@ -36,6 +36,12 @@ body { padding-top: 0; }
   </div>
 </section>
 
+<section lang="en" aria-labelledby="nav-bc-services-en">
+  <h2 id="nav-bc-services-en">NAV / Business Central Development Services</h2>
+  <p><strong><a href="/en/business-central-services/">Microsoft Dynamics NAV / Business Central Development Services →</a></strong><br>
+  More than 12 years of NAV / Business Central development experience: AL and C/AL, integrations, reporting, process automation and technical support. <a href="/en/business-central-services/#contact">Get in touch to discuss your requirements</a>.</p>
+</section>
+
 ## NAV / Business Central programavimo paslaugos
 
 **[Microsoft Dynamics NAV / Business Central programavimo paslaugos →](/business-central-paslaugos/)**  
