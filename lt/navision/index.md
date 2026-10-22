@@ -195,7 +195,7 @@ Dirbant tiesiogiai su programuotoju, techninius reikalavimus, sprendimo galimybe
 
 **Jeigu jūsų įmonė naudoja Navision ir reikia programavimo pagalbos, kviečiu susisiekti bei aptarti konkretų poreikį.**
 
-Daugiau informacijos: [Microsoft Dynamics NAV ir Business Central programavimo paslaugos](https://evaldasjablonskas.lt/lt/independent-business-central-developer/).
+Daugiau informacijos: [Microsoft Dynamics NAV ir Business Central programavimo paslaugos](/lt/independent-business-central-developer/).
 
 </section>
 

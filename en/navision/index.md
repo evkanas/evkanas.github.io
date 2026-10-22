@@ -195,7 +195,7 @@ Working directly with a developer allows technical requirements, solution option
 
 **If your company uses Navision and needs development support, feel free to contact me to discuss your requirements.**
 
-Learn more: [Independent Microsoft Dynamics NAV and Business Central Developer](https://evaldasjablonskas.lt/en/independent-business-central-developer/).
+Learn more: [Independent Microsoft Dynamics NAV and Business Central Developer](/en/independent-business-central-developer/).
 
 </section>
 
