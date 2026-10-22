@@ -47,3 +47,12 @@ Pridėdamas arba atnaujindamas straipsnį, pats patikrink ir pagal esamas projek
 
 - Naują straipsnį patikrink pagrindiniame projekto puslapyje README.md, ciklo puslapyje daugiabucio-igaliotinio-uzrasai/index.md ir kategorijos puslapyje. Jei straipsnis turi būti rodomas pagrindiniame puslapyje, pridėk jį į README.md pagal esamą nuorodos ir trumpo aprašymo formatą.
 - Po sitemap pakeitimų išparsink statinį sitemap.xml kaip XML ir patikrink, kad kiekvienas straipsnis būtų atskiras užbaigtas <url> įrašas.
+
+## Vidinės nuorodos ir veikiantis preview
+
+- Naujose ir keičiamose svetainės navigacijos bei straipsnių nuorodose į savo svetainės puslapius naudok kelią nuo šaknies, pvz., `/lt/navision/`, arba esamą `relative_url` mechanizmą. Tai taikoma ir iš pateiktų dokumentų perkeltoms vidinėms nuorodoms. Paspaudimas vietiniame preview turi išlaikyti vietinį domeną, production svetainėje – production domeną. Išimtis – aiškus vartotojo nurodymas visada vesti į production.
+- Canonical, Open Graph, Twitter, JSON-LD ir sitemap URL tikrink atskirai pagal esamas SEO taisykles; jų nekeisk į santykinius vien dėl vietinio preview.
+- Prieš skelbdamas nuorodas veikiančiomis, patikrink tikrame sugeneruotame HTML jų `href`, galutinį išsisprendusį adresą ir tikslinio puslapio HTTP būseną. Vien failo buvimo ar production nuorodos HTTP 200 neužtenka vietinei navigacijai patvirtinti. Dvikalbiuose puslapiuose patikrink abi kalbas.
+- Jei vartotojas pateikė veikiantį localhost adresą, rezultatą patikrink būtent tuo adresu. Atskiro patikros build rezultato nepateik kaip įrodymo, kad vartotojo preview jau atsinaujino.
+- Pakeitęs Jekyll konfigūraciją ar priklausomybes patikrink, ar veikiantis preview jas perskaitė. Jei reikia, pats perkrauk tik identifikuotą šio projekto preview procesą tuo pačiu adresu ir su aiškiu `--destination` už projekto šaltinių medžio; projekto `_site` neliesk. Jei to atlikti negali, aiškiai nurodyk, kad preview dar neatnaujintas.
+- Naujo straipsnio nuorodas patikrink ir tiesiogiai susijusiuose paslaugų puslapiuose, ne vien pagrindiniame puslapyje ar kituose straipsniuose. Išlaikyk esamą stilių ir nepridėk dubliuotų nuorodų.

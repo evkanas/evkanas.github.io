@@ -10,3 +10,7 @@ defaults:
       path: ""
     values:
       layout: default
+
+# Transliterate automatic heading IDs instead of dropping Lithuanian letters.
+kramdown:
+  transliterated_header_ids: true

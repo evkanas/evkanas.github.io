@@ -1,0 +1,47 @@
+{%- comment -%}
+Normalize Markdown heading IDs after conversion, using GitHub Pages-compatible
+Liquid. Reserve existing IDs before choosing suffixes so normalization cannot
+collide with a heading or another element. Keep same-page fragment links in sync.
+{%- endcomment -%}
+{%- assign normalized_html = include.html -%}
+{%- assign id_parts = include.html | split: ' id="' -%}
+{%- capture reserved_ids -%}|{%- for part in id_parts offset:1 -%}{{- part | split: '"' | first -}}|{%- endfor -%}{%- endcapture -%}
+{%- assign heading_parts = include.html | split: '<h' -%}
+{%- assign heading_levels = '1,2,3,4,5,6' | split: ',' -%}
+{%- for part in heading_parts offset:1 -%}
+  {%- assign level = part | slice: 0, 1 -%}
+  {%- assign boundary = part | slice: 1, 1 -%}
+  {%- if heading_levels contains level and boundary == ' ' -%}
+    {%- assign opening = part | split: '>' | first | prepend: '<h' | append: '>' -%}
+    {%- if opening contains ' id="' -%}
+      {%- assign old_id = opening | split: ' id="' | last | split: '"' | first -%}
+      {%- assign new_id = old_id | slugify -%}
+      {%- if new_id != empty and new_id != old_id -%}
+        {%- assign base_id = new_id -%}
+        {%- assign candidate = new_id | prepend: '|' | append: '|' -%}
+        {%- if reserved_ids contains candidate -%}
+          {%- for suffix in (1..id_parts.size) -%}
+            {%- assign new_id = base_id | append: '-' | append: suffix -%}
+            {%- assign candidate = new_id | prepend: '|' | append: '|' -%}
+            {%- unless reserved_ids contains candidate -%}{%- break -%}{%- endunless -%}
+          {%- endfor -%}
+        {%- endif -%}
+        {%- assign reserved_ids = reserved_ids | append: new_id | append: '|' -%}
+        {%- assign old_attribute = old_id | prepend: ' id="' | append: '"' -%}
+        {%- assign new_attribute = new_id | prepend: ' id="' | append: '"' -%}
+        {%- assign replacement = opening | replace: old_attribute, new_attribute -%}
+        {%- assign normalized_html = normalized_html | replace: opening, replacement -%}
+        {%- assign old_link = old_id | prepend: 'href="#' | append: '"' -%}
+        {%- assign new_link = new_id | prepend: 'href="#' | append: '"' -%}
+        {%- assign normalized_html = normalized_html | replace: old_link, new_link -%}
+        {%- assign old_link = old_id | prepend: "href='#" | append: "'" -%}
+        {%- assign new_link = new_id | prepend: "href='#" | append: "'" -%}
+        {%- assign normalized_html = normalized_html | replace: old_link, new_link -%}
+        {%- assign old_label = old_id | prepend: 'aria-labelledby="' | append: '"' -%}
+        {%- assign new_label = new_id | prepend: 'aria-labelledby="' | append: '"' -%}
+        {%- assign normalized_html = normalized_html | replace: old_label, new_label -%}
+      {%- endif -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor -%}
+{{- normalized_html -}}
