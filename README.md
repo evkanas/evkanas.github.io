@@ -86,6 +86,10 @@ Daugiau nei 10 metų programavimo patirties: AL ir C/AL, integracijos, ataskaito
 
 Technical notes and portfolio articles by **Evaldas Jablonskas** about Microsoft Dynamics 365 Business Central, Dynamics NAV, AL development, integrations, reporting, and process automation.
 
+- [Navision – Microsoft Dynamics NAV verslo valdymo sistema](/lt/navision/)
+  Navision funkcijos, NAV 2016 ir 2018, skirtumai nuo Business Central, programavimas ir integracijos.
+- [Navision – Microsoft Dynamics NAV ERP System](/en/navision/)
+  Navision features, NAV 2016 and 2018, Business Central differences, custom development and integrations.
 - [Business Central paslaugos: už ką iš tikrųjų moka klientas?](/lt/independent-business-central-developer/)
   ERP darbų modelių palyginimas: komunikacija, administracinės sąnaudos ir techninė atsakomybė.
 - [Business Central Services: What Are You Really Paying For?](/en/independent-business-central-developer/)
