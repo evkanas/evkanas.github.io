@@ -123,6 +123,8 @@ Although Business Central is the direct successor to Dynamics NAV, it is more th
 
 Migrating from Dynamics NAV to Business Central may require reviewing existing customizations, integrations, and data exchange processes.
 
+[Business Central – Microsoft Dynamics 365 ERP System →](/en/business-central/)
+
 </section>
 
 <section markdown="1">

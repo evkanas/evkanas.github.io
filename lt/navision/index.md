@@ -123,6 +123,8 @@ Nors Business Central yra tiesioginis Dynamics NAV tęsinys, tai nėra vien pava
 
 Perėjimas nuo Dynamics NAV prie Business Central gali pareikalauti peržiūrėti individualius programinius pakeitimus, integracijas ir naudojamus duomenų mainų mechanizmus.
 
+[Business Central – Microsoft Dynamics 365 verslo valdymo sistema →](/lt/business-central/)
+
 </section>
 
 <section markdown="1">
