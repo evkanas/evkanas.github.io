@@ -16,6 +16,48 @@ collide with a heading or another element. Keep same-page fragment links in sync
     {%- if opening contains ' id="' -%}
       {%- assign old_id = opening | split: ' id="' | last | split: '"' | first -%}
       {%- assign new_id = old_id | slugify -%}
+      {%- comment -%}
+      Kramdown drops Lithuanian letters in headings nested in Markdown-enabled
+      HTML. Recover only IDs matching that automatic output; leave authored IDs
+      and GFM's Unicode IDs alone. Jekyll's latin slugifier uses bundled I18n,
+      so this does not need stringex or a custom GitHub Pages plugin.
+      {%- endcomment -%}
+      {%- assign heading_text = part | split: '</h' | first | split: '>' | shift | join: '>' | strip_html | replace: '&amp;', '&' | replace: '&quot;', '"' | replace: '&#39;', "'" | replace: '&apos;', "'" | replace: '&lt;', '<' | replace: '&gt;', '>' | replace: '&nbsp;', ' ' | downcase -%}
+      {%- assign lt_letters = 'ąčęėįšųūž' | split: '' -%}
+      {%- assign recover_letters = false -%}
+      {%- for letter in lt_letters -%}
+        {%- if heading_text contains letter -%}{%- assign recover_letters = true -%}{%- endif -%}
+      {%- endfor -%}
+      {%- if recover_letters -%}
+        {%- assign ascii_letters = 'abcdefghijklmnopqrstuvwxyz' -%}
+        {%- assign ascii_characters = 'abcdefghijklmnopqrstuvwxyz0123456789 -' -%}
+        {%- assign raw_old_id = '' -%}
+        {%- assign raw_new_id = '' -%}
+        {%- assign characters = heading_text | split: '' -%}
+        {%- for character in characters -%}
+          {%- if raw_old_id != empty or ascii_letters contains character -%}
+            {%- if ascii_characters contains character -%}{%- assign raw_old_id = raw_old_id | append: character -%}{%- endif -%}
+          {%- endif -%}
+          {%- assign transliterated = character | slugify: 'latin' -%}
+          {%- if character == ' ' or character == '-' -%}{%- assign transliterated = character -%}{%- endif -%}
+          {%- if raw_new_id != empty or ascii_letters contains transliterated -%}
+            {%- assign raw_new_id = raw_new_id | append: transliterated -%}
+          {%- endif -%}
+        {%- endfor -%}
+        {%- assign automatic_id = raw_old_id | slugify -%}
+        {%- if automatic_id == empty -%}{%- assign automatic_id = 'section' -%}{%- endif -%}
+        {%- if automatic_id == new_id and automatic_id != empty -%}
+          {%- assign new_id = raw_new_id | slugify -%}
+        {%- else -%}
+          {%- for suffix in (1..heading_parts.size) -%}
+            {%- assign duplicate_id = automatic_id | append: '-' | append: suffix -%}
+            {%- if duplicate_id == new_id and automatic_id != empty -%}
+              {%- assign new_id = raw_new_id | slugify | append: '-' | append: suffix -%}
+              {%- break -%}
+            {%- endif -%}
+          {%- endfor -%}
+        {%- endif -%}
+      {%- endif -%}
       {%- if new_id != empty and new_id != old_id -%}
         {%- assign base_id = new_id -%}
         {%- assign candidate = new_id | prepend: '|' | append: '|' -%}
